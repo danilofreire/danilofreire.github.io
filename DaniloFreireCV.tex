@@ -1,0 +1,267 @@
+% LaTeX Curriculum Vitae Template
+%
+% Copyright (C) 2004-2009 Jason Blevins <jrblevin@sdf.lonestar.org>
+% http://jblevins.org/projects/cv-template/
+%
+% You may use use this document as a template to create your own CV
+% and you may redistribute the source code freely. No attribution is
+% required in any resulting documents. I do ask that you please leave
+% this notice and the above URL in the source code if you choose to
+% redistribute this file.
+
+\documentclass[a4paper]{article}
+\usepackage[T1]{fontenc}
+\usepackage{libertine}
+\usepackage[libertine]{newtxmath}
+\setmonofont[Scale=.85]{FiraCode-Regular.ttf}
+\usepackage{hyperref}
+\usepackage[left=1.0in,top=2.5cm,bottom=2.5cm]{geometry}
+\usepackage[usenames,dvipsnames]{xcolor}
+\definecolor{darkblue}{rgb}{0.0, 0.0, 0.55}
+\usepackage[UKenglish]{babel}
+\usepackage[UKenglish]{isodate}
+\exhyphenpenalty=10000
+\hyphenpenalty=10000
+\widowpenalty=10000
+\clubpenalty=10000
+
+% Set your name here
+\def\name{Danilo Freire}
+
+% Replace this with a link to your CV if you like, or set it empty
+% (as in \def\footerlink{}) to remove the link in the footer:
+\def\footerlink{http://danilofreire.github.io/DaniloFreireCV.pdf}
+
+% The following metadata will show up in the PDF properties
+\hypersetup{
+  colorlinks = true,
+  urlcolor = darkblue,
+  pdfauthor = {Danilo Freire},
+  pdfkeywords = {Postdoctoral Research Associate},
+  pdftitle = {Danilo Freire: Curriculum Vitae},
+  pdfsubject = {Curriculum Vitae},
+  pdfpagemode = UseNone
+}
+
+% Customise page headers
+\pagestyle{myheadings}
+\markright{Danilo Freire}
+\thispagestyle{empty}
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\Large}
+\subsectionfont{\rmfamily\mdseries\itshape\large}
+
+% Other possible font commands include:
+% \ttfamily for teletype,
+% \sffamily for sans serif,
+% \bfseries for bold,
+% \scshape for small caps,
+% \normalsize, \large, \Large, \LARGE sizes.
+
+% Don't indent paragraphs.
+\setlength\parindent{0em}
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
+
+\begin{document}
+
+% Place name at left
+{\huge \bf \name}
+
+% Alternatively, print name centred and bold:
+%\centerline{\huge \bf \name}
+
+\vspace{0.25in}
+
+\begin{minipage}{0.45\linewidth}
+	Political Theory Project \\
+	Brown University \\
+	Box 2005, 8 Fones Alley \\
+    Providence, RI 02912 
+\end{minipage}
+\begin{minipage}{0.45\linewidth}
+	\begin{tabular}{ll}
+	    Voice: & +1 (401) 584-2494 \\
+		Email:          & \href{mailto:danilofreire@brown.edu}{danilofreire@brown.edu}          \\
+		Homepage:       & \href{http://danilofreire.github.io/}{http://danilofreire.github.io/}             \\
+%		Google Scholar: & \href{http://bit.do/danilofreire}{http://bit.do/danilofreire}         \\
+		GitHub:         & \href{http://github.com/danilofreire}{http://github.com/danilofreire}
+	\end{tabular}
+\end{minipage}
+
+\section*{Academic Appointments}
+
+\begin{itemize}
+	\item Postdoctoral Research Fellow, Political Theory Project, Brown University, 2018--present.
+\end{itemize}
+
+\section*{Education}
+
+\begin{itemize}
+	\item PhD in Political Economy, King's College London, 2018.
+	\begin{itemize}
+	    \item Thesis: \textit{Essays on Political and Criminal Violence}. Thesis Committee: Gabriel Leon (King's College London), Toke Aidt (University of Cambridge) \& Graham Denyer Willis (University of Cambridge).
+	\end{itemize}
+	\item MA in International Relations, The Graduate Institute Geneva, 2014.
+	\item MA in Political Science, University of São Paulo, 2011.
+	\item BA in Social Sciences, University of São Paulo, 2007.
+\end{itemize}
+
+\section*{Research Interests}
+
+\begin{itemize}
+ 	\item Substantive: Political Violence, Informal Governance, Collective Action, Brazilian Politics % Update this
+ 	\item Methodological: Impact Evaluation, Survey Experiments, Meta Analysis, Computational Social Science 
+\end{itemize}
+
+
+\section*{Publications}
+
+\subsection*{Peer-Reviewed Articles}
+
+\begin{itemize}
+	\item \textbf{Freire, D.} \href{https://osf.io/se2jr}{Beasts of Prey or Rational Animals?: Private Governance in Brazil's \emph{Jogo do Bicho}}. Forthcoming in \textit{Latin American Perspectives}. Media coverage: \href{http://www.bbc.com/portuguese/brasil-40140693}{BBC Brazil}.
+	\item \textbf{Freire, D.} \href{https://larrlasa.org/articles/10.25222/larr.334/}{Evaluating the Effect of Homicide Prevention Strategies in São Paulo, Brazil: A Synthetic Control Approach}. \textit{Latin American Research Review}, 2018, 53(2), 231--249. \href{https://github.com/danilofreire/homicides-sp-synth}{Replication files}. Media coverage: \href{http://www.valor.com.br/cultura/5111524/sangue-no-asfalto}{Valor Econômico}.
+	\item McDonnell, R., \textbf{Freire, D.} \href{https://doi.org/10.21105/joss.00361}{prisonbrief: An R package that returns tidy data from the World Prison Brief website}. \textit{Journal of Open Source Software}, 2018, 3(22), 361. 
+	\item Arbache, G., \textbf{Freire, D.}, Rodrigues, P. \href{http://www.iapss.org/wp-content/uploads/2014/10/ELA1.1_2.Lack-of-Preferences-Political-Trust-and-Education-Levels.pdf}{Lack of Preferences, Political Trust and Education Levels: Alternative Explanations for Invalid Votes in Brazilian Elections}. \textit{Encuentro Latinoamericano}, 2015, 1(1), 29--50. \href{https://github.com/danilofreire/invalid-votes-brazil}{Replication files}.
+	\item \textbf{Freire, D.} \href{http://recyt.fecyt.es/index.php/recp/article/view/37638}{Between Ballot Boxes and Guns: The Competitiveness of the Executive Branch and Civil Wars, 1976-2000}. \textit{Revista Espa\~{n}ola de Ciencia Pol\'{i}tica}, 2014, 36, 33--60. \href{https://doi.org/10.7910/DVN/NSDUYG}{Replication files}.
+\end{itemize}
+
+\subsection*{Book Chapters}
+
+\begin{itemize}
+	\item Skarbek, D., \textbf{Freire, D.} \href{https://osf.io/kuqqx/}{Prison Gangs}. In: Griffin, Hayden; Woodward, Vanessa (ed.). \textit{Handbook of Corrections in the United States}. London: Routledge, 2017, 399--408.
+	\item \textbf{Freire, D.} \href{https://fnst.org/sites/default/files/uploads/2017/12/08/ngp.pdf}{A Nova Gest\~{a}o P\'{u}blica e a Qualidade da Democracia {[}The New Public Administration and the Quality of Democracy{]}}. In: Erkens, Rainer (ed.). \textit{Nova Gest\~{a}o P\'{u}blica}. S\~{a}o Paulo: Instituto Friedrich Naumann, 2010, 9--15.
+\end{itemize}
+
+\subsection*{Other Publications}
+
+\begin{itemize}
+	\item \textbf{Freire, D.} \href{https://thepoliticalmethodologist.files.wordpress.com/2016/02/tpm_v23_n1.pdf}{Peering at Open Peer Review}. \textit{The Political Methodologist}, 2015, 23 (1), 6--11.
+	\item \textbf{Freire, D.} \href{http://www.scielo.br/readcube/epdf.php?doi=10.1590/1981-38212015000300026&pid=S1981-38212015000300178&pdf_path=bpsr/v9n3/1981-3821-bpsr-9-3-0178.pdf&lang=en}{Book Review: Causal Inference, Shaolin-Style: `Mastering Metrics' by Joshua D. Angrist and J\"{o}rn-Steffen Pischke}. \textit{Brazilian Political Science Review}, 2015, 9 (3), 178--185.
+	\item \textbf{Freire, D.} \href{http://dx.doi.org/10.6084/m9.figshare.1209203}{Entering the Underworld: Prison Gang Recruitment in S\~{a}o Paulo's Primeiro Comando da Capital}. Geneva: Master's Degree Thesis in International Relations, The Graduate Institute of International and Development Studies, 2014, 97p.
+	\item \textbf{Freire, D.} \href{http://seer.bce.unb.br/index.php/MED/article/view/7505/6497}{Book Review: `Why Nations Fail' by Daron Acemoglu and James Robinson}. \textit{Meridiano47}, 2013, 14 (135).
+	\item \textbf{Freire, D.} \href{http://dx.doi.org/10.6084/m9.figshare.963082}{Entre Urnas e Armas: A Competitividade do Executivo e as Guerras Civis, 1976-2000 {[}Between Ballot Boxes and Guns: The Competitiveness of the Executive Branch and Civil Wars, 1976-2000{]}}. S\~{a}o Paulo: Master's Degree Thesis in Political Science, University of S\~{a}o Paulo, 2011, 204p. \href{http://dx.doi.org/10.6084/m9.figshare.963183}{Replication files}.
+\end{itemize}
+
+\subsection*{Working Papers}
+
+\begin{itemize}
+	\item \textbf{Freire, D.}, Mignozzetti, U., Skarbek, D. \href{https://osf.io/9a6ch}{Latin American Elites Favour Polycentric Governance in Climate Change Agreements}. Under review.
+    \item \textbf{Freire, D.}, Uzonyi, G. \href{https://osf.io/pzx3q}{What Drives State-Sponsored Violence? Evidence from Extreme Bounds Analysis and Ensemble Learning Methods}. Under review.
+    \item \textbf{Freire, D.}, Meadowcroft, J., Skarbek, D., Guerrero, E.  \href{https://osf.io/rm4y8/}{Deaths and Disappearances in the Pinochet Regime: A New Dataset}. 
+	%\item \textbf{Freire, D.}, Mignozzetti, U., Urdinez, F. Trade Dependence and Behaviour in International Organisations. 
+\end{itemize}
+
+\section*{Software}
+
+\begin{itemize}
+	\item McDonnell, R., Duarte, G, \textbf{Freire, D.} \href{https://cran.r-project.org/package=congressbr}{congressbr}. Downloads, unpacks and tidies Legislative data from the Brazilian Federal Senate and Chamber of Deputies.
+	\item McDonnell, R., \textbf{Freire, D.} \href{http://danilofreire.github.io/prisonbrief/}{prisonbrief}. R package that returns tidy data from the World Prison Brief website. 
+\end{itemize}
+
+\section*{Fellowships and Awards}
+
+\begin{itemize}
+    \item Research Grant, Konrad Adenauer Stiftung, 2018. Joint with D. Skarbek and U. Mignozzetti (US\$ 64,000).
+	\item Humane Studies Fellowship, Institute for Humane Studies, 2017--2018 (US\$ 5,000).
+	\item Hayek Fund for Scholars Award, Institute for Humane Studies, 2017 (US\$ 500).
+	\item Adam Smith Fellowship, Mercatus Center, George Mason University, 2017--2018 (US\$ 5,000).
+	\item Adam Smith Fellowship, Mercatus Center, George Mason University, 2016--2017 (US\$ 5,000).
+	\item PhD Scholarship, Institute for Humane Studies, 2016--2017 (US\$ 1,500).
+	\item Graduate School International Research Studentship, King's College London, 2015--2018.
+	\item CAPES--Brazilian Ministry of Education. Scholarship for PhD Studies Abroad (declined), 2015--2018.
+	\item MA Scholarship, Graduate Institute Geneva, 2012--2014.
+	\item CAPES--Brazilian Ministry of Education. Scholarship for MA Studies, 2009--2011.
+\end{itemize}
+
+\section*{Recent Presentations and Invited Talks}
+
+\begin{itemize}
+    \item \href{https://osf.io/9a6ch}{Latin American Elites Favour Polycentric Governance in Climate Change Agreements}. APSA Annual Meeting, Washington, DC, 2019.
+    \item \href{https://osf.io/9a6ch}{Latin American Elites Favour Polycentric Governance in Climate Change Agreements}. Annual Midwest Political Science Association Conference, Chicago, 2019.
+    \item \href{http://danilofreire.github.io/pcs-2019}{What Drives State-Sponsored Violence?: Evidence from Extreme Bounds Analysis and Ensemble Learning Methods}. Public Choice Society Annual Meeting, Louisville, 2019.
+    \item \href{https://www.overleaf.com/project/591ef5259fb58ede3dc4d369}{Three Ideas from the Vienna, Virginia, and Bloomington Schools of Political Economy}. \textit{Hayek Group Meeting}, Friedrich Naumann Stiftung f{\"u}r die Freiheit and Prometheus -- Das Freiheitsinstitut, Berlin, 2017.
+	\item \href{https://osf.io/se2jr}{Beasts of Prey or Rational Animals?: Private Governance in Brazil's \emph{Jogo do Bicho}}. VI Oxbridge Conference on Brazilian Studies, University of Cambridge, 2017.
+\end{itemize}
+
+\section*{Teaching}
+
+\begin{itemize}
+    \item Instructor, POLS 1600 -- Political Research Methods (Undergraduate). Brown University, 2019. Course website: \href{https://pols1600.github.io}{https://pols1600.github.io/}.
+	\item Module Convener, Political Economy and Institutions (Graduate, Online). Centro de Estudios Superiores Online de Madrid Manuel Ayau (OMMA) and Universidad Francisco Marroquín, 2017. Student evaluation: 5/5. Course materials: \href{https://github.com/danilofreire/economia-politica-instituicoes-ufm}{https://github.com/danilofreire/economia-politica-instituicoes-ufm}
+	\item Teaching Assistant, Principles of Economics II -- Macroeconomics (Undergraduate). Professor Konstantinos Matakos, King's College London, 2017. Course materials: \href{https://github.com/danilofreire/core-econ}{https://github.com/danilofreire/core-econ}
+	\item Teaching Assistant, Principles of Economics I -- Microeconomics (Undergraduate). Professor David Skarbek, King's College London, 2016. Course materials: \href{https://github.com/danilofreire/core-econ}{https://github.com/danilofreire/core-econ}
+\end{itemize}
+
+\section*{Skills}
+
+\subsection*{Software}
+
+\begin{itemize}
+	\item R, Stata, SPSS, Stan, JAGS, Atlas.ti, git, Jekyll, Markdown, \LaTeX{}.
+\end{itemize}
+
+\subsection*{Languages}
+
+\begin{itemize}
+	\item Portuguese (native), English (fluent), Spanish (fluent), German (beginner), French (beginner).
+\end{itemize}
+
+\section*{Selected Additional Training}
+
+\begin{itemize}
+    \item Transparent and Open Social Science Research, University of California, Berkeley, 2017. % https://www.futurelearn.com/certificates/al4bsct
+	\item European Field Experiments Summer School, University of Palermo, 2017.
+	\item Text Analysis Using R, London School of Economics, 2017.
+	\item Data Science Specialisation, John Hopkins University on Coursera, 2015.
+	\item Modern Regression Analysis, IPSA Summer School, 2012.
+	\item Mixed Methods Design, IPSA Summer School, 2011.
+	\item Policies for Growth, World Bank Institute, 2011.
+\end{itemize}
+
+\section*{Service}
+
+\begin{itemize}
+	\item Co-editor: Leviathan, University of S\~{a}o Paulo, 2012--2016.
+	\item Referee: Latin American Research Review, Leviathan, Politikon, Revista Española de Ciencia Política, The Social Science Journal.
+\end{itemize}
+
+\section*{Memberships}
+
+\begin{itemize}
+    \item American Economic Association
+    \item American Political Science Association
+    \item International Political Science Association
+    \item Society for Political Methodology
+\end{itemize}
+
+\section*{References}
+
+\begin{itemize}
+	\item David Skarbek. Associate Professor, Brown University. Email: \href{mailto:davidskarbek@gmail.com}{\texttt{david\_skarbek@brown.edu}}
+	\item Gabriel Leon. Lecturer, King's College London. Email: \href{mailto:gabriel.leon@kcl.ac.uk}{\texttt{gabriel.leon@kcl.ac.uk}}
+	\item John Meadowcroft. Lecturer, King's College London. Email: \href{mailto:john.meadowcroft@kcl.ac.uk}{\texttt{john.meadowcroft@kcl.ac.uk}}
+	\item Ravi Bhavnani. Professor, The Graduate Institute Geneva. Email: \href{mailto:ravi.bhavnani@graduateinstitute.ch}{\texttt{ravi.bhavnani@graduateinstitute.ch}}
+	\item Jo\~{a}o Paulo C\^{a}ndia Veiga. Assistant Professor, University of S\~{a}o Paulo. Email: \href{mailto:candia@usp.br}{\texttt{candia@usp.br}}
+\end{itemize}
+
+\bigskip
+
+% Footer
+\begin{center}
+	\begin{footnotesize}
+		Last updated: \today
+	\end{footnotesize}
+\end{center}
+
+\end{document}
