@@ -1,0 +1,254 @@
+---
+title: "Latin American Politics"
+author: "Danilo Freire"
+date: "Fall 2019"
+output:
+  pdf_document:
+    fig_caption: yes
+    latex_engine: pdflatex
+    template: ~/Documents/github/job-market-pack/syllabi/template.tex
+  word_document: default
+email: danilofreire@brown.edu
+fontfamily: libertine
+fontsize: 12pt
+geometry: margin=1in
+header-includes: \linespread{1.05}
+office: TBA
+officehours: TBA
+classroom: TBA
+classhours: TBA
+web: danilofreire.github.io
+---
+
+# Course Description
+
+The objective of this class is to provide a broad overview of the main questions on Latin America's political economy. Specifically, we will address some features of Latin American regimes, such as inequality, violence, economic development, and authoritarianism. We will also analyse how political systems foster or hinder economic growth, and the ways in which corruption, clientelism, and crime affect the welfare of Latin American citizens. Finally, we will discuss the rise of left-wing parties in the 2000s in the continent as well as its recent right turn.
+
+# Course Information
+
+It is very important that you read the assigned readings before class. Students are encouraged to engage in critical discussions and are most welcome to express their views openly and freely. I would suggest you to bring some notes to the class so that we can discuss together the topics you find most interesting. Although many of the readings use formal models or statistical methods to develop their arguments, no previous knowledge of game theory or quantitative methods is required. Feel free to skip the technical parts if they are too challenging and focus on the main ideas of the readings.
+
+All information about the course will be available at [http://danilofreire.github.io](http://danilofreire.github.io). The syllabus will be updated periodically according to the progress of the class. Please remember to visit the website regularly.
+
+# Office Hours
+
+I am very flexible when it comes to office hours, but it is easier to contact me via email. Feel free to send me a message any time at [danilofreire@brown.edu](mailto:danilofreire@brown.edu). I will probably reply in a few hours. You can also meet me in the afternoon at my office. My address is [8 Fones Alley, first floor, office 114](https://goo.gl/maps/8WhhyCNDHnw). If possible, please send me an email before coming to my office just to make sure two students will not book the same time slot.
+
+# Community Standards
+
+I am committed to full inclusion of all students. Please inform me early in the term if you have a disability or other conditions that might require accommodations or modification of any of these course procedures. You may speak with me after class or during office hours. Students in need of short-term academic advice or support can contact one of the deans in the Dean of the College office.
+
+# English Language Learners
+
+The university welcomes students from around the country and the world, and the unique perspectives international and multilingual students bring enrich the campus community. To empower multilingual learners, an array of support is available including language and culture workshops and individual appointments. No student will be penalised for their command of the English language.
+
+# Academic Integrity
+
+Students will write three review reports and a longer essay for this course. All writing should be your own work, and I take plagiarism very seriously. I am happy to provide any help you may require with your lessons as long as you are committed to the course. It is also important to cite other people's work whenever necessary, and if in doubt, mention your sources. 
+
+# Special Needs
+
+If you have any special needs, please contact me. I'm happy to make necessary arrangements so you can follow this course.
+
+# Requirements and Grading 
+
+**Participation: 15%.**  Students should be active participants in the course. Feel free to ask any question you may have, help others if you know how, and make suggestions or comments you believe are interesting. I hope we create a friendly, open environment for learning and students are the most important part of it.
+
+**Three Review Reports: 45%.**  The reviews should be 3-5 pages long. Imagine you are a reviewer for a good academic journal and think of how you could help the author improve the article. Are the arguments well-developed in the text? Is the research design plausible? What further examples could the author include to strenghten his/her arguments? Try to provide as much constructive criticism as possible. You don't need to summarise the paper, just critically engage with it. The essays are due at the beginning of the class and late assignments will not be eligible for an A. Each report will account for 15% of your grade.
+
+**Final Project: 40%.** In the final project, students will have the opportunity to write a longer essay about a topic that interests them. The essay should be related to the readings of the course, but you are particularly encouraged to explore new ideas and use new data to test their hypotheses. Students can work in groups of up to three people as most academic research is currently done collaboratively. By the second week of the course, students should submit a one-page summary of their future essay. The instructor and two colleagues will review the paper proposal and give the authors constructive feedback. Students will then write a full draft during the term. In the last week of the course, students will present their findings to the class and receive feedback from their colleagues. The final paper is due one week after that. 
+
+# Materials
+
+The book required for this class is:
+
+* Skidmore Thomas E., Peter  H. Smith and James N. Green (2014), [Modern Latin America](https://smile.amazon.com/Modern-Latin-America-Peter-Smith/dp/0190674652/ref=sr_1_1?keywords=Modern+Latin+America&qid=1569732045&sr=8-1), 8th edition, Oxford University Press: New York.
+
+# Schedule
+
+## Week 1: Introduction and Course Overview 
+
+There are no readings assigned for this class. I will discuss the papers and the main topics that we will study during the class. 
+
+## Week 2: Historical Overview
+
+### Required Readings
+
+* Skidmore Thomas E., Peter  H. Smith and James N. Green (2014), [Modern Latin America](https://smile.amazon.com/Modern-Latin-America-Peter-Smith/dp/0190674652/ref=sr_1_1?keywords=Modern+Latin+America&qid=1569732045&sr=8-1), 8th edition, Oxford University Press: New York. Chap. 1-2.
+* Hartlyn, Jonathan and Arturo Valenzuela (1994), [Democracy in Latin America since 1930](https://www.cambridge.org/core/books/latin-america/democracy-in-latin-america-since-1930/FB26AE907EDE6450B2769105CF3926DD), in Leslie Bethell (ed.), Latin America since 1930: Economy, Society and Politics, Cambridge University Press: New York.
+* Bertola, Luis and Jose Antonio Ocampo (2012), [The Economic Development of Latin America since Independence](https://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199662135.001.0001/acprof-9780199662135-chapter-1), Oxford University Press: New York. Chap. 1.
+
+### Recommended Readings
+
+* Drake, Paul W. (2009), [Between Tyranny and Anarchy: A History of Democracy in Latin America](https://www.sup.org/books/title/?id=16581), 1800-2006, Stanford University Press: Stanford. Chap. 2
+* Smith, Peter H. (2011), [Democracy in Latin America: Political Change in Comparative Perspective](https://smile.amazon.com/Democracy-Latin-America-Comparative-Perspective/dp/0195157591), Oxford University Press: New York. Chap. 1
+* Bulmer-Thomas, Victor (2004), [The Economic History of Latin America since Independence](https://www.cambridge.org/core/books/economic-history-of-latin-america-since-independence/latin-american-economic-development/B154DF3B26F6049B12F1C6BC66126D2B), Cambridge University Press: New York. Chap. 1.
+
+## Week 3: State-Building and Long-Run Development
+
+### Required Readings
+
+* Acemoglu, D. and J. Robinson (2013), [Why Nations Fail? The Origins of Power, Prosperity, and Poverty](http://www.whynationsfail.com). Crown Business. Preface, chapters 1-3.
+* Acemoglu, D., S. Johnson and J. Robinson (2005), [Institutions as a Fundamental Cause of Long Run Growth](http://economics.mit.edu/files/4469). In *Handbook of Economic Growth*, Vol. 1A. 
+* Sokoloff, K. L. and S. L. Engerman (2000). [Institutions, Factor Endowments, and Paths of Development in the New World](https://www.aeaweb.org/articles?id=10.1257/jep.14.3.217), Journal of Economic Perspectives 14:3, 217-232. 
+
+## Week 4: Dependency and Modernisation 
+
+### Required Readings
+
+* Acemoglu, D., Simon Johnson, James Robinson and Pierre Yared (2008), [Income and Democracy](https://www.aeaweb.org/articles?id=10.1257/aer.98.3.808), American Economic Review, 98:3: 808-842.
+* Acemoglu, D., Simon Johnson, James Robinson and Pierre  Yared (2009), [Reevaluating the Modernization Hypothesis](https://www.sciencedirect.com/science/article/abs/pii/S0304393209001299), Journal of Monetary Economics, 56:1043–1058.
+* Heller, P., Deitrich Rueschemeyer and Richard Snyder (2009), [Dependency and Development in a Globalized World: Looking Back and Forward](https://link.springer.com/article/10.1007/s12116-009-9055-y), Studies in Comparative International Development, 44.
+
+### Recommended Readings
+
+* Frank, A. (1986), [The Development of Underdevelopment](https://pdfs.semanticscholar.org/846c/1a98dc6b5aec1463fb570ab7037a2e95e126.pdf), in Peter K. Klaren and Thomas J. Bossert, (eds.), Promise of Development, Boulder, Westview Press, pp. 111-123.
+* Cardoso, Fernando H. and Enzo Faletto (1979), [Dependency and Development in Latin America](https://smile.amazon.com/Dependency-Development-America-Fernando-Henrique/dp/0520035275), Boulder: University of California Press.
+* Valenzuela, J. Samuel and Arturo Valenzuela (1978), [Modernization and Dependency: Alternative Perspectives in the Study of Latin American Underdevelopment](https://www.jstor.org/stable/421571?seq=1#metadata_info_tab_contents), Comparative Politics, 10:4, 535-557.
+
+## Week 5: Colonial Legacies
+
+### Required Readings
+
+* Acemoglu, D., Simon Johnson and James Robinson (2002), [Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution](https://academic.oup.com/qje/article-abstract/117/4/1231/1875948?redirectedFrom=fulltext), The Quarterly Journal of Economics,  117:1231-1294.
+* Acemoglu, D.,  Simon  Johnson  and  James Robinson (2001), [The Colonial Origins of Comparative Development: An Empirical Investigation](https://www.aeaweb.org/articles?id=10.1257/aer.91.5.1369), American Economic Review, 91(5), pp. 1369-1401.
+* Coatsworth, John H. (2008), [Inequality, Institutions, and Economic Growth in Latin America](https://www.jstor.org/stable/40056706#metadata_info_tab_contents), Journal of Latin American Studies, 40: 545-569.
+
+### Recommended Readings
+
+* Coatsworth, John H. (2005), “[Structures, Endowments, and Institutions in the Economic History of Latin America](https://www.jstor.org/stable/3662825?seq=1#metadata_info_tab_contents), Latin American Research Review, 40, 3, 2005: 126-144.
+* Dell, Melissa (2010), [The Persistent Effect of Peru’s Mining Mita](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA8121), Econometrica, 78(6), pp. 1863-1903
+
+## Week 6: Emerging Markets and States
+
+### Required Readings
+
+* Mazzuca, Sebastian and James Robinson (2009), [Political Conflict and Power Sharing in the Origins of Modern Colombia](https://scholar.harvard.edu/files/jrobinson/files/jr_colombia.pdf), Hispanic American Historical Review, 89(2): 285-321.
+* Safford, Frank (1992), [The Problem of Political Order in Early Republican Spanish America](https://www.jstor.org/stable/156947?seq=1#metadata_info_tab_contents), Journal of Latin American Studies, 24: 83-97
+* Centeno, Miguel Angel (1997), [Blood and Debt: War and Taxation in Nineteenth-Century Latin America](https://www.jstor.org/stable/10.1086/231127?seq=1#metadata_info_tab_contents), The American Journal of Sociology, 102, 6: 1565-1605.
+
+### Recommended Readings
+
+* Mahoney, James (2001), [Radical, Reformist and Aborted Liberalism: Origins of National Regimes in Central America](https://www.jstor.org/stable/3653684?seq=1#metadata_info_tab_contents), Journal of Latin American Studies, 33, 2, 221-256
+* Glade,William (1986), [Latin America and the International Economy, 1870–1914](https://www.cambridge.org/core/books/cambridge-history-of-latin-america/latin-america-and-the-international-economy-18701914/A3330A94EF49D8381F2BDDE5389EF661), in Leslie Bethell (ed.), Latin America since 1930: Economy, Society and Politics, Cambridge University Press: New York.
+* Katz,Friedrich (1991), [The Liberal Republic and the Porfiriato, 1867-1910](https://www.cambridge.org/core/books/mexico-since-independence/liberal-republic-and-the-porfiriato-18671910/BB2D367300B9AED89C61B2DC2F50B2CE), in Leslie Bethell, Ed.Mexico Since Independence, Cambridge University Press: New York.
+
+## Week 7: Theories on Democracy and Dictatorship 
+
+### Required Readings
+
+* Acemoglu, Daron and James A. Robinson (2006), [Economic Origins of Dictatorship and Democracy](https://smile.amazon.com/Economic-Origins-Dictatorship-Democracy-Acemoglu/dp/0521671426), Cambridge University Press: New York. Chaps. 1-3.
+* Lizzeri, Alessandro and Nicola Persico (2004) [Why did the Elites Extend the Suffrage? Democracy and the Scope of Government, with an Application to Britain’s 'Age of Reform'](http://qje.oxfordjournals.org/content/119/2/707.short). QJE 119 (2).
+* Llavador, Humberto, and Robert J. Oxoby (2005), [Partisan Competition, Growth, and the Franchise](https://academic.oup.com/qje/article-abstract/120/3/1155/1841475), Quarterly Journal of Economics, 120(3): 1155-1189.
+
+### Recommended Readings
+
+* Przeworski, Adam (1991), [Democracy and the Market: Political and Economic Reforms in Eastern Europe and Latin America](https://smile.amazon.com/Democracy-Market-Political-Economic-Rationality/dp/052142335X), Cambridge University Press: New York.
+
+## Week 8: The Rise of Populism and Incorporation of the Masses 
+
+### Required Readings
+
+* Skidmore Thomas E., Peter  H. Smith and James N. Green (2014), [Modern Latin America](https://smile.amazon.com/Modern-Latin-America-Peter-Smith/dp/0190674652/ref=sr_1_1?keywords=Modern+Latin+America&qid=1569732045&sr=8-1), 8th edition, Oxford University Press: New York, Chap. 3.
+* Hirschman, Albert O. (1968), [The Political Economy of Import-Substituting Industrialization in Latin America](https://www.jstor.org/stable/1882243?seq=1#metadata_info_tab_contents), The Quarterly Journal of Economics, 82, 1: 1-32
+* Chacon, Mario, James Robinson and Ragnar Torvik (2011), [When is Democracy an Equilibrium? Theory and Evidence from Colombia’s La Violencia”](https://www.jstor.org/stable/23049891?seq=1#metadata_info_tab_contents), Journal of Conflict Resolution, 55(3) pp. 366-396.
+
+### Recommended Readings
+
+* Baland, Jean-Marie., and James Robinson (2008), [Land and Power: Theory and Evidence from Chile](https://scholar.harvard.edu/files/jrobinson/files/jr_landandpower.pdf), American Economic  Review,98(5): 1737-65.
+* Bushnell, David (1993), [The Making of Modern Colombia: A Nation in Spite of Itself](https://smile.amazon.com/Making-Modern-Colombia-Nation-Itself/dp/0520082893), University of California Press, Chap. 8-9
+* Collier, Ruth Berins and David Collier (2002), [Shaping the Political Arena: Critical Junctures, the Labor Movement, and Regime Dynamics in Latin America](https://smile.amazon.com/Shaping-Political-Institute-Democracy-Development/dp/0268017727), Notre Dame University Press
+
+## Week 9: Insurgency and Revolutions
+
+### Required Readings
+
+* Wood, Elisabeth J. (2001), [An Insurgent Path to Democracy: Popular Mobilization, Economic Interests and Regime Transition in South Africa and El Salvador](https://journals.sagepub.com/doi/10.1177/0010414001034008002), Comparative Political Studies, 34(8), pp. 862-888.
+* Eckstein, S. (1986), [The Impact of the Cuban Revolution: A Comparative Perspective](https://www.jstor.org/stable/178861?seq=1#metadata_info_tab_contents), Comparative Studies in Society and History 28(3), 502-534.
+* Safford, Frank and Marco Palacios (2002), [Colombia: Fragmented Land, Divided Society](https://smile.amazon.com/Colombia-Fragmented-Divided-American-Histories/dp/019504617X),  Oxford University Press, Chap. 14.
+
+### Recommended Readings
+
+* Paige, Jeffery (1998), [Coffee and Power: Revolution and the Rise of Democracy in Central America](https://smile.amazon.com/Coffee-Power-Revolution-Democracy-Central/dp/0674136497), Harvard University Press: Cambridge
+* Leon, Juanita (2008), [Country of Bullets: Chronicles of War](https://smile.amazon.com/Country-Bullets-Chronicles-Juanita-Leon-ebook/dp/B005R33UR0/ref=sr_1_1?keywords=Country+of+Bullets%3A+Chronicles+of+War&qid=1569783310&s=books&sr=1-1), University of New Mexico Press.
+
+## Week 10: Breakdown of Democracy and Rise of Authoritarianism
+
+### Required Readings
+
+* Cohen, Youssef (1987), [Democracy from Above: The Political Origins of Military Dictatorship in Brazil](https://www.jstor.org/stable/2010193?seq=1#metadata_info_tab_contents), World Politics, 40(1): 30-54.
+* Kornbluh, Peter (2003) [The Pinochet File: A Declassified Dossier on Atrocity and Accountability](https://smile.amazon.com/Pinochet-File-Declassified-Atrocity-Accountability-ebook/dp/B00EXCAJAM), The New Press, Chap.1 (pp. 1-6); Chap.2.
+* Schamis, H.E. (1991), [Reconceptualizing Latin American Authoritarianism in the 1970s: From Bureaucratic Authoritarianism to Neoconservatism](https://www.jstor.org/stable/pdf/422361.pdf), Comparative Politics 23 no. 2 (January 1991), pp. 201-216. 
+
+### Recommended Readings
+
+* Linz, Juan J.and Alfred Stepan (Eds.) (1978), [The Breakdown of Democratic Regimes: Latin America](https://smile.amazon.com/Breakdown-Democratic-Regimes-Latin-America/dp/0801820235), Johns Hopkins University Press: Baltimore.
+* Stepan,Alfred (Ed.) (1973), [Authoritarian Brazil](https://smile.amazon.com/Authoritarian-Brazil-Origins-Policies-Future/dp/0300016220/ref=sr_1_1?keywords=Authoritarian+Brazil+stepan&qid=1569783513&s=books&sr=1-1), Yale University Press: New Haven.
+* Valenzuela, Arturo (1978), [The Breakdown of Democratic Regimes: Chile](https://smile.amazon.com/Breakdown-Democratic-Regimes-Chile/dp/0801820103/ref=sr_1_1?keywords=The+Breakdown+of+Democratic+Regimes%3A+Chile&qid=1569783536&s=books&sr=1-1), Johns Hopkins University Press: Baltimore.
+
+## Week 11: Democratisation 
+
+### Required Readings
+
+* Karl, Terry (1990), [Dilemmas of Democratization in Latin America](https://www.jstor.org/stable/422302?seq=1#metadata_info_tab_contents), Comparative Politics, 3(1):1-21.
+* O’Donnell, Guillermo (1999), [Notes for the Study of Processes of Political Democratization in the Wake of the Bureaucratic-Authoritarian State](https://scholar.harvard.edu/files/levitsky/files/counterpoints_odonell.pdf), in Counterpoints, University of Notre Dame Press.
+* Haggard, S., and Kaufman, R. (1997), [The Political Economy of Democratic Transitions](https://www.jstor.org/stable/422121?seq=1#metadata_info_tab_contents), Comparative Politics 29:3, 285-303. 
+
+### Recommended Readings
+
+* Hagopian,Frances (1990), [Democracy by Undemocratic Means: Elites, Political Pacts, and Regime Transition in Brazil](https://journals.sagepub.com/doi/abs/10.1177/0010414090023002001), Comparative Political Studies, 23(2):147-169.
+* Londregan, John (2000), [Legislative Institutions and Ideology in Chile](https://www.cambridge.org/core/books/legislative-institutions-and-ideology-in-chile/2B7486276138A9949FB9F2F978DB3D98), Cambridge University Press: New York
+* Hagopian, Frances and Scott Mainwaring, (Eds.) (2005) [The Third Wave of Democratization in Latin America: Advances and Setbacks](https://www.cambridge.org/core/books/third-wave-of-democratization-in-latin-america/C215ABA34B16065EF75A1717CDD1001E), Cambridge University Press: New York.
+
+## Week 12: Macroeconomic Crisis and Economic Reforms
+
+### Required Readings
+
+* Acemoglu, Daron, Simon Johnson,  James  Robinson  and  Yunyong  Thaicharoen. (2003), [Institutional Causes, Macroeconomic Symptoms: Volatility, Crises and Growth](https://www.sciencedirect.com/science/article/abs/pii/S0304393202002088), Journal of Monetary Economics, 50: 49-123.
+* Dornbusch, R., and Edwards, S. (1990), [Macroeconomic Populism](https://www.sciencedirect.com/science/article/abs/pii/030438789090038D), Journal of Development Economics 32:247-275. 
+* Acemoglu, Daron, Simon Johnson, Pablo Querubín and James A. Robinson (2008), [When Does Policy Reform Work? The Case of Central Bank Independence”](https://www.brookings.edu/wp-content/uploads/2008/03/2008a_bpea_acemoglu.pdf), in Brookings Papers on Economic Activity, Spring, pp. 351-417.
+
+### Recommended Readings
+
+* Pastor, M. (1991), [Bolivia: Hyperinflation, Stabilization, and Beyond](https://www.tandfonline.com/doi/abs/10.1080/00220389108422193?journalCode=fjds20), Journal of Development Studies 27(2): 211-233.
+* Roxborough, I. (1992), [Inflation and Social Pacts in Brazil and Mexico](https://www.cambridge.org/core/journals/journal-of-latin-american-studies/article/inflation-and-social-pacts-in-brazil-and-mexico/5F181507128753E0679A4FF769DF0383), Journal of Latin American Studies 24:639-664.
+* Green, Duncan (2003), [Silent Revolution: The Rise And Crisis Of Market Economics In Latin America](https://smile.amazon.com/Silent-Revolution-Crisis-Economics-America/dp/1583670912), Monthly Review Press.
+
+## Week 13: Dysfunctional and Weak States
+
+### Required Readings
+
+* O’Donnell, Guillermo (1993), [On the State, Democratization and some Conceptual Problems: A Latin American View with Glances at some Postcommunist Countries](https://www.sciencedirect.com/science/article/abs/pii/0305750X9390048E), World Development, 21(8): 1355-1369.
+* Mainwaring, Scott (2006), [The Crisis of Representation in the Andes](https://www.journalofdemocracy.org/articles/the-crisis-of-representation-in-the-andes/), Journal of Democracy, 17 (3):13-27.
+* Acemoglu, Daron,  James  Robinson  and  Rafael Santos (2013), [The  Monopoly of Violence:  Evidence from Colombia](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1542-4774.2012.01099.x),Journal of the European Economic Association, 11, pp. 5-44
+
+### Recommended Readings
+
+* Dell, Melissa (2011), [Trafficking Networks and the Mexican Drug War](https://www.aeaweb.org/articles?id=10.1257/aer.20121637), American Economic Review 105(6): 1738-1779.
+* Robinson, James (2013), [Colombia: Another 100 Years of Solitude?](https://scholar.harvard.edu/files/jrobinson/files/robinson-current_history.pdf), Current History, February.
+* Gibson, Edward (2005), [Boundary Control: Subnational Authoritarianism in Democratic Countries](https://www.cambridge.org/core/journals/world-politics/article/boundary-control-subnational-authoritarianism-in-democratic-countries/52ED7708A69F4F875C4BBC9B9EE913B6), World Politics, 58.
+* Von Hau, Matthias (2008), [State Infrastructural Power and Nationalism: Comparative Lessons from Mexico and Argentina](https://link.springer.com/article/10.1007/s12116-008-9024-x), Studies in International Comparative Development, 43(3/4).
+
+## Week 14: The Rise of Left Wing Parties in Latin America 
+
+### Required Readings
+
+* Pickup, M. (2019). [The Political Economy of the New Left](https://journals.sagepub.com/doi/full/10.1177/0094582X18803878), Latin American Perspectives, 46(1), 23-45.
+* Weyland, Kurt (2009), [The Rise of Latin America’s Two Lefts: Insights from Rentier State Theory](https://www.jstor.org/stable/40599207?seq=1#metadata_info_tab_contents), Comparative Politics,41(2): 145-164.
+* Mazzuca, Sebastian (2013) [The Rise of Rentier Populism](https://www.journalofdemocracy.org/articles/lessons-from-latin-america-the-rise-of-rentier-populism/), Journal of Democracy, 24(2),pp. 108-122.
+* Samuels, David (2004). [From Socialism to Social Democracy: Party Organization and the Transformation of the Workers' Party in Brazil](https://journals.sagepub.com/doi/10.1177/0010414004268856), Comparative Political Studies, 37(9).
+
+### Recommended Readings
+
+* Weyland, Kurt (2001), [Clarifying a Contested Concept: Populism in the Study of Latin American Politics](https://www.jstor.org/stable/pdf/422412.pdf), Comparative Politics,34(1): 1-22.
+* Levitsky, Steven and Kenneth M. Roberts, (Eds.) (2011) [The Resurgence of the Latin American Left](https://muse.jhu.edu/book/1866), Johns Hopkins University Press: Baltimore.
+* Edwards, Sebastian (2010), [Left Behind: Latin America and the False Premise of Populism](https://smile.amazon.com/Left-Behind-America-Promise-Populism/dp/022600466X), University of Chicago Press: Chicago.
+
+## Week 15: A New Shift to the Right? 
+
+### Required Readings
+
+- Grier, K., & Maynard, N. (2016). [The Economic Consequences of Hugo Chavez: A Synthetic Control Analysis](https://www.sciencedirect.com/science/article/pii/S0167268116000020), Journal of Economic Behavior & Organization, 125, 1-21.
+* Hunter, W., & Power, T. J. (2019). [Bolsonaro and Brazil's Illiberal Backlash](https://www.journalofdemocracy.org/articles/bolsonaro-and-brazils-illiberal-backlash/), Journal of Democracy, 30(1), 68-82.
+* Murillo, M. V., & Levitsky, S. (2019). [Partisan Realignment in Argentina](https://smile.amazon.com/Campaigns-Voters-Developing-Democracies-Comparative/dp/0472131281/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1569785010&sr=1-1), in Lupu, Noam, Virginia Oliveros and Luis Schiumerini, Campaigns and Voters in Developing Democracies: Argentina in Comparative Perspective, University of Michigan Press.
+
