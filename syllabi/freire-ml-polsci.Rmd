@@ -113,7 +113,7 @@ There are no required readings assigned for this class. Students will learn how 
 ### Required Readings
 
 * Blackwell, M., Honaker, J., & King, G. (2017). [A Unified Approach to Measurement Error and Missing Data: Overview and Applications](https://journals.sagepub.com/doi/full/10.1177/0049124115585360?casa_token=z7OKoMoPwkcAAAAA%3A3gz97dbJTFhpSPjiJOxHKXi3DtHvPavRMayrI5URv4t62NDJ0eo46SQ0QJRr0C7rica2XnvYgIHKgA), Sociological Methods & Research, 46(3), 303-341.
-* Kuhn, M., & Johnson, K. (2013). [Applied Predictive Modeling](http://appliedpredictivemodeling.com/), New York: Springer. Chapter 13.4, 18, and 19.
+* Kuhn, M., & Johnson, K. (2013). [Applied Predictive Modeling](http://appliedpredictivemodeling.com/), New York: Springer. Chapters 13.4, 18, and 19.
 
 ### Recommended Readings
 
@@ -138,7 +138,7 @@ There are no required readings assigned for this class. Students will learn how 
 
 ### Recommended Readings
 
-* Wager, S., & Athey, S. (2018). [Estimation and inference of heterogeneous treatment effects using random forests](https://www.tandfonline.com/doi/full/10.1080/01621459.2017.1319839), Journal of the American Statistical Association, 113(523), 1228-1242.
+* Wager, S., & Athey, S. (2018). [Estimation and Inference of Heterogeneous Treatment Effects Using Random Forests](https://www.tandfonline.com/doi/full/10.1080/01621459.2017.1319839), Journal of the American Statistical Association, 113(523), 1228-1242.
 * Jones, Z., & Linder, F. (2015, April). [Exploratory Data Analysis Using Random Forests](http://zmjones.com/static/papers/rfss_manuscript.pdf), In: Prepared for the 73rd annual MPSA conference.
 * Muchlinski, D., Siroky, D., He, J., & Kocher, M. (2016). [Comparing Random Forest with Logistic Regression for Predicting Class-Imbalanced Civil War Onset Data](https://www.cambridge.org/core/journals/political-analysis/article/comparing-random-forest-with-logistic-regression-for-predicting-classimbalanced-civil-war-onset-data/109E1511378A38BB4B41F721E6017FB1), Political Analysis, 24(1), 87-103.
 * Wang, Y. (2019). [Comparing Random Forest with Logistic Regression for Predicting Class-Imbalanced Civil War Onset Data: A Comment](https://www.cambridge.org/core/journals/political-analysis/article/comparing-random-forest-with-logistic-regression-for-predicting-classimbalanced-civil-war-onset-data-a-comment/B62CC1DA390C58435004D4C5D56DBF71), Political Analysis, 27(1), 107-110.
@@ -153,7 +153,7 @@ No readings assigned for this session.
 
 * Kuhn, M., & Johnson, K. (2013). [Applied Predictive Modeling](http://appliedpredictivemodeling.com/), New York: Springer. Chapter 4.
 * James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/), New York: Springer. Chapter 5.
-* Neunhoeffer, M., & Sternberg, S. (2019). How Cross-Validation Can Go Wrong and What To Do about It. Political Analysis, 27(1), 101-106.
+* Neunhoeffer, M., & Sternberg, S. (2019). [How Cross-Validation Can Go Wrong and What To Do about It](https://www.cambridge.org/core/journals/political-analysis/article/how-crossvalidation-can-go-wrong-and-what-to-do-about-it/CA8C4B470E27C99892AB978CE0A3AE29), Political Analysis, 27(1), 101-106.
 * Chawla, N. V., Bowyer, K. W., Hall, L. O., & Kegelmeyer, W. P. (2002). [SMOTE: Synthetic Minority Over-Sampling Technique](https://www.jair.org/index.php/jair/article/view/10302), Journal of artificial intelligence research, 16, 321-357.
 
 ### Recommended Readings
@@ -200,6 +200,6 @@ No readings assigned for this session.
 
 * Glymour, C., Zhang, K., & Spirtes, P. (2019). [Review of Causal Discovery Methods Based on Graphical Models](https://www.frontiersin.org/articles/10.3389/fgene.2019.00524/full), Frontiers in Genetics, 10.
 * Freire, D. (2019). Uncovering Causal Relations in Observational Data Using Machine Learning and Graphic Models. Working paper.
-* Kalisch, M., Mächler, M., Colombo, D., Hauser, A., Maathuis, M. H., & Bühlmann, P. (2014). [More Causal Inference with Graphical Models in R Package pcalg](https://cran.r-project.org/web/packages/pcalg/vignettes/pcalgDoc.pdf),
+* Kalisch, M., Mächler, M., Colombo, D., Hauser, A., Maathuis, M. H., & Bühlmann, P. (2014). [More Causal Inference with Graphical Models in R Package pcalg](https://cran.r-project.org/web/packages/pcalg/vignettes/pcalgDoc.pdf).
 
 ## Week 14: Final Project Presentations
