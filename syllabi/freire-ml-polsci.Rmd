@@ -82,7 +82,7 @@ There are no required readings assigned for this class. Students will learn how 
 * Jones, Z. M. (2013). [Git/GitHub, Transparency, and Legitimacy in Quantitative Research](https://thepoliticalmethodologist.com/2013/11/18/gitgithub-transparency-and-legitimacy-in-quantitative-research/), The Political Methodologist, 21(1), 6-7.
 * Rainey, C. (2019). [How I Use Git and GitHub for Political Science Research](https://github.com/carlislerainey/git-for-political-science/blob/master/git.md).
 
-## Week 2: Importing and Visualise Data 
+## Week 2: Importing and Visualising Data
 
 ### Required Readings
 
