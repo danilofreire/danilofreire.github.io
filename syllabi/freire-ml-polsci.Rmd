@@ -68,7 +68,6 @@ These books will help you further your understanding of the material:
 * James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/), New York: Springer.
 * Murphy, K. P. (2012). [Machine Learning: A Probabilistic Perspective](https://smile.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020/ref=sr_1_1?keywords=9780262304320&linkCode=qs&qid=1569868823&s=books&sr=1-1), Cambridge: MIT Press.
 * Bishop, C. M. (2006). [Pattern Recognition and Machine Learning](https://smile.amazon.com/Pattern-Recognition-Learning-Information-Statistics-ebook-dp-B07CMM4TWS/dp/B07CMM4TWS/ref=mt_kindle?_encoding=UTF8&me=&qid=), New York: Springer.
-* Wickham, H., & Grolemund, G. (2016). [R for Data Science: Import, Tidy, Transform, Visualize, and Model Data](https://r4ds.had.co.nz/), New York: O'Reilly Media, Inc.
 
 # Schedule
 
