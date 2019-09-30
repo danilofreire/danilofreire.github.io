@@ -1,0 +1,206 @@
+---
+title: "Machine Learning for Political Science"
+author: "Danilo Freire"
+date: "Fall 2019"
+output:
+  pdf_document:
+    fig_caption: yes
+    latex_engine: pdflatex
+    template: ~/Documents/github/danilofreire.github.io/syllabi/template.tex
+  word_document: default
+email: danilofreire@brown.edu
+fontfamily: libertine
+fontsize: 12pt
+geometry: margin=1in
+header-includes: \linespread{1.05}
+office: TBA
+officehours: TBA
+classroom: TBA
+classhours: TBA
+web: danilofreire.github.io
+---
+
+# Course Description
+
+This course is an overview of recent developments in the machine learning literature and their applications in political science. First, students will learn how to summarise and visualise data, create reproducible documents, and use version control software. Then we will discuss how to impute missing values and select features. After that, we will consider supervised learning methods, including OLS, generalised linear models for classification, support vector machines, decision trees, random forests, and gradient boosting. This will be followed by classes on unsupervised learning algorithms such as PCA and clustering. The fourth section of this course will cover deep learning and neural networks. Lastly, we will briefly discuss the recent developments in causal discovery methods.
+
+# Course Information
+
+The course prerequisites are basic probability and statistics, high-school linear algebra and introductory calculus. Some familiarity with computer programming also helps. The course will use [`R`](https://en.wikipedia.org/wiki/R_(programming_language)), an open source statistical language. `R` is the *de facto* standard language for quantitative analysis and is widely used by academics and firms like Google, Facebook and Amazon to gain insights from data. `R` has about 14,000 packages that extend its core functionalities and it is free to download, use or modify. Compared to Stata or SPSS, `R` has a steeper learning curve, but its power and flexibility greatly overweight the costs.
+
+It is very important that you read the assigned readings and do the problem sets before class. It is also necessary that you bring your laptop to every session. 
+
+All information about the course will be available at [http://danilofreire.github.io](http://danilofreire.github.io). The syllabus will be updated periodically according to the progress of the class. Please remember to visit the website regularly.
+
+# Office Hours
+
+I am very flexible when it comes to office hours, but it is easier to contact me via email. Feel free to send me a message any time at [danilofreire@brown.edu](mailto:danilofreire@brown.edu). I will probably reply in a few hours. You can also meet me in the afternoon at my office. My address is [8 Fones Alley, first floor, office 114](https://goo.gl/maps/8WhhyCNDHnw). If possible, please send me an email before coming to my office just to make sure two students will not book the same time slot.
+
+# Community Standards
+
+I am committed to full inclusion of all students. Please inform me early in the term if you have a disability or other conditions that might require accommodations or modification of any of these course procedures. You may speak with me after class or during office hours. Students in need of short-term academic advice or support can contact one of the deans in the Dean of the College office.
+
+# English Language Learners
+
+The university welcomes students from around the country and the world, and the unique perspectives international and multilingual students bring enrich the campus community. To empower multilingual learners, an array of support is available including language and culture workshops and individual appointments. No student will be penalised for their command of the English language.
+
+# Academic Integrity
+
+Students will write three review reports and a longer essay for this course. All writing should be your own work, and I take plagiarism very seriously. I am happy to provide any help you may require with your lessons as long as you are committed to the course. It is also important to cite other people's work whenever necessary, and if in doubt, mention your sources. 
+
+# Special Needs
+
+If you have any special needs, please contact me. I'm happy to make necessary arrangements so you can follow this course.
+
+# Requirements and Grading 
+
+**Participation: 10%.**  Students should be active participants in the course. Feel free to ask any question you may have, help others if you know how, and make suggestions or comments you believe are interesting. I hope we create a friendly, open environment for learning and students are the most important part of it.
+
+**Five Homework Assignments: 50%.** Students will have five homework assignments during the course, each of them covering a section of the syllabus. They will be based on writing up the results of performing the commands learned during the lectures.You will have to write them using `Rmarkdown` and send me a pdf file via email. 
+
+**Final Project: 40%.** In the final project, students will have the opportunity to apply the methods introduced in the course to address a problem relevant to political science or public policy. The goal of this exercise is to demonstrate that you have the ability to conduct research in computational social science. This research paper can be an individual or group project (up to 3 people). Students have to submit a research idea by the third week of the course, which will then be reviewed by other 2 colleagues. Then students will submit a five-page summary of their research after three weeks. After receiving further feedback from the instructor, students will write a first draft of their paper and present it to class. Lastly, students will hand-in a final project on the last day of the course. The papers should be about 4,000 words in length including tables and references but not including code.
+
+# Materials
+
+These books will help you further your understanding of the material:
+
+* Kuhn, M., & Johnson, K. (2013). [Applied Predictive Modeling](http://appliedpredictivemodeling.com/), New York: Springer.
+* James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/), New York: Springer.
+* Murphy, K. P. (2012). [Machine Learning: A Probabilistic Perspective](https://smile.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020/ref=sr_1_1?keywords=9780262304320&linkCode=qs&qid=1569868823&s=books&sr=1-1), Cambridge: MIT Press.
+* Bishop, C. M. (2006). [Pattern Recognition and Machine Learning](https://smile.amazon.com/Pattern-Recognition-Learning-Information-Statistics-ebook-dp-B07CMM4TWS/dp/B07CMM4TWS/ref=mt_kindle?_encoding=UTF8&me=&qid=), New York: Springer.
+* Wickham, H., & Grolemund, G. (2016). [R for Data Science: Import, Tidy, Transform, Visualize, and Model Data](https://r4ds.had.co.nz/), New York: O'Reilly Media, Inc.
+
+# Schedule
+
+## Week 1: Introduction and Course Overview 
+
+There are no required readings assigned for this class. Students will learn how to install `R` and use [GitHub](http://github.com) for version control.
+
+### Recommended Readings
+
+* Grimmer, J. (2015). [We Are All Social Scientists Now: How Big Data, Machine Learning, and Causal Inference Work Together](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/we-are-all-social-scientists-now-how-big-data-machine-learning-and-causal-inference-work-together/34F3B787525ED8289185C4CFB775376C), PS: Political Science & Politics, 48(1), 80-83.
+* Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K. (2017). [Good Enough Practices in Scientific Computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510), PLoS Computational Biology, 13(6), e1005510.
+* Jones, Z. M. (2013). [Git/GitHub, Transparency, and Legitimacy in Quantitative Research](https://thepoliticalmethodologist.com/2013/11/18/gitgithub-transparency-and-legitimacy-in-quantitative-research/), The Political Methodologist, 21(1), 6-7.
+* Rainey, C. (2019). [How I Use Git and GitHub for Political Science Research](https://github.com/carlislerainey/git-for-political-science/blob/master/git.md).
+
+## Week 2: Importing and Visualise Data 
+
+### Required Readings
+
+* Wickham, H., & Grolemund, G. (2016). [R for Data Science: Import, Tidy, Transform, Visualize, and Model Data](https://r4ds.had.co.nz/), New York: O'Reilly Media, Inc. Chapters 1-3. 
+* Soltoff, B. (2019). [The Grammar of Graphics](https://cfss.uchicago.edu/notes/grammar-of-graphics/), 
+
+### Recommended Readings
+
+* Healy, K. (2018). [Data Visualization: A Practical Introduction](https://socviz.co/), Princeton University Press.
+* Tufte, E. R. (2001). [The Visual Display of Quantitative Information](https://smile.amazon.com/Visual-Display-Quantitative-Information/dp/1930824130), Cheshire, CT: Graphics press.
+
+## Week 3: Introduction to Supervised Learning, Basic Model Selection. Linear Models for Regression
+
+### Required Readings
+
+* Kuhn, M., & Johnson, K. (2013). [Applied Predictive Modeling](http://appliedpredictivemodeling.com/), New York: Springer. Chapters 3 and 6. 
+* James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/), New York: Springer. Chapter 3 and 7. 
+
+## Week 4: Linear Models for Classification. Preprocessing and Feature Engineering
+
+### Required Readings
+
+* Kuhn, M., & Johnson, K. (2013). [Applied Predictive Modeling](http://appliedpredictivemodeling.com/), New York: Springer. Chapters 11 and 12.
+* James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/), New York: Springer. Chapter 4.
+
+## Week 5: Imputation and Feature Selection
+
+### Required Readings
+
+* Blackwell, M., Honaker, J., & King, G. (2017). [A Unified Approach to Measurement Error and Missing Data: Overview and Applications](https://journals.sagepub.com/doi/full/10.1177/0049124115585360?casa_token=z7OKoMoPwkcAAAAA%3A3gz97dbJTFhpSPjiJOxHKXi3DtHvPavRMayrI5URv4t62NDJ0eo46SQ0QJRr0C7rica2XnvYgIHKgA), Sociological Methods & Research, 46(3), 303-341.
+* Kuhn, M., & Johnson, K. (2013). [Applied Predictive Modeling](http://appliedpredictivemodeling.com/), New York: Springer. Chapter 13.4, 18, and 19.
+
+### Recommended Readings
+
+* Pepinsky, T. B. (2018). [A Note on Listwise Deletion Versus Multiple Imputation](https://www.cambridge.org/core/journals/political-analysis/article/note-on-listwise-deletion-versus-multiple-imputation/39DE56539189423F6C985B3B9EBF7E56), Political Analysis, 26(4), 480-488.
+* Stekhoven, D. J., & Bühlmann, P. (2011). [MissForest—Non-Parametric Missing Value Imputation for Mixed-type Data](https://academic.oup.com/bioinformatics/article/28/1/112/219101), Bioinformatics, 28(1), 112-118.
+* Li, J., Cheng, K., Wang, S., Morstatter, F., Trevino, R. P., Tang, J., & Liu, H. (2018). [Feature Selection: A Data Perspective](https://dl.acm.org/citation.cfm?id=3136625), ACM Computing Surveys (CSUR), 50(6), 94.
+
+## Week 6: Support Vector Machines
+
+### Required Readings 
+
+* Kuhn, M., & Johnson, K. (2013). [Applied Predictive Modeling](http://appliedpredictivemodeling.com/), New York: Springer. Chapter 7.
+* James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/), New York: Springer. Chapter 9.
+
+## Week 7: Decision Trees, Random Forests, and Gradient Boosting
+
+### Required Readings
+
+* Kuhn, M., & Johnson, K. (2013). [Applied Predictive Modeling](http://appliedpredictivemodeling.com/), New York: Springer. Chapters 8 and 14.
+* James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/), New York: Springer. Chapter 8.
+* Kaufman, A. R., Kraft, P., & Sen, M. (2019). [Improving Supreme Court Forecasting Using Boosted Decision Trees](https://www.cambridge.org/core/journals/political-analysis/article/improving-supreme-court-forecasting-using-boosted-decision-trees/166AA006B8DA7C87F1B17291B0BB8B63), Political Analysis, 27(3), 381-387.
+
+### Recommended Readings
+
+* Wager, S., & Athey, S. (2018). [Estimation and inference of heterogeneous treatment effects using random forests](https://www.tandfonline.com/doi/full/10.1080/01621459.2017.1319839), Journal of the American Statistical Association, 113(523), 1228-1242.
+* Jones, Z., & Linder, F. (2015, April). [Exploratory Data Analysis Using Random Forests](http://zmjones.com/static/papers/rfss_manuscript.pdf), In: Prepared for the 73rd annual MPSA conference.
+* Muchlinski, D., Siroky, D., He, J., & Kocher, M. (2016). [Comparing Random Forest with Logistic Regression for Predicting Class-Imbalanced Civil War Onset Data](https://www.cambridge.org/core/journals/political-analysis/article/comparing-random-forest-with-logistic-regression-for-predicting-classimbalanced-civil-war-onset-data/109E1511378A38BB4B41F721E6017FB1), Political Analysis, 24(1), 87-103.
+* Wang, Y. (2019). [Comparing Random Forest with Logistic Regression for Predicting Class-Imbalanced Civil War Onset Data: A Comment](https://www.cambridge.org/core/journals/political-analysis/article/comparing-random-forest-with-logistic-regression-for-predicting-classimbalanced-civil-war-onset-data-a-comment/B62CC1DA390C58435004D4C5D56DBF71), Political Analysis, 27(1), 107-110.
+
+## Week 7: Discussion of Final Projects
+
+No readings assigned for this session.
+
+## Week 8: Model Evaluation and Imbalanced Datasets
+
+### Required Readings
+
+* Kuhn, M., & Johnson, K. (2013). [Applied Predictive Modeling](http://appliedpredictivemodeling.com/), New York: Springer. Chapter 4.
+* James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/), New York: Springer. Chapter 5.
+* Neunhoeffer, M., & Sternberg, S. (2019). How Cross-Validation Can Go Wrong and What To Do about It. Political Analysis, 27(1), 101-106.
+* Chawla, N. V., Bowyer, K. W., Hall, L. O., & Kegelmeyer, W. P. (2002). [SMOTE: Synthetic Minority Over-Sampling Technique](https://www.jair.org/index.php/jair/article/view/10302), Journal of artificial intelligence research, 16, 321-357.
+
+### Recommended Readings
+
+* Haixiang, G., Yijing, L., Shang, J., Mingyun, G., Yuanyue, H., & Bing, G. (2017). [Learning from Class-Imbalanced Data: Review of Methods and Applications](https://www.sciencedirect.com/science/article/pii/S0957417416307175), Expert Systems with Applications, 73, 220-239.
+
+## Week 9: Dimensionality Reduction using PCA, Clustering, and Manifold Learning
+
+### Required Readings
+
+* Kuhn, M., & Johnson, K. (2013). [Applied Predictive Modeling](http://appliedpredictivemodeling.com/), New York: Springer. Pages 35-40.
+* James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/), New York: Springer. Chapter 10.
+
+## Week 10: Working with Text as Data
+
+### Required Readings 
+
+* Silge, J., & Robinson, D. (2017). [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/), New York: O'Reilly Media, Inc. Chapters 1 to 7.
+* Blei, D. (2012). [Probabilistic Topic Models](https://cacm.acm.org/magazines/2012/4/147361-probabilistic-topic-models/fulltext), In Proceedings of the 17th ACM SIGKDD International Conference Tutorials. ACM.
+
+### Recommended Readings
+
+* Barberá et al (2019). [Automated Text Classification of News Articles: A Practical Guide](http://www.pablobarbera.com/static/text_practical_guide.pdf), Working paper.
+* Benoit, K., Conway, D., Lauderdale, B. E., Laver, M., & Mikhaylov, S. (2016). [Crowd-Sourced Text Analysis: Reproducible and Agile Production of Political Data](https://www.cambridge.org/core/journals/american-political-science-review/article/crowd-sourced-text-analysis-reproducible-and-agile-production-of-political-data/EC674A9384A19CFA357BC2B525461AC3), American Political Science Review, 110(2), 278-295. 
+* Robinson, D. (2016). [Text Analysis of Trump's Tweets Confirms He Writes Only the (Angrier) Android Half](http://varianceexplained.org/r/trump-tweets/).
+* Robinson, D. (2016). [Trump's Android and iPhone Tweets, One Year Later](http://varianceexplained.org/r/trump-followup/).
+ 
+## Week 11: Neural Networks, Convolutional Neural Networks for Image Classification
+
+### Required Readings 
+
+* Chollet, F., & Allaire, J. J. (2018). [Deep Learning with R](https://livebook.manning.com/book/deep-learning-with-r/about-this-book/3), New York: O'Reilly Media, Inc. Chapters, 1-3, 5.
+* RStudio Team (2019). [R Interface to Keras](https://keras.rstudio.com/).
+
+## Week 12: More on Neural Networks 
+
+### Required Readings 
+
+* Johnson, J. & Karpathy, A. (2019). [Stanford CNN Course Notes, Module 2](http://cs231n.github.io/),
+
+## Week 13: Introduction to Causal Discovery Algorithms
+
+### Required Readings 
+
+* Glymour, C., Zhang, K., & Spirtes, P. (2019). [Review of Causal Discovery Methods Based on Graphical Models](https://www.frontiersin.org/articles/10.3389/fgene.2019.00524/full), Frontiers in Genetics, 10.
+* Freire, D. (2019). Uncovering Causal Relations in Observational Data Using Machine Learning and Graphic Models. Working paper.
+* Kalisch, M., Mächler, M., Colombo, D., Hauser, A., Maathuis, M. H., & Bühlmann, P. (2014). [More Causal Inference with Graphical Models in R Package `pcalg`](https://cran.r-project.org/web/packages/pcalg/vignettes/pcalgDoc.pdf),
+
+## Week 14: Final Project Presentations
