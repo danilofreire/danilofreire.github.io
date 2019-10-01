@@ -22,7 +22,7 @@ web: danilofreire.github.io
 
 # Course Description
 
-This course is an overview of recent developments in the machine learning literature and their applications in political science. First, students will learn how to summarise and visualise data, create reproducible documents, and use version control software. Then, we will discuss how to impute missing values and select features. After that, we will consider supervised learning methods, including OLS, generalised linear models for classification, support vector machines, decision trees, random forests, and gradient boosting. This will be followed by classes on unsupervised learning algorithms such as PCA and clustering. The fourth section of this course will cover deep learning and neural networks. Lastly, we will briefly discuss the recent developments in causal discovery methods.
+This course provides an overview of the recent developments in the machine learning literature and their applications in political science. First, students will learn how to summarise and visualise data, create reproducible documents, and use version control software. Then we will consider OLS for regression and generalised linear models for classification problems. Next, the course will discuss multiple imputation algorithms, feature engineering, and feature selection. This will be followed by classes on supervised learning covering support vector machines, decision trees, random forests, and gradient boosting. Unsupervised methods such as PCA, clustering, and manifold learning will be considered next. The following section of the course will cover deep learning and neural networks. Lastly, students will be introduced to causal discovery algorithms. 
 
 # Course Information
 
