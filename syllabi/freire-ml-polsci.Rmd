@@ -94,14 +94,14 @@ There are no required readings assigned for this class. Students will learn how 
 * Healy, K. (2018). [Data Visualization: A Practical Introduction](https://socviz.co/), Princeton University Press.
 * Tufte, E. R. (2001). [The Visual Display of Quantitative Information](https://smile.amazon.com/Visual-Display-Quantitative-Information/dp/1930824130), Cheshire, CT: Graphics press.
 
-## Week 3: Introduction to Supervised Learning, Basic Model Selection. Linear Models for Regression
+## Week 3: Introduction to Supervised Learning, Basic Model Selection, Linear Models for Regression
 
 ### Required Readings
 
 * Kuhn, M., & Johnson, K. (2013). [Applied Predictive Modeling](http://appliedpredictivemodeling.com/), New York: Springer. Chapters 3 and 6. 
 * James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/), New York: Springer. Chapter 3 and 7. 
 
-## Week 4: Linear Models for Classification. Preprocessing and Feature Engineering
+## Week 4: Linear Models for Classification, Preprocessing, and Feature Engineering
 
 ### Required Readings
 
@@ -143,11 +143,11 @@ There are no required readings assigned for this class. Students will learn how 
 * Muchlinski, D., Siroky, D., He, J., & Kocher, M. (2016). [Comparing Random Forest with Logistic Regression for Predicting Class-Imbalanced Civil War Onset Data](https://www.cambridge.org/core/journals/political-analysis/article/comparing-random-forest-with-logistic-regression-for-predicting-classimbalanced-civil-war-onset-data/109E1511378A38BB4B41F721E6017FB1), Political Analysis, 24(1), 87-103.
 * Wang, Y. (2019). [Comparing Random Forest with Logistic Regression for Predicting Class-Imbalanced Civil War Onset Data: A Comment](https://www.cambridge.org/core/journals/political-analysis/article/comparing-random-forest-with-logistic-regression-for-predicting-classimbalanced-civil-war-onset-data-a-comment/B62CC1DA390C58435004D4C5D56DBF71), Political Analysis, 27(1), 107-110.
 
-## Week 7: Discussion of Final Projects
+## Week 8: Discussion of Final Projects
 
 No readings assigned for this session.
 
-## Week 8: Model Evaluation and Imbalanced Datasets
+## Week 9: Model Evaluation and Imbalanced Datasets
 
 ### Required Readings
 
@@ -160,14 +160,14 @@ No readings assigned for this session.
 
 * Haixiang, G., Yijing, L., Shang, J., Mingyun, G., Yuanyue, H., & Bing, G. (2017). [Learning from Class-Imbalanced Data: Review of Methods and Applications](https://www.sciencedirect.com/science/article/pii/S0957417416307175), Expert Systems with Applications, 73, 220-239.
 
-## Week 9: Dimensionality Reduction using PCA, Clustering, and Manifold Learning
+## Week 10: Dimensionality Reduction using PCA, Clustering, and Manifold Learning
 
 ### Required Readings
 
 * Kuhn, M., & Johnson, K. (2013). [Applied Predictive Modeling](http://appliedpredictivemodeling.com/), New York: Springer. Pages 35-40.
 * James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/), New York: Springer. Chapter 10.
 
-## Week 10: Working with Text as Data
+## Week 11: Working with Text as Data
 
 ### Required Readings 
 
@@ -181,20 +181,20 @@ No readings assigned for this session.
 * Robinson, D. (2016). [Text Analysis of Trump's Tweets Confirms He Writes Only the (Angrier) Android Half](http://varianceexplained.org/r/trump-tweets/).
 * Robinson, D. (2016). [Trump's Android and iPhone Tweets, One Year Later](http://varianceexplained.org/r/trump-followup/).
  
-## Week 11: Neural Networks, Convolutional Neural Networks for Image Classification
+## Week 12: Neural Networks, Convolutional Neural Networks for Image Classification
 
 ### Required Readings 
 
 * Chollet, F., & Allaire, J. J. (2018). [Deep Learning with R](https://livebook.manning.com/book/deep-learning-with-r/about-this-book/3), New York: O'Reilly Media, Inc. Chapters 1-3, and 5.
 * RStudio Team (2019). [R Interface to Keras](https://keras.rstudio.com/).
 
-## Week 12: More on Neural Networks 
+## Week 13: More on Neural Networks 
 
 ### Required Readings 
 
 * Johnson, J. & Karpathy, A. (2019). [Stanford CNN Course Notes, Module 2](http://cs231n.github.io/).
 
-## Week 13: Introduction to Causal Discovery Algorithms
+## Week 14: Introduction to Causal Discovery Algorithms
 
 ### Required Readings 
 
@@ -202,4 +202,4 @@ No readings assigned for this session.
 * Freire, D. (2019). Uncovering Causal Relations in Observational Data Using Machine Learning and Graphical Models. Working paper.
 * Kalisch, M., Mächler, M., Colombo, D., Hauser, A., Maathuis, M. H., & Bühlmann, P. (2014). [More Causal Inference with Graphical Models in R Package pcalg](https://cran.r-project.org/web/packages/pcalg/vignettes/pcalgDoc.pdf).
 
-## Week 14: Final Project Presentations
+## Week 15: Final Project Presentations
