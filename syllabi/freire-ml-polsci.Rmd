@@ -66,8 +66,8 @@ These books will help you further your understanding of the material:
 
 * Kuhn, M., & Johnson, K. (2013). [Applied Predictive Modeling](http://appliedpredictivemodeling.com/), New York: Springer.
 * James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/), New York: Springer.
-* Murphy, K. P. (2012). [Machine Learning: A Probabilistic Perspective](https://smile.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020/ref=sr_1_1?keywords=9780262304320&linkCode=qs&qid=1569868823&s=books&sr=1-1), Cambridge: MIT Press.
 * Bishop, C. M. (2006). [Pattern Recognition and Machine Learning](https://smile.amazon.com/Pattern-Recognition-Learning-Information-Statistics-ebook-dp-B07CMM4TWS/dp/B07CMM4TWS/ref=mt_kindle?_encoding=UTF8&me=&qid=), New York: Springer.
+* Murphy, K. P. (2012). [Machine Learning: A Probabilistic Perspective](https://smile.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020/ref=sr_1_1?keywords=9780262304320&linkCode=qs&qid=1569868823&s=books&sr=1-1), Cambridge: MIT Press.
 
 # Schedule
 
@@ -78,6 +78,7 @@ There are no required readings assigned for this class. Students will learn how 
 ### Recommended Readings
 
 * Grimmer, J. (2015). [We Are All Social Scientists Now: How Big Data, Machine Learning, and Causal Inference Work Together](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/we-are-all-social-scientists-now-how-big-data-machine-learning-and-causal-inference-work-together/34F3B787525ED8289185C4CFB775376C), PS: Political Science & Politics, 48(1), 80-83.
+* Mullainathan, S., & Spiess, J. (2017). [Machine Learning: An Applied Econometric Approach](https://pubs.aeaweb.org/doi/pdf/10.1257/jep.31.2.87). Journal of Economic Perspectives, 31(2), 87-106.
 * Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K. (2017). [Good Enough Practices in Scientific Computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510), PLoS Computational Biology, 13(6), e1005510.
 * Jones, Z. M. (2013). [Git/GitHub, Transparency, and Legitimacy in Quantitative Research](https://thepoliticalmethodologist.com/2013/11/18/gitgithub-transparency-and-legitimacy-in-quantitative-research/), The Political Methodologist, 21(1), 6-7.
 * Rainey, C. (2019). [How I Use Git and GitHub for Political Science Research](https://github.com/carlislerainey/git-for-political-science/blob/master/git.md).
@@ -86,20 +87,27 @@ There are no required readings assigned for this class. Students will learn how 
 
 ### Required Readings
 
+* Grolemund, G. (2019). [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/). Chapters 1-4.
 * Wickham, H., & Grolemund, G. (2016). [R for Data Science: Import, Tidy, Transform, Visualize, and Model Data](https://r4ds.had.co.nz/), New York: O'Reilly Media, Inc. Chapters 1-3. 
 * Soltoff, B. (2019). [The Grammar of Graphics](https://cfss.uchicago.edu/notes/grammar-of-graphics/).
 
 ### Recommended Readings
 
+* Lantz, B. (2015). [Machine Learning with R](https://smile.amazon.com/Machine-Learning-R-Brett-Lantz-ebook/dp/B00G9581JM). Birmingham: Packt Publishing Ltd. Chapters 1 and 2.
 * Healy, K. (2018). [Data Visualization: A Practical Introduction](https://socviz.co/), Princeton University Press.
 * Tufte, E. R. (2001). [The Visual Display of Quantitative Information](https://smile.amazon.com/Visual-Display-Quantitative-Information/dp/1930824130), Cheshire, CT: Graphics press.
 
-## Week 3: Introduction to Supervised Learning, Basic Model Selection, Linear Models for Regression
+## Week 3: Introduction to Supervised Learning: Linear and Non-Linear Models for Regression 
 
 ### Required Readings
 
-* Kuhn, M., & Johnson, K. (2013). [Applied Predictive Modeling](http://appliedpredictivemodeling.com/), New York: Springer. Chapters 3 and 6. 
+* Kuhn, M., & Johnson, K. (2013). [Applied Predictive Modeling](http://appliedpredictivemodeling.com/), New York: Springer. Read 3.1-3.2, 3.5-3.8, and chapter 6. 
 * James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/), New York: Springer. Chapter 3 and 7. 
+
+### Recommended Readings
+
+* Bishop, C. M. (2006). [Pattern Recognition and Machine Learning](https://smile.amazon.com/Pattern-Recognition-Learning-Information-Statistics-ebook-dp-B07CMM4TWS/dp/B07CMM4TWS/ref=mt_kindle?_encoding=UTF8&me=&qid=), New York: Springer. Chapter 3.
+* Murphy, K. P. (2012). [Machine Learning: A Probabilistic Perspective](https://smile.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020/ref=sr_1_1?keywords=9780262304320&linkCode=qs&qid=1569868823&s=books&sr=1-1), Cambridge: MIT Press. Chapters 7 and 13.
 
 ## Week 4: Linear Models for Classification, Preprocessing, and Feature Engineering
 
@@ -108,12 +116,16 @@ There are no required readings assigned for this class. Students will learn how 
 * Kuhn, M., & Johnson, K. (2013). [Applied Predictive Modeling](http://appliedpredictivemodeling.com/), New York: Springer. Chapters 11 and 12.
 * James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/), New York: Springer. Chapter 4.
 
+### Recommended Readings
+
+* Bishop, C. M. (2006). [Pattern Recognition and Machine Learning](https://smile.amazon.com/Pattern-Recognition-Learning-Information-Statistics-ebook-dp-B07CMM4TWS/dp/B07CMM4TWS/ref=mt_kindle?_encoding=UTF8&me=&qid=), New York: Springer. Chapter 4.
+
 ## Week 5: Imputation and Feature Selection
 
 ### Required Readings
 
 * Blackwell, M., Honaker, J., & King, G. (2017). [A Unified Approach to Measurement Error and Missing Data: Overview and Applications](https://journals.sagepub.com/doi/full/10.1177/0049124115585360?casa_token=z7OKoMoPwkcAAAAA%3A3gz97dbJTFhpSPjiJOxHKXi3DtHvPavRMayrI5URv4t62NDJ0eo46SQ0QJRr0C7rica2XnvYgIHKgA), Sociological Methods & Research, 46(3), 303-341.
-* Kuhn, M., & Johnson, K. (2013). [Applied Predictive Modeling](http://appliedpredictivemodeling.com/), New York: Springer. Chapters 13.4, 18, and 19.
+* Kuhn, M., & Johnson, K. (2013). [Applied Predictive Modeling](http://appliedpredictivemodeling.com/), New York: Springer. Chapters 3.4, 18, and 19.
 
 ### Recommended Readings
 
@@ -128,6 +140,11 @@ There are no required readings assigned for this class. Students will learn how 
 * Kuhn, M., & Johnson, K. (2013). [Applied Predictive Modeling](http://appliedpredictivemodeling.com/), New York: Springer. Chapter 7.
 * James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/), New York: Springer. Chapter 9.
 
+### Recommended Readings
+
+* Burges, C. J. (1998). [A Tutorial on Support Vector Machines for Pattern Recognition](https://link.springer.com/article/10.1023/A:1009715923555). Data Mining and Knowledge Discovery, 2(2), 121-167.
+* Karatzoglou, A., Meyer, D., & Hornik, K. (2006). [Support Vector Machines in R](https://www.jstatsoft.org/index.php/jss/article/view/v015i09/v15i09.pdf). Journal of Statistical Software, 15(i09).
+
 ## Week 7: Decision Trees, Random Forests, and Gradient Boosting
 
 ### Required Readings
@@ -138,10 +155,8 @@ There are no required readings assigned for this class. Students will learn how 
 
 ### Recommended Readings
 
-* Jones, Z., & Linder, F. (2015, April). [Exploratory Data Analysis Using Random Forests](http://zmjones.com/static/papers/rfss_manuscript.pdf), In: Prepared for the 73rd annual MPSA conference.
+* Jones, Z., & Linder, F. (2015). [Exploratory Data Analysis Using Random Forests](http://zmjones.com/static/papers/rfss_manuscript.pdf), In: Prepared for the 73rd annual MPSA conference.
 * Wager, S., & Athey, S. (2018). [Estimation and Inference of Heterogeneous Treatment Effects Using Random Forests](https://www.tandfonline.com/doi/full/10.1080/01621459.2017.1319839), Journal of the American Statistical Association, 113(523), 1228-1242.
-* Muchlinski, D., Siroky, D., He, J., & Kocher, M. (2016). [Comparing Random Forest with Logistic Regression for Predicting Class-Imbalanced Civil War Onset Data](https://www.cambridge.org/core/journals/political-analysis/article/comparing-random-forest-with-logistic-regression-for-predicting-classimbalanced-civil-war-onset-data/109E1511378A38BB4B41F721E6017FB1), Political Analysis, 24(1), 87-103.
-* Wang, Y. (2019). [Comparing Random Forest with Logistic Regression for Predicting Class-Imbalanced Civil War Onset Data: A Comment](https://www.cambridge.org/core/journals/political-analysis/article/comparing-random-forest-with-logistic-regression-for-predicting-classimbalanced-civil-war-onset-data-a-comment/B62CC1DA390C58435004D4C5D56DBF71), Political Analysis, 27(1), 107-110.
 
 ## Week 8: Discussion of Final Projects
 
@@ -159,6 +174,8 @@ No readings assigned for this session.
 ### Recommended Readings
 
 * Haixiang, G., Yijing, L., Shang, J., Mingyun, G., Yuanyue, H., & Bing, G. (2017). [Learning from Class-Imbalanced Data: Review of Methods and Applications](https://www.sciencedirect.com/science/article/pii/S0957417416307175), Expert Systems with Applications, 73, 220-239.
+* Muchlinski, D., Siroky, D., He, J., & Kocher, M. (2016). [Comparing Random Forest with Logistic Regression for Predicting Class-Imbalanced Civil War Onset Data](https://www.cambridge.org/core/journals/political-analysis/article/comparing-random-forest-with-logistic-regression-for-predicting-classimbalanced-civil-war-onset-data/109E1511378A38BB4B41F721E6017FB1), Political Analysis, 24(1), 87-103.
+* Wang, Y. (2019). [Comparing Random Forest with Logistic Regression for Predicting Class-Imbalanced Civil War Onset Data: A Comment](https://www.cambridge.org/core/journals/political-analysis/article/comparing-random-forest-with-logistic-regression-for-predicting-classimbalanced-civil-war-onset-data-a-comment/B62CC1DA390C58435004D4C5D56DBF71), Political Analysis, 27(1), 107-110.
 
 ## Week 10: Dimensionality Reduction using PCA, Clustering, and Manifold Learning
 
@@ -166,6 +183,11 @@ No readings assigned for this session.
 
 * Kuhn, M., & Johnson, K. (2013). [Applied Predictive Modeling](http://appliedpredictivemodeling.com/), New York: Springer. Pages 35-40.
 * James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/), New York: Springer. Chapter 10.
+
+### Recommended Readings
+
+* Peng, R. (2016). [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/). Chapters 11-13.
+* Gatto, L. (2019). [An Introduction to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/unsupervised-learning.html). Chapter 4. 
 
 ## Week 11: Working with Text as Data
 
@@ -176,7 +198,7 @@ No readings assigned for this session.
 
 ### Recommended Readings
 
-* Barberá et al (2019). [Automated Text Classification of News Articles: A Practical Guide](http://www.pablobarbera.com/static/text_practical_guide.pdf), Working paper.
+* Barberá, P., Boydstun, A., Linn, S., Nagler, J. & McNahon, R. (2019). [Automated Text Classification of News Articles: A Practical Guide](http://www.pablobarbera.com/static/text_practical_guide.pdf), Working paper.
 * Benoit, K., Conway, D., Lauderdale, B. E., Laver, M., & Mikhaylov, S. (2016). [Crowd-Sourced Text Analysis: Reproducible and Agile Production of Political Data](https://www.cambridge.org/core/journals/american-political-science-review/article/crowd-sourced-text-analysis-reproducible-and-agile-production-of-political-data/EC674A9384A19CFA357BC2B525461AC3), American Political Science Review, 110(2), 278-295. 
 * Robinson, D. (2016). [Text Analysis of Trump's Tweets Confirms He Writes Only the (Angrier) Android Half](http://varianceexplained.org/r/trump-tweets/).
 * Robinson, D. (2016). [Trump's Android and iPhone Tweets, One Year Later](http://varianceexplained.org/r/trump-followup/).
@@ -193,6 +215,8 @@ No readings assigned for this session.
 ### Required Readings 
 
 * Johnson, J. & Karpathy, A. (2019). [Stanford CNN Course Notes, Module 2](http://cs231n.github.io/).
+* Jin, H., Song, Q., & Hu, X. (2019). [Auto-Keras: An Efficient Neural Architecture Search System](https://dl.acm.org/citation.cfm?id=3330648). In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, p.1946-1956. ACM.
+* R TensorFlow Team (2019). [Auto-Keras](https://github.com/r-tensorflow/autokeras).
 
 ## Week 14: Introduction to Causal Discovery Algorithms
 
