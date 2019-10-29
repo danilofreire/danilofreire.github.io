@@ -6,7 +6,7 @@ output:
   pdf_document:
     fig_caption: yes
     latex_engine: pdflatex
-    template: ~/Documents/GitHub/pols1824w/syllabus/template.tex
+    template: ~/Documents/GitHub/danilofreire.github.io/syllabi/template.tex
   word_document: default
 email: danilofreire@brown.edu
 fontfamily: libertine
