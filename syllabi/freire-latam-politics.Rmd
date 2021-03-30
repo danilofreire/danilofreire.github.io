@@ -62,7 +62,7 @@ If you have any special needs, please contact me. I'm happy to make necessary ar
 
 The book required for this class is:
 
-* Skidmore Thomas E., Peter  H. Smith and James N. Green (2014), [Modern Latin America](https://smile.amazon.com/Modern-Latin-America-Peter-Smith/dp/0190674652/ref=sr_1_1?keywords=Modern+Latin+America&qid=1569732045&sr=8-1), 8th edition, Oxford University Press: New York.
+* Skidmore T. E., Smith, P. E., and Green, J. N. (2014). [Modern Latin America](https://smile.amazon.com/Modern-Latin-America-Peter-Smith/dp/0190674652/ref=sr_1_1?keywords=Modern+Latin+America&qid=1569732045&sr=8-1). New York, NY: Oxford University Press, 8\textsuperscript{th} edition.
 
 # Schedule
 
@@ -74,181 +74,185 @@ There are no readings assigned for this class. I will discuss the papers and the
 
 ### Required Readings
 
-* Skidmore Thomas E., Peter  H. Smith and James N. Green (2014), [Modern Latin America](https://smile.amazon.com/Modern-Latin-America-Peter-Smith/dp/0190674652/ref=sr_1_1?keywords=Modern+Latin+America&qid=1569732045&sr=8-1), 8th edition, Oxford University Press: New York. Chap. 1-2.
-* Hartlyn, Jonathan and Arturo Valenzuela (1994), [Democracy in Latin America since 1930](https://www.cambridge.org/core/books/latin-america/democracy-in-latin-america-since-1930/FB26AE907EDE6450B2769105CF3926DD), in Leslie Bethell (ed.), Latin America since 1930: Economy, Society and Politics, Cambridge University Press: New York.
-* Bertola, Luis and Jose Antonio Ocampo (2012), [The Economic Development of Latin America since Independence](https://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199662135.001.0001/acprof-9780199662135-chapter-1), Oxford University Press: New York. Chap. 1.
+* Skidmore T. E., Smith, P. E., and Green, J. N. (2014). [Modern Latin America](https://smile.amazon.com/Modern-Latin-America-Peter-Smith/dp/0190674652/ref=sr_1_1?keywords=Modern+Latin+America&qid=1569732045&sr=8-1), New York, NY: Oxford University Press. Chapters 1-2.
+* Hartlyn, J. and Valenzuela, A. (1994). [Democracy in Latin America since 1930](https://www.cambridge.org/core/books/latin-america/democracy-in-latin-america-since-1930/FB26AE907EDE6450B2769105CF3926DD). In: Bethell, L. (ed.), _Latin America since 1930: Economy, Society and Politics_. New York, NY: Cambridge University Press.
+* Bertola, L. and Ocampo, J. A. (2012). [The Economic Development of Latin America since Independence](https://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199662135.001.0001/acprof-9780199662135-chapter-1). New York, NY: Oxford University Press. Chapter 1.
 
 ### Recommended Readings
 
-* Drake, Paul W. (2009), [Between Tyranny and Anarchy: A History of Democracy in Latin America](https://www.sup.org/books/title/?id=16581), 1800-2006, Stanford University Press: Stanford. Chap. 2
-* Smith, Peter H. (2011), [Democracy in Latin America: Political Change in Comparative Perspective](https://smile.amazon.com/Democracy-Latin-America-Comparative-Perspective/dp/0195157591), Oxford University Press: New York. Chap. 1
-* Bulmer-Thomas, Victor (2004), [The Economic History of Latin America since Independence](https://www.cambridge.org/core/books/economic-history-of-latin-america-since-independence/latin-american-economic-development/B154DF3B26F6049B12F1C6BC66126D2B), Cambridge University Press: New York. Chap. 1.
+* Drake, P. W. (2009). [Between Tyranny and Anarchy: A History of Democracy in Latin America, 1800-2006](https://www.sup.org/books/title/?id=16581). Stanford, CA: Stanford University Press. Chapter 2.
+* Smith, P. H. (2011). [Democracy in Latin America: Political Change in Comparative Perspective](https://smile.amazon.com/Democracy-Latin-America-Comparative-Perspective/dp/0195157591). New York, NY: Oxford University Press. Chapter 1.
+* Bulmer-Thomas, V. (2004). [The Economic History of Latin America since Independence](https://www.cambridge.org/core/books/economic-history-of-latin-america-since-independence/latin-american-economic-development/B154DF3B26F6049B12F1C6BC66126D2B). New York, NY: Cambridge University Press. Chapter 1.
 
 ## Week 3: State-Building and Long-Run Development
 
 ### Required Readings
 
-* Acemoglu, D. and J. Robinson (2013), [Why Nations Fail? The Origins of Power, Prosperity, and Poverty](http://www.whynationsfail.com). Crown Business. Preface, chapters 1-3.
-* Acemoglu, D., S. Johnson and J. Robinson (2005), [Institutions as a Fundamental Cause of Long Run Growth](http://economics.mit.edu/files/4469). In *Handbook of Economic Growth*, Vol. 1A. 
-* Sokoloff, K. L. and S. L. Engerman (2000). [Institutions, Factor Endowments, and Paths of Development in the New World](https://www.aeaweb.org/articles?id=10.1257/jep.14.3.217), Journal of Economic Perspectives 14:3, 217-232. 
+* Acemoglu, D. and Robinson, J. (2013). [Why Nations Fail? The Origins of Power, Prosperity, and Poverty](http://www.whynationsfail.com). New York, NY: Crown Business. Preface, chapters 1-3.
+* Acemoglu, D., Johnson, S., and Robinson, J. (2005), [Institutions as a Fundamental Cause of Long Run Growth](http://economics.mit.edu/files/4469). In: Aghion, P. and Durlauf, S. (eds.), _Handbook of Economic Growth_, Vol. 1A. Amsterdam: North Holland.
+* Sokoloff, K. L. and Engerman, S. L. (2000). [Institutions, Factor Endowments, and Paths of Development in the New World](https://www.aeaweb.org/articles?id=10.1257/jep.14.3.217). _Journal of Economic Perspectives_, 14(3), 217-232. 
 
 ## Week 4: Dependency and Modernisation 
 
 ### Required Readings
 
-* Acemoglu, D., Simon Johnson, James Robinson and Pierre Yared (2008), [Income and Democracy](https://www.aeaweb.org/articles?id=10.1257/aer.98.3.808), American Economic Review, 98:3: 808-842.
-* Acemoglu, D., Simon Johnson, James Robinson and Pierre  Yared (2009), [Reevaluating the Modernization Hypothesis](https://www.sciencedirect.com/science/article/abs/pii/S0304393209001299), Journal of Monetary Economics, 56:1043–1058.
-* Heller, P., Deitrich Rueschemeyer and Richard Snyder (2009), [Dependency and Development in a Globalized World: Looking Back and Forward](https://link.springer.com/article/10.1007/s12116-009-9055-y), Studies in Comparative International Development, 44.
+* Acemoglu, D., Johnson, S., Robinson, J., and Yared, P. (2008). [Income and Democracy](https://www.aeaweb.org/articles?id=10.1257/aer.98.3.808). _American Economic Review_, 98(3): 808-842.
+* Acemoglu, D., Johnson, S., Robinson, J., and Yared, P. (2009). [Reevaluating the Modernization Hypothesis](https://www.sciencedirect.com/science/article/abs/pii/S0304393209001299). _Journal of Monetary Economics_, 56(8),1043–1058.
+* Heller, P., Rueschemeyer, D., and Snyder, R. (2009). [Dependency and Development in a Globalized World: Looking Back and Forward](https://link.springer.com/article/10.1007/s12116-009-9055-y). _Studies in Comparative International Development_, 44(4), 287-295.
 
 ### Recommended Readings
 
-* Frank, A. (1986), [The Development of Underdevelopment](https://pdfs.semanticscholar.org/846c/1a98dc6b5aec1463fb570ab7037a2e95e126.pdf), in Peter K. Klaren and Thomas J. Bossert, (eds.), Promise of Development, Boulder, Westview Press, pp. 111-123.
-* Cardoso, Fernando H. and Enzo Faletto (1979), [Dependency and Development in Latin America](https://smile.amazon.com/Dependency-Development-America-Fernando-Henrique/dp/0520035275), Boulder: University of California Press.
-* Valenzuela, J. Samuel and Arturo Valenzuela (1978), [Modernization and Dependency: Alternative Perspectives in the Study of Latin American Underdevelopment](https://www.jstor.org/stable/421571?seq=1#metadata_info_tab_contents), Comparative Politics, 10:4, 535-557.
+* Frank, A. (1986). [The Development of Underdevelopment](https://pdfs.semanticscholar.org/846c/1a98dc6b5aec1463fb570ab7037a2e95e126.pdf). In: Klaren, P. and Bossert, T. (eds.), _Promise of Development_, Boulder, CO: Westview Press.
+* Cardoso, F. H. and Faletto, E. (1979). [Dependency and Development in Latin America](https://smile.amazon.com/Dependency-Development-America-Fernando-Henrique/dp/0520035275). Berkeley, CA: University of California Press.
+* Valenzuela, J. S. and Valenzuela, A. (1978). [Modernization and Dependency: Alternative Perspectives in the Study of Latin American Underdevelopment](https://www.jstor.org/stable/421571?seq=1#metadata_info_tab_contents). _Comparative Politics_, 10(4), 535-557.
 
 ## Week 5: Colonial Legacies
 
 ### Required Readings
 
-* Acemoglu, D., Simon Johnson and James Robinson (2002), [Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution](https://academic.oup.com/qje/article-abstract/117/4/1231/1875948?redirectedFrom=fulltext), The Quarterly Journal of Economics,  117:1231-1294.
-* Acemoglu, D.,  Simon  Johnson  and  James Robinson (2001), [The Colonial Origins of Comparative Development: An Empirical Investigation](https://www.aeaweb.org/articles?id=10.1257/aer.91.5.1369), American Economic Review, 91(5), pp. 1369-1401.
-* Coatsworth, John H. (2008), [Inequality, Institutions, and Economic Growth in Latin America](https://www.jstor.org/stable/40056706#metadata_info_tab_contents), Journal of Latin American Studies, 40: 545-569.
+* Acemoglu, D., Johnson, S., and Robinson, J. (2002). [Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution](https://academic.oup.com/qje/article-abstract/117/4/1231/1875948?redirectedFrom=fulltext). _The Quarterly Journal of Economics_, 117(4), 1231-1294.
+* Acemoglu, D., Johnson, S., and Robinson, J. (2001). [The Colonial Origins of Comparative Development: An Empirical Investigation](https://www.aeaweb.org/articles?id=10.1257/aer.91.5.1369). _American Economic Review_, 91(5), 1369-1401.
+* Coatsworth, J. H. (2008). [Inequality, Institutions, and Economic Growth in Latin America](https://www.jstor.org/stable/40056706#metadata_info_tab_contents). _Journal of Latin American Studies_, 40(3), 545-569.
 
 ### Recommended Readings
 
-* Coatsworth, John H. (2005), “[Structures, Endowments, and Institutions in the Economic History of Latin America](https://www.jstor.org/stable/3662825?seq=1#metadata_info_tab_contents), Latin American Research Review, 40, 3, 2005: 126-144.
-* Dell, Melissa (2010), [The Persistent Effect of Peru’s Mining Mita](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA8121), Econometrica, 78(6), pp. 1863-1903
+* Coatsworth, J. H. (2005). [Structures, Endowments, and Institutions in the Economic History of Latin America](https://www.jstor.org/stable/3662825?seq=1#metadata_info_tab_contents). _Latin American Research Review_, 40(3), 126-144.
+* Dell, M. (2010). [The Persistent Effect of Peru’s Mining Mita](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA8121), _Econometrica_, 78(6), 1863-1903.
 
 ## Week 6: Emerging Markets and States
 
 ### Required Readings
 
-* Mazzuca, Sebastian and James Robinson (2009), [Political Conflict and Power Sharing in the Origins of Modern Colombia](https://scholar.harvard.edu/files/jrobinson/files/jr_colombia.pdf), Hispanic American Historical Review, 89(2): 285-321.
-* Safford, Frank (1992), [The Problem of Political Order in Early Republican Spanish America](https://www.jstor.org/stable/156947?seq=1#metadata_info_tab_contents), Journal of Latin American Studies, 24: 83-97
-* Centeno, Miguel Angel (1997), [Blood and Debt: War and Taxation in Nineteenth-Century Latin America](https://www.jstor.org/stable/10.1086/231127?seq=1#metadata_info_tab_contents), The American Journal of Sociology, 102, 6: 1565-1605.
+* Mazzuca, S. and Robinson, J. (2009). [Political Conflict and Power Sharing in the Origins of Modern Colombia](https://scholar.harvard.edu/files/jrobinson/files/jr_colombia.pdf). _Hispanic American Historical Review_, 89(2), 285-321.
+* Safford, F. (1992). [The Problem of Political Order in Early Republican Spanish America](https://www.jstor.org/stable/156947?seq=1#metadata_info_tab_contents). _Journal of Latin American Studies_, 24: 83-97
+* Centeno, M. (1997). [Blood and Debt: War and Taxation in Nineteenth-Century Latin America](https://www.jstor.org/stable/10.1086/231127?seq=1#metadata_info_tab_contents). _The American Journal of Sociology_, 102(6), 1565-1605.
 
 ### Recommended Readings
 
-* Mahoney, James (2001), [Radical, Reformist and Aborted Liberalism: Origins of National Regimes in Central America](https://www.jstor.org/stable/3653684?seq=1#metadata_info_tab_contents), Journal of Latin American Studies, 33, 2, 221-256
-* Glade,William (1986), [Latin America and the International Economy, 1870–1914](https://www.cambridge.org/core/books/cambridge-history-of-latin-america/latin-america-and-the-international-economy-18701914/A3330A94EF49D8381F2BDDE5389EF661), in Leslie Bethell (ed.), Latin America since 1930: Economy, Society and Politics, Cambridge University Press: New York.
-* Katz,Friedrich (1991), [The Liberal Republic and the Porfiriato, 1867-1910](https://www.cambridge.org/core/books/mexico-since-independence/liberal-republic-and-the-porfiriato-18671910/BB2D367300B9AED89C61B2DC2F50B2CE), in Leslie Bethell, Ed.Mexico Since Independence, Cambridge University Press: New York.
+* Mahoney, J. (2001). [Radical, Reformist and Aborted Liberalism: Origins of National Regimes in Central America](https://www.jstor.org/stable/3653684?seq=1#metadata_info_tab_contents). _Journal of Latin American Studies_, 33(2), 221-256.
+* Glade, W. (1986), [Latin America and the International Economy, 1870–1914](https://www.cambridge.org/core/books/cambridge-history-of-latin-america/latin-america-and-the-international-economy-18701914/A3330A94EF49D8381F2BDDE5389EF661). In: Bethell, L. (ed.), _Latin America since 1930: Economy, Society and Politics_, New York, NY: Cambridge University Press.
+* Katz, F. (1991), [The Liberal Republic and the Porfiriato, 1867-1910](https://www.cambridge.org/core/books/mexico-since-independence/liberal-republic-and-the-porfiriato-18671910/BB2D367300B9AED89C61B2DC2F50B2CE). In: Bethell, L. (ed.). _Mexico Since Independence_, New York, NY: Cambridge University Press.
 
 ## Week 7: Theories on Democracy and Dictatorship 
 
 ### Required Readings
 
-* Acemoglu, Daron and James A. Robinson (2006), [Economic Origins of Dictatorship and Democracy](https://smile.amazon.com/Economic-Origins-Dictatorship-Democracy-Acemoglu/dp/0521671426), Cambridge University Press: New York. Chaps. 1-3.
-* Lizzeri, Alessandro and Nicola Persico (2004) [Why did the Elites Extend the Suffrage? Democracy and the Scope of Government, with an Application to Britain’s 'Age of Reform'](http://qje.oxfordjournals.org/content/119/2/707.short). QJE 119 (2).
-* Llavador, Humberto, and Robert J. Oxoby (2005), [Partisan Competition, Growth, and the Franchise](https://academic.oup.com/qje/article-abstract/120/3/1155/1841475), Quarterly Journal of Economics, 120(3): 1155-1189.
+* Acemoglu, D. and Robinson, J. (2006). [Economic Origins of Dictatorship and Democracy](https://smile.amazon.com/Economic-Origins-Dictatorship-Democracy-Acemoglu/dp/0521671426). New York, NY: Cambridge University Press. Chapters 1-3.
+* Lizzeri, A. and Persico, N. (2004). [Why did the Elites Extend the Suffrage? Democracy and the Scope of Government, with an Application to Britain’s 'Age of Reform'](http://qje.oxfordjournals.org/content/119/2/707.short). _Quarterly Journal of Economics_, 119(2), 707-765.
+* Llavador, H. and Oxoby, R. (2005). [Partisan Competition, Growth, and the Franchise](https://academic.oup.com/qje/article-abstract/120/3/1155/1841475). _Quarterly Journal of Economics_, 120(3), 1155-1189.
 
 ### Recommended Readings
 
-* Przeworski, Adam (1991), [Democracy and the Market: Political and Economic Reforms in Eastern Europe and Latin America](https://smile.amazon.com/Democracy-Market-Political-Economic-Rationality/dp/052142335X), Cambridge University Press: New York.
+* Przeworski, A. (1991). [Democracy and the Market: Political and Economic Reforms in Eastern Europe and Latin America](https://smile.amazon.com/Democracy-Market-Political-Economic-Rationality/dp/052142335X). New York, NY: Cambridge University Press.
 
 ## Week 8: The Rise of Populism and Incorporation of the Masses 
 
 ### Required Readings
 
-* Skidmore Thomas E., Peter  H. Smith and James N. Green (2014), [Modern Latin America](https://smile.amazon.com/Modern-Latin-America-Peter-Smith/dp/0190674652/ref=sr_1_1?keywords=Modern+Latin+America&qid=1569732045&sr=8-1), 8th edition, Oxford University Press: New York, Chap. 3.
-* Hirschman, Albert O. (1968), [The Political Economy of Import-Substituting Industrialization in Latin America](https://www.jstor.org/stable/1882243?seq=1#metadata_info_tab_contents), The Quarterly Journal of Economics, 82, 1: 1-32
-* Chacon, Mario, James Robinson and Ragnar Torvik (2011), [When is Democracy an Equilibrium? Theory and Evidence from Colombia’s La Violencia”](https://www.jstor.org/stable/23049891?seq=1#metadata_info_tab_contents), Journal of Conflict Resolution, 55(3) pp. 366-396.
+* Skidmore T. E., Smith, P. E., and Green, J. N. (2014). [Modern Latin America](https://smile.amazon.com/Modern-Latin-America-Peter-Smith/dp/0190674652/ref=sr_1_1?keywords=Modern+Latin+America&qid=1569732045&sr=8-1), New York, NY: Oxford University Press. Chapter 3.
+* Hirschman, A. (1968). [The Political Economy of Import-Substituting Industrialization in Latin America](https://www.jstor.org/stable/1882243?seq=1#metadata_info_tab_contents). _Quarterly Journal of Economics_, 82(1), 1-32.
+* Chacon, M., Robinson, J., and Torvik, R. (2011). [When is Democracy an Equilibrium? Theory and Evidence from Colombia’s La Violencia”](https://www.jstor.org/stable/23049891?seq=1#metadata_info_tab_contents). _Journal of Conflict Resolution_, 55(3), 366-396.
 
 ### Recommended Readings
 
-* Baland, Jean-Marie., and James Robinson (2008), [Land and Power: Theory and Evidence from Chile](https://scholar.harvard.edu/files/jrobinson/files/jr_landandpower.pdf), American Economic  Review,98(5): 1737-65.
-* Bushnell, David (1993), [The Making of Modern Colombia: A Nation in Spite of Itself](https://smile.amazon.com/Making-Modern-Colombia-Nation-Itself/dp/0520082893), University of California Press, Chap. 8-9
-* Collier, Ruth Berins and David Collier (2002), [Shaping the Political Arena: Critical Junctures, the Labor Movement, and Regime Dynamics in Latin America](https://smile.amazon.com/Shaping-Political-Institute-Democracy-Development/dp/0268017727), Notre Dame University Press
+* Baland, J. and Robinson, J. (2008). [Land and Power: Theory and Evidence from Chile](https://scholar.harvard.edu/files/jrobinson/files/jr_landandpower.pdf). _American Economic Review_, 98(5), 1737-65.
+* Bushnell, D. (1993). [The Making of Modern Colombia: A Nation in Spite of Itself](https://smile.amazon.com/Making-Modern-Colombia-Nation-Itself/dp/0520082893). Berkeley, CA: University of California Press, Chapters 8-9.
+* Collier, R. and Collier, D. (2002). [Shaping the Political Arena: Critical Junctures, the Labor Movement, and Regime Dynamics in Latin America](https://smile.amazon.com/Shaping-Political-Institute-Democracy-Development/dp/0268017727), Notre Dame, IN: Notre Dame University Press.
 
 ## Week 9: Insurgency and Revolutions
 
 ### Required Readings
 
-* Wood, Elisabeth J. (2001), [An Insurgent Path to Democracy: Popular Mobilization, Economic Interests and Regime Transition in South Africa and El Salvador](https://journals.sagepub.com/doi/10.1177/0010414001034008002), Comparative Political Studies, 34(8), pp. 862-888.
-* Eckstein, S. (1986), [The Impact of the Cuban Revolution: A Comparative Perspective](https://www.jstor.org/stable/178861?seq=1#metadata_info_tab_contents), Comparative Studies in Society and History 28(3), 502-534.
-* Safford, Frank and Marco Palacios (2002), [Colombia: Fragmented Land, Divided Society](https://smile.amazon.com/Colombia-Fragmented-Divided-American-Histories/dp/019504617X),  Oxford University Press, Chap. 14.
+* Wood, E. J. (2001). [An Insurgent Path to Democracy: Popular Mobilization, Economic Interests and Regime Transition in South Africa and El Salvador](https://journals.sagepub.com/doi/10.1177/0010414001034008002). _Comparative Political Studies_, 34(8), 862-888.
+* Eckstein, S. (1986). [The Impact of the Cuban Revolution: A Comparative Perspective](https://www.jstor.org/stable/178861?seq=1#metadata_info_tab_contents), _Comparative Studies in Society and History_, 28(3), 502-534.
+* Safford, F. and Palacios, M. (2002). [Colombia: Fragmented Land, Divided Society](https://smile.amazon.com/Colombia-Fragmented-Divided-American-Histories/dp/019504617X). New York, NY: Oxford University Press. Chapter 14.
 
 ### Recommended Readings
 
-* Paige, Jeffery (1998), [Coffee and Power: Revolution and the Rise of Democracy in Central America](https://smile.amazon.com/Coffee-Power-Revolution-Democracy-Central/dp/0674136497), Harvard University Press: Cambridge
-* Leon, Juanita (2008), [Country of Bullets: Chronicles of War](https://smile.amazon.com/Country-Bullets-Chronicles-Juanita-Leon-ebook/dp/B005R33UR0/ref=sr_1_1?keywords=Country+of+Bullets%3A+Chronicles+of+War&qid=1569783310&s=books&sr=1-1), University of New Mexico Press.
+* Paige, J. (1998). [Coffee and Power: Revolution and the Rise of Democracy in Central America](https://smile.amazon.com/Coffee-Power-Revolution-Democracy-Central/dp/0674136497). Cambridge, MA: Harvard University Press.
+* Leon, J. (2008). [Country of Bullets: Chronicles of War](https://smile.amazon.com/Country-Bullets-Chronicles-Juanita-Leon-ebook/dp/B005R33UR0/ref=sr_1_1?keywords=Country+of+Bullets%3A+Chronicles+of+War&qid=1569783310&s=books&sr=1-1). Albuquerque, NM: University of New Mexico Press.
 
 ## Week 10: Breakdown of Democracy and Rise of Authoritarianism
 
 ### Required Readings
 
-* Cohen, Youssef (1987), [Democracy from Above: The Political Origins of Military Dictatorship in Brazil](https://www.jstor.org/stable/2010193?seq=1#metadata_info_tab_contents), World Politics, 40(1): 30-54.
-* Kornbluh, Peter (2003) [The Pinochet File: A Declassified Dossier on Atrocity and Accountability](https://smile.amazon.com/Pinochet-File-Declassified-Atrocity-Accountability-ebook/dp/B00EXCAJAM), The New Press, Chap.1 (pp. 1-6); Chap.2.
-* Schamis, H.E. (1991), [Reconceptualizing Latin American Authoritarianism in the 1970s: From Bureaucratic Authoritarianism to Neoconservatism](https://www.jstor.org/stable/pdf/422361.pdf), Comparative Politics 23 no. 2 (January 1991), pp. 201-216. 
+* Cohen, Y. (1987). [Democracy from Above: The Political Origins of Military Dictatorship in Brazil](https://www.jstor.org/stable/2010193?seq=1#metadata_info_tab_contents). _World Politics_, 40(1), 30-54.
+* Kornbluh, P. (2003). [The Pinochet File: A Declassified Dossier on Atrocity and Accountability](https://smile.amazon.com/Pinochet-File-Declassified-Atrocity-Accountability-ebook/dp/B00EXCAJAM). New York: The New Press. Chapters 1-2.
+* Schamis, H. E. (1991). [Reconceptualizing Latin American Authoritarianism in the 1970s: From Bureaucratic Authoritarianism to Neoconservatism](https://www.jstor.org/stable/pdf/422361.pdf). _Comparative Politics_, 23(2), 201-216. 
 
 ### Recommended Readings
 
-* Linz, Juan J.and Alfred Stepan (Eds.) (1978), [The Breakdown of Democratic Regimes: Latin America](https://smile.amazon.com/Breakdown-Democratic-Regimes-Latin-America/dp/0801820235), Johns Hopkins University Press: Baltimore.
-* Stepan,Alfred (Ed.) (1973), [Authoritarian Brazil](https://smile.amazon.com/Authoritarian-Brazil-Origins-Policies-Future/dp/0300016220/ref=sr_1_1?keywords=Authoritarian+Brazil+stepan&qid=1569783513&s=books&sr=1-1), Yale University Press: New Haven.
-* Valenzuela, Arturo (1978), [The Breakdown of Democratic Regimes: Chile](https://smile.amazon.com/Breakdown-Democratic-Regimes-Chile/dp/0801820103/ref=sr_1_1?keywords=The+Breakdown+of+Democratic+Regimes%3A+Chile&qid=1569783536&s=books&sr=1-1), Johns Hopkins University Press: Baltimore.
+* Linz, J. and Stepan, A. (eds.) (1978). [The Breakdown of Democratic Regimes: Latin America](https://smile.amazon.com/Breakdown-Democratic-Regimes-Latin-America/dp/0801820235). Baltimore, MD: Johns Hopkins University Press.
+* Stepan, A. (ed.) (1973). [Authoritarian Brazil](https://smile.amazon.com/Authoritarian-Brazil-Origins-Policies-Future/dp/0300016220/ref=sr_1_1?keywords=Authoritarian+Brazil+stepan&qid=1569783513&s=books&sr=1-1). New Haven, CT: Yale University Press.
+* Valenzuela, A. (1978). [The Breakdown of Democratic Regimes: Chile](https://smile.amazon.com/Breakdown-Democratic-Regimes-Chile/dp/0801820103/ref=sr_1_1?keywords=The+Breakdown+of+Democratic+Regimes%3A+Chile&qid=1569783536&s=books&sr=1-1). Baltimore, MD: Johns Hopkins University Press.
 
 ## Week 11: Democratisation 
 
 ### Required Readings
 
-* Karl, Terry (1990), [Dilemmas of Democratization in Latin America](https://www.jstor.org/stable/422302?seq=1#metadata_info_tab_contents), Comparative Politics, 3(1):1-21.
-* O’Donnell, Guillermo (1999), [Notes for the Study of Processes of Political Democratization in the Wake of the Bureaucratic-Authoritarian State](https://scholar.harvard.edu/files/levitsky/files/counterpoints_odonell.pdf), in Counterpoints, University of Notre Dame Press.
-* Haggard, S., and Kaufman, R. (1997), [The Political Economy of Democratic Transitions](https://www.jstor.org/stable/422121?seq=1#metadata_info_tab_contents), Comparative Politics 29:3, 285-303. 
+* Karl, T. (1990). [Dilemmas of Democratization in Latin America](https://www.jstor.org/stable/422302?seq=1#metadata_info_tab_contents). _Comparative Politics_, 3(1), 1-21.
+* O’Donnell, G. (1999). [Notes for the Study of Processes of Political Democratization in the Wake of the Bureaucratic-Authoritarian State](https://scholar.harvard.edu/files/levitsky/files/counterpoints_odonell.pdf). In: O'Donnell, G. _Counterpoints_, Notre Dame, IN: University of Notre Dame Press.
+* Haggard, S. and Kaufman, R. (1997). [The Political Economy of Democratic Transitions](https://www.jstor.org/stable/422121?seq=1#metadata_info_tab_contents). _Comparative Politics_ 29(3), 285-303. 
 
 ### Recommended Readings
 
-* Hagopian,Frances (1990), [Democracy by Undemocratic Means: Elites, Political Pacts, and Regime Transition in Brazil](https://journals.sagepub.com/doi/abs/10.1177/0010414090023002001), Comparative Political Studies, 23(2):147-169.
-* Londregan, John (2000), [Legislative Institutions and Ideology in Chile](https://www.cambridge.org/core/books/legislative-institutions-and-ideology-in-chile/2B7486276138A9949FB9F2F978DB3D98), Cambridge University Press: New York
-* Hagopian, Frances and Scott Mainwaring, (Eds.) (2005) [The Third Wave of Democratization in Latin America: Advances and Setbacks](https://www.cambridge.org/core/books/third-wave-of-democratization-in-latin-america/C215ABA34B16065EF75A1717CDD1001E), Cambridge University Press: New York.
+* Hagopian, F. (1990). [Democracy by Undemocratic Means: Elites, Political Pacts, and Regime Transition in Brazil](https://journals.sagepub.com/doi/abs/10.1177/0010414090023002001). _Comparative Political Studies_, 23(2), 147-169.
+* Londregan, J. (2000). [Legislative Institutions and Ideology in Chile](https://www.cambridge.org/core/books/legislative-institutions-and-ideology-in-chile/2B7486276138A9949FB9F2F978DB3D98). New York, NY: Cambridge University Press.
+* Hagopian, F. and Mainwaring, S. (eds.) (2005). [The Third Wave of Democratization in Latin America: Advances and Setbacks](https://www.cambridge.org/core/books/third-wave-of-democratization-in-latin-america/C215ABA34B16065EF75A1717CDD1001E). New York, NY: Cambridge University Press.
 
 ## Week 12: Macroeconomic Crisis and Economic Reforms
 
 ### Required Readings
 
-* Acemoglu, Daron, Simon Johnson,  James  Robinson  and  Yunyong  Thaicharoen. (2003), [Institutional Causes, Macroeconomic Symptoms: Volatility, Crises and Growth](https://www.sciencedirect.com/science/article/abs/pii/S0304393202002088), Journal of Monetary Economics, 50: 49-123.
-* Dornbusch, R., and Edwards, S. (1990), [Macroeconomic Populism](https://www.sciencedirect.com/science/article/abs/pii/030438789090038D), Journal of Development Economics 32:247-275. 
-* Acemoglu, Daron, Simon Johnson, Pablo Querubín and James A. Robinson (2008), [When Does Policy Reform Work? The Case of Central Bank Independence”](https://www.brookings.edu/wp-content/uploads/2008/03/2008a_bpea_acemoglu.pdf), in Brookings Papers on Economic Activity, Spring, pp. 351-417.
+* Acemoglu, D., Johnson, S., Robinson, J., and  Thaicharoen, Y. (2003). [Institutional Causes, Macroeconomic Symptoms: Volatility, Crises and Growth](https://www.sciencedirect.com/science/article/abs/pii/S0304393202002088). _Journal of Monetary Economics_, 50(1), 49-123.
+* Dornbusch, R. and Edwards, S. (1990). [Macroeconomic Populism](https://www.sciencedirect.com/science/article/abs/pii/030438789090038D). _Journal of Development Economics_, 32(2), 247-275. 
+* Acemoglu, D., Johnson, S., Querubín, P., and Robinson, J. (2008). [When Does Policy Reform Work? The Case of Central Bank Independence”](https://www.brookings.edu/wp-content/uploads/2008/03/2008a_bpea_acemoglu.pdf). In: Brookings Papers on Economic Activity, Spring, 351-417.
 
 ### Recommended Readings
 
-* Pastor, M. (1991), [Bolivia: Hyperinflation, Stabilization, and Beyond](https://www.tandfonline.com/doi/abs/10.1080/00220389108422193?journalCode=fjds20), Journal of Development Studies 27(2): 211-233.
-* Roxborough, I. (1992), [Inflation and Social Pacts in Brazil and Mexico](https://www.cambridge.org/core/journals/journal-of-latin-american-studies/article/inflation-and-social-pacts-in-brazil-and-mexico/5F181507128753E0679A4FF769DF0383), Journal of Latin American Studies 24:639-664.
-* Green, Duncan (2003), [Silent Revolution: The Rise And Crisis Of Market Economics In Latin America](https://smile.amazon.com/Silent-Revolution-Crisis-Economics-America/dp/1583670912), Monthly Review Press.
+* Pastor, M. (1991). [Bolivia: Hyperinflation, Stabilization, and Beyond](https://www.tandfonline.com/doi/abs/10.1080/00220389108422193?journalCode=fjds20). _Journal of Development Studies_, 27(2), 211-233.
+* Roxborough, I. (1992). [Inflation and Social Pacts in Brazil and Mexico](https://www.cambridge.org/core/journals/journal-of-latin-american-studies/article/inflation-and-social-pacts-in-brazil-and-mexico/5F181507128753E0679A4FF769DF0383). _Journal of Latin American Studies_, 24(3), 639-664.
+* Green, D. (2003). [Silent Revolution: The Rise And Crisis Of Market Economics In Latin America](https://smile.amazon.com/Silent-Revolution-Crisis-Economics-America/dp/1583670912). New York, NY: Monthly Review Press.
+
+\newpage 
 
 ## Week 13: Dysfunctional and Weak States
 
 ### Required Readings
 
-* O’Donnell, Guillermo (1993), [On the State, Democratization and some Conceptual Problems: A Latin American View with Glances at some Postcommunist Countries](https://www.sciencedirect.com/science/article/abs/pii/0305750X9390048E), World Development, 21(8): 1355-1369.
-* Mainwaring, Scott (2006), [The Crisis of Representation in the Andes](https://www.journalofdemocracy.org/articles/the-crisis-of-representation-in-the-andes/), Journal of Democracy, 17 (3):13-27.
-* Acemoglu, Daron,  James  Robinson  and  Rafael Santos (2013), [The  Monopoly of Violence:  Evidence from Colombia](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1542-4774.2012.01099.x),Journal of the European Economic Association, 11, pp. 5-44
+* O’Donnell, G. (1993). [On the State, Democratization and some Conceptual Problems: A Latin American View with Glances at some Postcommunist Countries](https://www.sciencedirect.com/science/article/abs/pii/0305750X9390048E). _World Development_, 21(8), 1355-1369.
+* Mainwaring, S. (2006). [The Crisis of Representation in the Andes](https://www.journalofdemocracy.org/articles/the-crisis-of-representation-in-the-andes/). _Journal of Democracy_, 17(3), 13-27.
+* Acemoglu, D., Robinson, J., and Santos, R. (2013). [The  Monopoly of Violence: Evidence from Colombia](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1542-4774.2012.01099.x). _Journal of the European Economic Association_, 11, 5-44.
 
 ### Recommended Readings
 
-* Dell, Melissa (2011), [Trafficking Networks and the Mexican Drug War](https://www.aeaweb.org/articles?id=10.1257/aer.20121637), American Economic Review 105(6): 1738-1779.
-* Robinson, James (2013), [Colombia: Another 100 Years of Solitude?](https://scholar.harvard.edu/files/jrobinson/files/robinson-current_history.pdf), Current History, February.
-* Gibson, Edward (2005), [Boundary Control: Subnational Authoritarianism in Democratic Countries](https://www.cambridge.org/core/journals/world-politics/article/boundary-control-subnational-authoritarianism-in-democratic-countries/52ED7708A69F4F875C4BBC9B9EE913B6), World Politics, 58.
-* Von Hau, Matthias (2008), [State Infrastructural Power and Nationalism: Comparative Lessons from Mexico and Argentina](https://link.springer.com/article/10.1007/s12116-008-9024-x), Studies in International Comparative Development, 43(3/4).
+* Dell, M. (2011). [Trafficking Networks and the Mexican Drug War](https://www.aeaweb.org/articles?id=10.1257/aer.20121637). _American Economic Review_, 105(6), 1738-1779.
+* Robinson, J. (2013). [Colombia: Another 100 Years of Solitude?](https://scholar.harvard.edu/files/jrobinson/files/robinson-current_history.pdf). _Current History_, 112(751), 43-48.
+* Gibson, E. (2005). [Boundary Control: Subnational Authoritarianism in Democratic Countries](https://www.cambridge.org/core/journals/world-politics/article/boundary-control-subnational-authoritarianism-in-democratic-countries/52ED7708A69F4F875C4BBC9B9EE913B6). _World Politics_, 58(1), 101-132.
+* Vom Hau, M. (2008). [State Infrastructural Power and Nationalism: Comparative Lessons from Mexico and Argentina](https://link.springer.com/article/10.1007/s12116-008-9024-x). _Studies in International Comparative Development_, 43(3), 334-354.
 
-## Week 14: The Rise of Left Wing Parties in Latin America 
+## Week 14: The Rise of Left-Wing Parties in Latin America 
 
 ### Required Readings
 
-* Pickup, M. (2019). [The Political Economy of the New Left](https://journals.sagepub.com/doi/full/10.1177/0094582X18803878), Latin American Perspectives, 46(1), 23-45.
-* Weyland, Kurt (2009), [The Rise of Latin America’s Two Lefts: Insights from Rentier State Theory](https://www.jstor.org/stable/40599207?seq=1#metadata_info_tab_contents), Comparative Politics,41(2): 145-164.
-* Mazzuca, Sebastian (2013) [The Rise of Rentier Populism](https://www.journalofdemocracy.org/articles/lessons-from-latin-america-the-rise-of-rentier-populism/), Journal of Democracy, 24(2),pp. 108-122.
-* Samuels, David (2004). [From Socialism to Social Democracy: Party Organization and the Transformation of the Workers' Party in Brazil](https://journals.sagepub.com/doi/10.1177/0010414004268856), Comparative Political Studies, 37(9).
+* Pickup, M. (2019). [The Political Economy of the New Left](https://journals.sagepub.com/doi/full/10.1177/0094582X18803878). _Latin American Perspectives_, 46(1), 23-45.
+* Weyland, K. (2009). [The Rise of Latin America’s Two Lefts: Insights from Rentier State Theory](https://www.jstor.org/stable/40599207?seq=1#metadata_info_tab_contents). _Comparative Politics_, 41(2): 145-164.
+* Mazzuca, S. (2013). [The Rise of Rentier Populism](https://www.journalofdemocracy.org/articles/lessons-from-latin-america-the-rise-of-rentier-populism/). _Journal of Democracy_, 24(2), 108-122.
+* Samuels, D. (2004). [From Socialism to Social Democracy: Party Organization and the Transformation of the Workers' Party in Brazil](https://journals.sagepub.com/doi/10.1177/0010414004268856). _Comparative Political Studies_, 37(9), 999-1024.
 
 ### Recommended Readings
 
-* Weyland, Kurt (2001), [Clarifying a Contested Concept: Populism in the Study of Latin American Politics](https://www.jstor.org/stable/pdf/422412.pdf), Comparative Politics,34(1): 1-22.
-* Levitsky, Steven and Kenneth M. Roberts, (Eds.) (2011) [The Resurgence of the Latin American Left](https://muse.jhu.edu/book/1866), Johns Hopkins University Press: Baltimore.
-* Edwards, Sebastian (2010), [Left Behind: Latin America and the False Premise of Populism](https://smile.amazon.com/Left-Behind-America-Promise-Populism/dp/022600466X), University of Chicago Press: Chicago.
+* Weyland, K. (2001). [Clarifying a Contested Concept: Populism in the Study of Latin American Politics](https://www.jstor.org/stable/pdf/422412.pdf). _Comparative Politics_, 34(1): 1-22.
+* Levitsky, S. and Roberts, K. (Eds.) (2011) [The Resurgence of the Latin American Left](https://muse.jhu.edu/book/1866), Baltimore, MD: Johns Hopkins University Press.
+* Edwards, S. (2010). [Left Behind: Latin America and the False Premise of Populism](https://smile.amazon.com/Left-Behind-America-Promise-Populism/dp/022600466X). Chicago, IL: University of Chicago Press.
+
+\newpage
 
 ## Week 15: A New Shift to the Right? 
 
 ### Required Readings
 
-- Grier, K., & Maynard, N. (2016). [The Economic Consequences of Hugo Chavez: A Synthetic Control Analysis](https://www.sciencedirect.com/science/article/pii/S0167268116000020), Journal of Economic Behavior & Organization, 125, 1-21.
-* Hunter, W., & Power, T. J. (2019). [Bolsonaro and Brazil's Illiberal Backlash](https://www.journalofdemocracy.org/articles/bolsonaro-and-brazils-illiberal-backlash/), Journal of Democracy, 30(1), 68-82.
-* Murillo, M. V., & Levitsky, S. (2019). [Partisan Realignment in Argentina](https://smile.amazon.com/Campaigns-Voters-Developing-Democracies-Comparative/dp/0472131281/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1569785010&sr=1-1), in Lupu, Noam, Virginia Oliveros and Luis Schiumerini, Campaigns and Voters in Developing Democracies: Argentina in Comparative Perspective, University of Michigan Press.
+- Grier, K. and Maynard, N. (2016). [The Economic Consequences of Hugo Chavez: A Synthetic Control Analysis](https://www.sciencedirect.com/science/article/pii/S0167268116000020). _Journal of Economic Behavior & Organization_, 125, 1-21.
+* Hunter, W. and Power, T. J. (2019). [Bolsonaro and Brazil's Illiberal Backlash](https://www.journalofdemocracy.org/articles/bolsonaro-and-brazils-illiberal-backlash/). _Journal of Democracy_, 30(1), 68-82.
+* Murillo, M. V. and Levitsky, S. (2019). [Partisan Realignment in Argentina](https://smile.amazon.com/Campaigns-Voters-Developing-Democracies-Comparative/dp/0472131281/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1569785010&sr=1-1). In: Lupu, N., Oliveros, V., and Schiumerini, L. _Campaigns and Voters in Developing Democracies: Argentina in Comparative Perspective_, Ann Arbor, MI: University of Michigan Press.
 
