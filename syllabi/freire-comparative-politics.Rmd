@@ -1,0 +1,299 @@
+---
+title: "Introduction to Comparative Politics"
+author: "Danilo Freire"
+date: "April 2021"
+output:
+  pdf_document:
+    fig_caption: yes
+    latex_engine: pdflatex
+    template: ~/Documents/github/danilofreire.github.io/syllabi/template.tex
+  word_document: default
+email: danilofreire@gmail.com
+fontfamily: libertine
+fontsize: 12pt
+geometry: margin=1in
+header-includes: \linespread{1.05}
+office: TBA
+officehours: TBA
+classroom: TBA
+classhours: TBA
+web: danilofreire.github.io
+---
+
+# Course Description
+
+The objective of this class is to introduce students to the growing field of Comparative Politics. In particular, the course focuses on the relationship between political institutions and economic performance. We analyse how political systems foster or hinder economic growth, and the ways in which corruption, clientelism, and political violence affect the welfare of the citizenry.
+
+Although many of the readings use formal models or statistical methods to develop their arguments, no previous knowledge of game theory or quantitative methods is required. Feel free to skip the technical parts if they are too challenging and focus on the main ideas of the readings.
+
+# Course Information
+
+It is very important that you read the assigned readings before class. Students are encouraged to engage in critical discussions and are most welcome to express their views openly and freely. I would suggest you to bring some notes to the class so that we can discuss together the topics you find most interesting. 
+
+All information about the course will be available at [http://danilofreire.github.io](http://danilofreire.github.io). The syllabus will be updated periodically according to the progress of the class. Please remember to visit the website regularly.
+
+# Office Hours
+
+I am very flexible when it comes to office hours, but it is easier to contact me via email. Feel free to send me a message any time at [danilofreire@gmail.com](mailto:danilofreire@gmail.com). I will reply in a few hours. You can also meet me in the afternoon at my office. If possible, please send me an email before coming to my office just to make sure two students will not book the same time slot.
+
+# Community Standards
+
+I am committed to full inclusion of all students. Please inform me early in the term if you have a disability or other conditions that might require accommodations or modification of any of these course procedures. You may speak with me after class or during office hours. Students in need of short-term academic advice or support can contact one of the deans in the Dean of the College office.
+
+# English Language Learners
+
+The university welcomes students from around the country and the world, and the unique perspectives international and multilingual students bring enrich the campus community. To empower multilingual learners, an array of support is available including language and culture workshops and individual appointments. No student will be penalised for their command of the English language.
+
+# Academic Integrity
+
+Students will write three review reports and a longer essay for this course. All writing should be your own work, and I take plagiarism very seriously. I am happy to provide any help you may require with your lessons as long as you are committed to the course. It is also important to cite other people's work whenever necessary, and if in doubt, mention your sources. 
+
+# Special Needs
+
+If you have any special needs, please contact me. I'm happy to make necessary arrangements so you can follow this course.
+
+# Requirements and Grading 
+
+**Participation: 15%.**  Students should be active participants in the course. Feel free to ask any question you may have, help others if you know how, and make suggestions or comments you believe are interesting. I hope we create a friendly, open environment for learning and students are the most important part of it.
+
+**Three Review Reports: 45%.**  The reviews should be 3-5 pages long. Imagine you are a reviewer for a good academic journal and think of how you could help the author improve the article. Are the arguments well-developed in the text? Is the research design plausible? What further examples could the author include to strenghten his/her arguments? Try to provide as much constructive criticism as possible. You don't need to summarise the paper, just critically engage with it. The essays are due at the beginning of the class and late assignments will not be eligible for an A. Each report will account for 15% of your grade.
+
+**Final Project: 40%.** In the final project, students will have the opportunity to write a longer essay about a topic that interests them. The essay should be related to the readings of the course, but you are particularly encouraged to explore new ideas and use new data to test their hypotheses. Students can work in groups of up to three people as most academic research is currently done collaboratively. By the second week of the course, students should submit a one-page summary of their future essay. The instructor and two colleagues will review the paper proposal and give the authors constructive feedback. Students will then write a full draft during the term. In the last week of the course, students will present their findings to the class and receive feedback from their colleagues. The final paper is due one week after that. 
+
+# Materials
+
+There are many general references about comparative politics in an accessible level. Below you may find three recent books that are great introductions to the topic:
+
+* Daron Acemoglu and James Robinson (2013). [_Why Nations Fail? The Origins of Power, Prosperity, and Poverty_](http://www.whynationsfail.com). New York, NY: Crown Business.
+
+* Bruce Bueno de Mesquita and Alastair Smith (2011). [_Dictator’s Handbook: Why Bad Behaviour is Almost Always Good Politics_](https://smile.amazon.com/Dictators-Handbook-Behavior-Almost-Politics/dp/1610391845/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1569646337&sr=8-3). New York, NY: Public Affairs.
+
+* Timothy Besley and Torsten Persson (2011). [_Pillars of Prosperity: The Political Economy of Development Clusters_](https://press.princeton.edu/titles/9624.html). Princeton, NJ: Princeton University Press. 
+
+# Schedule
+
+## Week 1: Introduction and Course Overview 
+
+There are no readings assigned for this class. I will discuss the papers and the main topics that we will study during the class. This class will talk about five broad problems: i) the institutional and historical perspective on Comparative Political Economy (weeks 2 and 3); ii) state formation, state capacity, and state control (classes 4 to 6); iii) political regimes (classes 7 and 8); iv) political and societal environment and their impacts on political and economic outcomes (classes 9 to 12); v) political failures and their impacts on the political and economic outcomes (classes 13 to 15).
+
+## Week 2: Institutional Approach to Comparative Politics
+
+### Readings
+
+- Daron Acemoglu, Simon Johnson and James Robinson (2005). [Institutions as a Fundamental Cause of Long Run Growth](http://economics.mit.edu/files/4469). In: Philippe Aghion and Steven Durlauf (eds.), _Handbook of Economic Growth_, Vol. 1A. Amsterdam: North Holland. 
+- Daron Acemoglu and James Robinson (2013). [Why Nations Fail?](http://www.whynationsfail.com). New York, NY: Crown Business. Preface to chapter 3. Time permitting, read also chapters 11 to 14.
+- Douglass North and Berry Weingast (1989). [Constitutions and Commitment: The Evolution of Institutions Governing Public Choice in Seventeenth Century England](http://www.jstor.org/stable/2122739). _The Journal of Economic History_, 49(4), 803-832.
+- Stanley Engerman and Kenneth Sokoloff (2008). [Debating the Role of Institutions in Political and Economic Development: Theory, History, and Findings](https://www.annualreviews.org/doi/abs/10.1146/annurev.polisci.11.120406.135217). _Annual Review of Political Science_, 11, 119-135.
+
+### Recommended Readings
+
+- Barrington Moore (1966). [Social Origins of Dictatorship and Democracy: Lord and Peasant in the Making of the Modern World](https://smile.amazon.com/Social-Origins-Dictatorship-Democracy-Peasant/dp/0807050733/ref=sr_1_1?keywords=Social+Origins+of+Dictatorship+and+Democracy%3A+Lord+and+Peasant+in+the+Making+of+the+Modern+World&qid=1569722200&sr=8-1). Boston, MA: Beacon Press.
+- Douglass North (1990). [Institutions, Institutional Change and Economic Performance](https://smile.amazon.com/Institutions-Institutional-Performance-Political-Decisions/dp/0521397340/ref=sr_1_1?keywords=Institutions%2C+Institutional+Change+and+Economic+Performance&qid=1569722251&sr=8-1). New York, NY: Cambridge University Press.
+- Adam Przeworski (2004). [Institutions Matter?](https://www.cambridge.org/core/journals/government-and-opposition/article/institutions-matter-1/670E3CA05B9E684BF918205D06203454). _Government and Opposition_, 39(4), 527-40.
+- Stanley Engerman and Kenneth Sokoloff (1997). [Factor Endowment, Institutions, and Differential Paths of Growth among New World Economies](https://www.sup.org/books/title/?id=2707). In: Stephen Haber (ed.), _How Latin America Fell Behind_. Stanford, CA: Stanford University Press.
+
+## Week 3: History, Culture and Path Dependence in Comparative Politics
+
+### Readings
+
+- Nathan Nunn and Leonard Wantchekon (2011). [The Slave Trade and the Origins of Mistrust in Africa](https://www.aeaweb.org/articles.php?doi=10.1257/aer.101.7.3221). _American Economic Review_, 101(7), 3221-52.
+- Melissa Dell (2010). [The Persistent Effects of Peru's Mining Mita](http://onlinelibrary.wiley.com/doi/10.3982/ECTA8121/epdf). _Econometrica_, 78(6), 1863-1903
+- Nathan Nunn, Alberto Alesina, and Paola Giuliano (2013). [On the Origins of Gender Roles: Woman and the Plough](http://qje.oxfordjournals.org/content/128/2/469). _The Quarterly Journal of Economics_, 128(2), 469-530.
+- Quamrul Ashraf and Oded Galor (2013). [The 'Out of Africa' Hypothesis, Human Genetic Diversity and Comparative Economic Development](https://www.aeaweb.org/articles?id=10.1257/aer.103.1.1). _American Economic Review_, 103(1), 1-46.
+
+### Recommended Readings
+
+- Nathan Nunn (2014). [Historical Development](http://www.sciencedirect.com/science/article/pii/B9780444535382000071). In: Philippe Aghion and Steven Durlauf (eds.), _Handbook of Economic Growth_, Vol. 2. Amsterdam: New Holland. 
+- Karla Hoff, Mayuresh Kshetramade, and Ernst Fehr (2011). [Caste and Punishment: the Legacy of Caste Culture in Norm Enforcement](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0297.2011.02476.x). _The Economic Journal_, 121(556), 449-475.
+- Robert Boyd and Peter Richerson (2005). [The Origin and Evolution of Cultures](https://smile.amazon.com/Origin-Evolution-Cultures-Cognition/dp/019518145X). Oxford: Oxford University Press.
+- Daron Acemoglu and James Robinson (2006). [De Facto Political Power and Institutional Persistence](https://www.aeaweb.org/articles.php?doi=10.1257/000282806777212549). _American Economic Review_, 96(2), 325-330.
+
+## Week 4: State Formation
+
+### Readings
+
+- Charles Tilly (1990). [Coercion, Capital and European States](https://smile.amazon.com/Coercion-Capital-European-States-D/dp/1557863687). Oxford: Blackwell, 1992. Read chapters 1 and 3.
+- Jeffrey Herbst (2000). [States and Power in Africa: Comparative Lessons in Authority and Control](https://smile.amazon.com/States-Power-Africa-Comparative-International/dp/0691164142/ref=sr_1_1?keywords=States+and+Power+in+Africa%3A+Comparative+Lessons+in+Authority+and+Control&qid=1569724748&s=books&sr=1-1). Princeton, NJ: Princeton University Press. Read the introduction, chapters 1 and 2.
+- Mancur Olson (1993). [Dictatorship, Democracy, and Development](http://www.jstor.org/stable/2938736). _American Political Science Review_, 87(3), 567-576.
+- Raul Sanchez de la Sierra (2019). [On the Origin of the State: Stationary Bandits and Taxation in Eastern Congo](https://www.journals.uchicago.edu/doi/abs/10.1086/703989?mobileUi=0). _Journal of Political Economy_, 128(1), 32-74.
+
+### Recommended Readings
+
+- Hendrik Spruyt (2009). [War, Trade, and State Formation](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199604456.001.0001/oxfordhb-9780199604456-e-028). In: Charles Boix and Susan Stokes (eds.), _The Oxford Handbook of Comparative Politics_. Oxford: Oxford University Press.
+- Charles Tilly (1985). [War Making and State Making as Organized Crime](http://ebooks.cambridge.org/chapter.jsf?bid=CBO9780511628283&cid=CBO9780511628283A015). In: Peter Evans, Dietrich Rueschemeyer, and Theda Skocpol. _Bringing the State Back In_. Cambridge: Cambridge University Press. 
+- James Scott (2009). [The Art of Not Being Governed: An Anarchist History of Upland Southern Asia](https://smile.amazon.com/Art-Not-Being-Governed-Anarchist/dp/0300169175). New Haven, CT: Yale University Press.
+- Joana Naritomi, Rodrigo Soares, and Juliano Assucao (2012). [Institutional Development and Colonial Heritage within Brazil](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=8599137&fileId=S0022050712000071). _The Journal of Economic History_, 72(2), 393-422.
+
+## Week 5: State Capacity
+
+### Readings
+
+- Timothy Besley and Torsten Persson (2009). [The Origins of State Capacity: Property Rights, Taxation, and Politics](https://www.aeaweb.org/articles.php?doi=10.1257/aer.99.4.1218). _American Economic Review_, 99(4), 1218-44.
+- Timothy Besley and Torsten Persson (2011). [Pillars of Prosperity: The Political Economy of Development Clusters](https://smile.amazon.com/Pillars-Prosperity-Political-Economics-Development-ebook/dp/B005DI9RNK/ref=sr_1_1?keywords=Pillars+of+Prosperity%3A+The+Political+Economy+of+Development+Clusters&qid=1569724953&s=books&sr=1-1). Princeton, NJ: Princeton University Press. Read chapter 1.
+- Melissa Lee and Nan Zhang (2013). [The Art of Counting the Governed: Census Accuracy, Civil War, and State Presence](https://fsi-live.s3.us-west-1.amazonaws.com/s3fs-public/146_0.pdf). CDDRL Working Paper 146.
+- Nicola Gennaioli and Joachim Voth (2013). [State Capacity and Military Conflict](https://ideas.repec.org/p/bge/wpaper/593.html). Unpublished.
+
+### Recommended Readings
+
+- Daron Acemoglu, Camilo Garcia ­Jimeno, and James Robinson (2014). [State Capacity and Economic Development: A Network Approach](https://www.aeaweb.org/articles?id=10.1257/aer.20140044). _American Economic Review_, 105(8), 2364-2409.
+- Melissa Dell, Nathan Lane, and Pablo Querubin (2015). [State Capacity, Local Governance, and Economic Development in Vietnam](http://scholar.harvard.edu/files/dell/files/paper.pdf). Unpublished.
+- James Robinson (2002). [States and Power in Africa by Jeffrey Herbst: A Review Essay](https://www.aeaweb.org/articles.php?doi=10.1257/002205102320161357). _Journal of Economic Literature_, 40(2), 510-519.
+
+## Week 6: Central Government, State Control, and Decentralisation 
+
+### Readings
+
+- Daron Acemoglu, James Robinson, and Rafael Santos (2013). [The Monopoly of Violence: Evidence from Colombia](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1542-4774.2012.01099.x). _Journal of the European Economic Association_, 11, 5-44.
+- Gerard Padro I Miquel and Pierre Yared (2012). [The Political Economy of Indirect Control](http://qje.oxfordjournals.org/content/127/2/947.full). _The Quarterly Journal of Economics_, 127(2), 947-1015.
+- Benjamin Olken (2010). [Direct Democracy and Local Public Goods: Evidence from a Field Experiment in Indonesia](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=7793100&fileId=S0003055410000079). _American Political Science Review_, 104(2), 243-267.
+- Andrew Beath, Fotini Christia, and Ruben Enikopolov (2013). [Do Elected Councils Improve Governance Outcomes? Experimental Evidence on Local Institution in Afghanistan](http://elibrary.worldbank.org/doi/abs/10.1596/1813-9450-6510). Unpublished.
+
+### Recommended Readings
+
+- Daron Acemoglu (n.d.). [Chapter 14: Political Economy of States in Political Economy Lecture Notes](http://economics.mit.edu/files/8753).
+- Pranab Bardhan (2002). [Decentralization of Governance and Development](https://pubs.aeaweb.org/doi/pdf/10.1257/089533002320951037). _Journal of Economic Perspectives_, 16(4), 185-205.
+- Edward Gibson (2005). [Boundary Control: Subnational Authoritarianism in Democratic Countries](http://www.jstor.org/stable/40060126?seq=1#page_scan_tab_contents). _World Politics_, 58(1), 101-132.
+- Lakshmi Iyer (2010). [Direct versus Indirect Colonial Rule in India: Long Term Consequences](http://www.mitpressjournals.org/doi/abs/10.1162/REST_a_00023#.VUGhVFz0jDM). _The Review of Economics and Statistics_, 92(4), 693-713.
+
+## Week 7: Autocratic Politics 
+
+### Readings
+
+- Bruce Bueno de Mesquita, Alastair Smith, Randolph Silverson, and James Morrow (2005). [The Logic of Political Survival](https://smile.amazon.com/Logic-Political-Survival-MIT-Press/dp/0262524406/ref=sr_1_1?keywords=The+Logic+of+Political+Survival&qid=1569725249&s=books&sr=1-1). Cambridge, MA: MIT Press. Read Chapter 3
+- Jacob Hariri (2012). [The Autocratic Legacy of Early Statehood](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=8675832&fileId=S000305541-2000238). _American Political Science Review_, 106(3), 471-494.
+- Milan Svolik (2013). [Contracting on Violence: The Moral Hazard in Authoritarian Repression and Military Intervention in Politics](http://jcr.sagepub.com/content/57/5/765). _Journal of Conflict Resolution_, 57(5), 765-794.
+- Beatriz Magaloni (2008). [Voting for Autocracy: Hegemonic Party Survival and its Demise in Mexico](https://smile.amazon.com/Voting-Autocracy-Hegemonic-Cambridge-Comparative/dp/0521736595/ref=sr_1_1?keywords=Voting+for+Autocracy%3A+Hegemonic+Party+Survival+and+its+Demise+in+Mexico&qid=1569725287&s=books&sr=1-1). New York, NY: Cambridge University Press. Read Introduction and Chapter 1.
+
+### Recommended Readings
+
+- Milan Svolik (2012). [The Politics of Authoritarian Rule](https://smile.amazon.com/Politics-Authoritarian-Cambridge-Studies-Comparative/dp/1107607450/ref=sr_1_1?keywords=The+Politics+of+Authoritarian+Rule&qid=1569725315&s=books&sr=1-1). New York, NY: Cambridge University Press. 
+- Gerard Padro I Miquel (2007). [The Control of Politicians in Divided Societies: The Politics of Fear](http://www.jstor.org/stable/4626180). _Review of Economic Studies_, 74(4), 1259-1274.
+- Georgy Egorov and Konstantin Sonin (2011). [Dictators and their Viziers: Endogenizing the Loyalty-­Competence Trade-Off](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1542-4774.2011.01033.x). _Journal of the European Economic Association_, 9(5), 903-930.
+- Jenifer Gandhi and Adam Przeworski (2007). [Authoritarian Institutions and the Survival of Autocrats](http://cps.sagepub.com/content/40/11/1279.abstract). _Comparative Political Studies_, 40(11), 1279-1301.
+
+\newpage
+
+## Week 8: Democratic Politics
+
+### Readings
+
+- Daron Acemoglu and James Robinson (2000). [Why Did the West Extended the Franchise? Democracy, Inequality, and Growth in Historical Perspective](http://qje.oxfordjournals.org/content/115/4/1167.short). _The Quarterly Journal of Economics_, 115(4), 1167-1199.
+- Alessandro Lizzeri and Nicola Persico (2004). [Why did the Elites Extend the Suffrage? Democracy and the Scope of Government, with an Application to Britain’s 'Age of Reform'](http://qje.oxfordjournals.org/content/119/2/707.short). _The Quarterly Journal of Economics_, 119(2), 707-765.
+- Paola Giuliano and Nathan Nunn (2013). [The Transmission of Democracy: From the Village to the Nation­State](https://www.aeaweb.org/articles.php?doi=10.1257/aer.103.3.86). _The American Economic Review_, 103(3), 86-92.
+- Adam Przeworski (2009). [Conquered or Granted: A History of Suffrage Extensions](http:/journals.cambridge.org/action/displayAbstract?fromPage=online&aid=5106880&fileId=S000712340-8000434/). _British Journal of Political Science_, 39(2), 291-321.
+
+### Recommended Readings
+
+- Robin Harding and David Stasavage (2014). [What Democracy Does (and Doesn’t) Do for Basic Public Services: School Fees, School Inputs, and African Elections](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=9136588&fileId=S002238161-3001254). _The Journal of Politics_, 76(1), 229-245.
+- Daron Acemoglu and James Robinson (2006). [Economic Origins of Dictatorship and Democracy](https://smile.amazon.com/Economic-Origins-Dictatorship-Democracy-Acemoglu/dp/0521671426/ref=sr_1_1?keywords=Economic+Origins+of+Dictatorship+and+Democracy&qid=1569725446&s=books&sr=1-1). New York, NY: Cambridge University Press. Read chapter 6.
+- Joseph Schumpeter (1950). [Capitalism, Socialism, and Democracy](https://smile.amazon.com/Capitalism-Socialism-Democracy-Perennial-Thought/dp/0061561614/ref=sr_1_3?keywords=Capitalism%2C+Socialism%2C+and+Democracy&qid=1569725466&s=books&sr=1-3). New York, NY: Harper & Row Publishers Inc.
+- Daron Acemoglu, Suresh Naidum Pascual Restrepo, and James Robinson (2019). [Democracy Does Cause Growth](https://www.journals.uchicago.edu/doi/full/10.1086/700936). _Journal of Political Economy_, 127(1), 47-100.
+
+## Week 9: Inequality, Conflict, and Ethnic Politics 
+
+### Readings
+
+- Charles Boix (2015). [Political Order and Inequality: Their Foundations and Their Consequences for Human Welfare](https://smile.amazon.com/Political-Order-Inequality-Foundations-Consequences-ebook/dp/B00SYVZESK/ref=sr_1_1?keywords=Political+Order+and+Inequality&qid=1569725524&sr=8-1). Cambridge: Cambridge University Press. Read the introduction and chapter 5. 
+- Erik Meyersson (2014). [Islamic Rule and The Empowerment of The Poor and Pious](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA9878). _Econometrica_, 82(1), 229-269.
+- Melissa Dell (2011). [Insurgency and Long Run Development: Lessons from the Mexican Revolution](https://pdfs.semanticscholar.org/df5b/120b8cef10efd048bab6f0c2d98a40333e70.pdf). Unpublished. 
+- Daniel Posner (2004). [The Political Salience of Cultural Difference: Why Chewas and Tumbukas Are Allies in Zambia and Adversaries in Malawi](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=265342&fileId=S0003055404-041334). _American Political Science Review_, 529-545.
+
+### Recommended Readings
+
+- Thomas Piketty (2014). [Capital in the Twenty-First Century](https://smile.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty/dp/0674979850). Cambridge, MA: Harvard University Press.
+- Joan Esteban and Debraj Ray (2011). [Linking Conflict to Inequality and Polarization](https://www.aeaweb.org/articles.php?doi=10.1257/aer.101.4.1345). _American Economic Review_, 101(4), 1345-74.
+- Thomas Piketty (1995). [Social Mobility and Redistributive Politics](http://www.jstor.org/stable/2946692). _The Quarterly Journal of Economics_, 110(3), 551-584.
+- Thomas Piketty and Gabriel Zucman (2014). [Capital is Back: Wealth ­Income Rations in Rich Countries](https://academic.oup.com/qje/article/129/3/1255/1818714). _Quarterly Journal of Economics_, 129(3), 1255–1310.
+
+## Week 10: Electoral Competition
+
+### Readings
+
+- Torsten Persson, Gerard Roland, and Guido Tabellini (2007). [Electoral Rules and Government Spending in Parliamentary Democracies](http://www.nowpublishers.com/article/Details/QJPS-6019). _Quarterly Journal of Political Science_, 2(2), 155-188.
+- Thomas Fujiwara (2015). [Voting Technology, Political Responsiveness, and Infant Health: evidence from Brazil](http://onlinelibrary.wiley.com/doi/10.3982/ECTA11520/abstract). _Econometrica_, 83(2), 423-464.
+- Kenneth Benoit (2007). [Electoral Laws as Political Consequences: Explaining the Origins and Change of Electoral Institutions](https://www.annualreviews.org/doi/abs/10.1146/annurev.polisci.10.072805.101608?journalCode=polisci). _Annual Review of Political Science_, 10(1), 363-390.
+
+### Recommended Readings
+
+- Andrew Hall (2015). [What Happens when Extremists Win Primaries?](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=9586301&fulltextType=RA&fileId=S0003055414000641). _American Political Science Review_, 109(1), 18-42
+- James Fearon (1999). [Electoral Accountability and Control of Politicians: Selecting Good Types versus Sanctioning Poor Performance in Democracy, Accountability, and Representation](http://ebooks.cambridge.org/chapter.jsf?bid=CBO9781139175104&cid=CBO9781139175104A011). In: Adam Przeworski, Susan Stokes, and Bernard Manin (eds.). _Democracy, Accountability, and Representation_. Cambridge: Cambridge University Press.
+- Torsten Persson and Guido Tabellini (2000). [Political Economics: Explaining Economic Policy](https://smile.amazon.com/Political-Economics-Explaining-Economic-Lectures-ebook/dp/B00ELWUVK2). Cambridge, MA: MIT Press. Read Chapters 2, 3, and 6.
+- Monica Martinez ­Bravo, Gerard Padro I Miquel, Nancy Qian, and Yang Yao (n.d.). [Do Local Elections in Non­Democracies Increase Accountability? Evidence from Rural China](http://www.nber.org/papers/w16948). Unpublished.
+
+## Week 11: Legislative Politics and Checks and Balances
+
+### Readings
+
+- Daniel Diermeier and Razvan Vlaicu (2011). [Parties, Coalitions, and Internal Organization of Legislatures](http://www.jstor.org/stable/41495070). _American Political Science Review_, 105(2), 359-380.
+- Daron Acemoglu, James Robinson, and Ragnar Torvik (2013). [Why do Voters Dismantle Checks and Balances?](https://academic.oup.com/restud/article-abstract/80/3/845/1573703). _Review of Economic Studies_, 80(3), 845-875.
+- Torsten Persson and Guido Tabellini (2004). [Constitutional Rules and Fiscal Policy Outcomes](http://www.jstor.org/stable/3592767). _American Economic Review_, 94(1), 25-45.
+- Torsten Persson, Gerard Roland, and Guido Tabellini (1997). [Separation of Powers and Political Accountability](http://qje.oxfordjournals.org/content/112/4/1163.short). _The Quarterly Journal of Economics_, 112(4), 1163-1202.
+
+### Recommended Readings
+
+- Roger Myerson (2008). [The Autocrat's Credibility Problem and Foundations of the Constitutional State](http://www.jstor.org/stable/27644502). _American Political Science Review_, 102(1), 125-139.
+- Patrick Francois, Ilia Rainer and Francesco Trebbi (2015). [How is Power Shared in Africa?](http://onlinelibrary.wiley.com/doi/10.3982/ECTA11237/abstract). _Econometrica_, 83(2), 465-503.
+- Gary Cox and Matthew McCubbins (2007). [Legislative Leviathan: Party Government in the House](https://smile.amazon.com/Legislative-Leviathan-Party-Government-House-ebook/dp/B00QIT31E4). Cambridge: Cambridge University Press. 
+- Marianne Bertrand, Matilde Bombardini, and Francesco Trebbi (2014). [Is it Whom you know or What you know? An Empirical Assessment of the Lobbying Process](http://www.aeaweb.org/articles.php?doi=10.1257/aer.104.12.3885). _American Economic Review_, 104(12), 3885-3920.
+
+## Week 12: Accountability
+
+### Readings
+
+- Jean Tirole (1994). [The Internal Organization of Government](http://www.jstor.org/stable/2663521?seq=1#page_scan_tab_contents). _Oxford Economic Papers_, 46(1), 1-29.
+- Timothy Besley and Robin Burgess (2002). [The Political Economy of Government Responsiveness: Evidence from India](http://qje.oxfordjournals.org/content/117/4/1415.short). _The Quarterly Journal of Economics_, 117(4), 1415-1451.
+- Timothy Besley and John McLaren (1992). [Taxes and Bribery: The Role of Wage Incentives](http://www.jstor.org/stable/2234340). _The Economic Journal_, 103(416), 119-141.
+- David Lee, Enrico Moretti, and Matthew Butler (2004). [Do Voters Affect or Elect Policies? Evidence from the US House](http://qje.oxfordjournals.org/content/119/3/807.short). _The Quarterly Journal of Economics_, 119(3), 807-859.
+
+### Recommended Readings
+
+- Eric Maskin and Jean Tirole (2004). [The Politician and the Judge: Accountability in Government](https://www.aeaweb.org/articles?id=10.1257/0002828042002606). _American Economic Review_, 94(4), 1034-1054.
+- Timothy Besley (2006). [Principled Agents? The Political Economy of Good Government](https://smile.amazon.com/Principled-Agents-Political-Government-Lectures/dp/019927150X). Oxford: Oxford University Press.
+- Nava Ashraf, Oriana Bandiera, and Scott Lee (2015). [Do-­Gooders an Go-­Getters: Career Incentives, Selection, and Performance in Public Service Delivery](http://economics.mit.edu/files/10512). Unpublished. 
+
+## Week 13: Violence and Political Violence
+
+### Readings
+
+- Nishith Prakash, Marc Rockmore, Yogesh Uppal (2014). [Do Criminal Representatives Hinder or Improve Constituency Outcomes? Evidence from India](http://www.econ.gatech.edu/files/seminars/Marc%20Rockmore.pdf). Unpublished. 
+- Ernesto Dal Bo, Pedro Dal Bo, and Rafael Di Tella (2006). ['Plata o Plomo?': Bribe and Punishment in a theory of Political Influence](http://www.jstor.org/stable/27644330). _American Political Science Review_, 100(1), 41-53.
+- Oeindrila Dube and Juan Vargas (2013). [Commodity Price Shocks and Civil Conflict: Evidence from Colombia](https://academic.oup.com/restud/article-abstract/80/4/1384/1579342). _The Review of Economic Studies_, 80(4), 1384-1421.
+- Arindrajit Dube, Oeindrila Dube, and Omar Garcia­Ponce(2013). [Cross-­Border Spillover: US Gun Laws and Violence in Mexico.](https://www.cambridge.org/core/journals/american-political-science-review/article/crossborder-spillover-us-gun-laws-and-violence-in-mexico/438E607A07F32D57AF244B61ED38FB28). _American Political Science Review_, 107(3), 397-417.
+
+### Recommended Readings
+
+- Graham Willis (2015). [The Killing Consensus: Police, Organized Crime, and the Regulation of Life and Death in Urban Brazil](https://smile.amazon.com/Killing-Consensus-Police-Organized-Regulation/dp/0520285719). Oakland, CA: University of California Press. 
+- Christopher Blattman and Edward Miguel (2010). [Civil War](http://chrisblattman.com/documents/research/2010.CivilWar.JEL.pdf). _Journal of Economic Literature_, 48(1), 3-57.
+- Shanker Satyanath, Edward Miguel, and Ernest Sargenti (2004). [Economic Shocks and Civil Conflict: An Instrumental Variables Approach](https://www.journals.uchicago.edu/doi/abs/10.1086/421174?journalCode=jpe). _Journal of Political Economy_, 112(4), 725-753.
+
+## Week 14: Corruption
+
+### Readings
+
+- Benjamin Olken (2007). [Monitoring Corruption: Evidence from a Field Experiment in Indonesia](https://www.journals.uchicago.edu/doi/abs/10.1086/517935). _Journal of Political Economy_, 115(2), 200-249.
+- Claudio Ferraz and Frederico Finan (2008). [Exposing Corrupt Politicians: The Effect of Brazil's Publicly Released Audits on Electoral Outcomes](https://academic.oup.com/qje/article-abstract/123/2/703/1930865?redirectedFrom=fulltext). _The Quarterly Journal of Economics_, 123(2), 703-745.
+- Claudio Ferraz and Frederico Finan (2011). [Electoral Accountability and Corruption: Evidence from Audits of Local Governments](https://www.aeaweb.org/articles.php?doi=10.1257/aer.101.4.1274). _American Economic Review_, 101(4), 1274-1311.
+- Ritva Rwinikka and Jakob Svensson (2004). [Local Capture: Evidence from a Central Government Transfer Program in Uganda](http://qje.oxfordjournals.org/content/119/2/679.shorti). _The Quarterly Journal of Economics_, 119(2), 679-705.
+
+### Recommended Readings
+
+
+- Jana Kunicova and Susan Rose­Ackerman (2005). [Electoral Rules and Constitutional Structures as Constraints on Corruption.](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/electoral-rules-and-constitutional-structures-as-constraints-on-corruption/946C36EC533FFEF6277E40EC7135013C). _British Journal of Political Science_, 35(4), 573-606.
+- Abhijit Banerjee, Donald Green, Jeffery McManus, and Rohini Pande (2012). [Are Poor Voters Indifferent to Whether Elected Leaders are Criminal or Corrupt? A Vignette Experiment in Rural India](http://www.hks.harvard.edu/fs/rpande/papers/UP%20Vignette_2012­10­22_final_wfig1.pdf). Unpublished. 
+- Abhijit Banerjee (1997). [A Theory of Misgovernance](http://qje.oxfordjournals.org/content/112/4/1289.short). _The Quarterly Journal of Economics_, 112(4), 1289-1332.
+- Daniel Treisman (2007). [What Have We Learned About the Causes of Corruption from Ten Years of Cross-­National Empirical Research?](http://www.annualreviews.org/doi/pdf/10.1146/annurev.polisci.10.081205.095418) _Annual Review of Political Science_, 10, 211-244.
+
+## Week 15: Distributive Politics and Clientelism
+
+### Readings
+
+- Horacio Larreguy, John Marshall, and Pablo Querubin (2015). [Parties, Brokers, and Voter Mobilization: How Turnout Buying Depends upon the Party's Capacity to Monitor Brokers](https://www.dropbox.com/s/3f107zvaam84u2g/Turnout%20Buying%20APSR%20Final.pdf?dl=0). Unpublished. 
+- Susan Stokes, Thad Dunning, Marcelo Nazareno, and Valeria Brusco. (2013). [Brokers, Voters, and Clientelism: The Puzzle of Distributive Politics](https://smile.amazon.com/Brokers-Voters-Clientelism-Distributive-Comparative/dp/1107660394). New York, NY: Cambridge University Press. Read Chapters 1, 3 and 4. 
+- Ana De La O (2013). [Do Conditional Cash Transfers Affect Electoral Behavior? Evidence from a Randomized Experimentin
+  Mexico](http://onlinelibrary.wiley.com/doi/10.1111/j.1540­5907.2012.00617.x/abstract). _American Journal of Political Science_, 57(1), 1-14.
+
+### Recommended Readings
+
+- Barry Weingast, Kenneth Shapsle and Christopher Johnsen (1981). [The Political Economy of Benefits and Costs: A Neoclassical Approach to Distributive Politics](http://www.jstor.org/stable/1833029). _Journal of political Economy_, 89(4), 642-664.
+- Susan Stokes (2005). [Perverse Accountability: A Formal Model of Machine Politics with Evidence from Argentina](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=332864&fileId=S0003055405 051683). _American Political Science Review_, 315-325.
+- Allen Hicken (2011). [Clientelism](https://www.annualreviews.org/doi/abs/10.1146/annurev.polisci.031908.220508). _Annual Review of Political Science_, 14, 289-310.

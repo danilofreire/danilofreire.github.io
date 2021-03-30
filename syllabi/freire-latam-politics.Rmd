@@ -1,14 +1,14 @@
 ---
 title: "Latin American Politics"
 author: "Danilo Freire"
-date: "Fall 2019"
+date: "April 2021"
 output:
   pdf_document:
     fig_caption: yes
     latex_engine: pdflatex
     template: ~/Documents/github/danilofreire.github.io/syllabi/template.tex
   word_document: default
-email: danilofreire@brown.edu
+email: danilofreire@gmail.com
 fontfamily: libertine
 fontsize: 12pt
 geometry: margin=1in
@@ -26,13 +26,13 @@ The objective of this class is to provide a broad overview of the main questions
 
 # Course Information
 
-It is very important that you read the assigned readings before class. Students are encouraged to engage in critical discussions and are most welcome to express their views openly and freely. I would suggest you to bring some notes to the class so that we can discuss together the topics you find most interesting. Although many of the readings use formal models or statistical methods to develop their arguments, no previous knowledge of game theory or quantitative methods is required. Feel free to skip the technical parts if they are too challenging and focus on the main ideas of the readings.
+It is very important that you read the assigned readings before class. Students are encouraged to engage in critical discussions and are most welcome to express their views openly and freely. I would suggest you to bring some notes to the class so that we can discuss together the topics you find most interesting. Although some of the readings use formal models or statistical methods to develop their arguments, no previous knowledge of game theory or quantitative methods is required. Feel free to skip the technical parts if they are too challenging and focus on the main ideas of the readings.
 
 All information about the course will be available at [http://danilofreire.github.io](http://danilofreire.github.io). The syllabus will be updated periodically according to the progress of the class. Please remember to visit the website regularly.
 
 # Office Hours
 
-I am very flexible when it comes to office hours, but it is easier to contact me via email. Feel free to send me a message any time at [danilofreire@brown.edu](mailto:danilofreire@brown.edu). I will probably reply in a few hours. You can also meet me in the afternoon at my office. My address is [8 Fones Alley, first floor, office 114](https://goo.gl/maps/8WhhyCNDHnw). If possible, please send me an email before coming to my office just to make sure two students will not book the same time slot.
+I am very flexible when it comes to office hours, but it is easier to contact me via email. Feel free to send me a message any time at [danilofreire@gmail.com](mailto:danilofreire@gmail). I will reply in a few hours. You can also meet me in the afternoon at my office. If possible, please send me an email before coming to my office just to make sure two students will not book the same time slot.
 
 # Community Standards
 
