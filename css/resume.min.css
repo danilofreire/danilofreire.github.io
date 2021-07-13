@@ -67,13 +67,13 @@ p.lead {
   margin-right: 0;
 }
 .social-icons a:hover {
-  background-color: #bd5d38;
+  background-color: #00517f;
 }
 .dev-icons {
   font-size: 3rem;
 }
 .dev-icons .list-inline-item i:hover {
-  color: #bd5d38;
+  color: #00517f;
 }
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
@@ -81,7 +81,7 @@ p.lead {
   text-transform: uppercase;
 }
 #sideNav .navbar-toggler:focus {
-  outline-color: #d48a6e;
+  outline-color: #00517f;
 }
 @media (min-width: 992px) {
   #sideNav {
@@ -172,5 +172,5 @@ a {
 a:active,
 a:focus,
 a:hover {
-  color: #824027;
+  color: #00517f;
 }
