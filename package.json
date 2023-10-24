@@ -1,9 +1,16 @@
 {
     "title": "Resume",
     "name": "startbootstrap-resume",
-    "version": "5.0.4",
+    "version": "7.0.6",
     "scripts": {
-        "start": "gulp watch"
+        "build": "npm run clean && npm run build:pug && npm run build:scss && npm run build:scripts && npm run build:assets",
+        "build:assets": "node scripts/build-assets.js",
+        "build:pug": "node scripts/build-pug.js",
+        "build:scripts": "node scripts/build-scripts.js",
+        "build:scss": "node scripts/build-scss.js",
+        "clean": "node scripts/clean.js",
+        "start": "npm run build && node scripts/start.js",
+        "start:debug": "npm run build && node scripts/start-debug.js"
     },
     "description": "Resume is a simple, yet elegant resume and CV theme for Bootstrap 4.",
     "keywords": [
@@ -14,37 +21,33 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/resume",
+    "homepage": "https://startbootstrap.com/theme/resume",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-resume/issues",
+        "url": "https://github.com/StartBootstrap/startbootstrap-resume/issues",
         "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
     "author": "Start Bootstrap",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "David Miller (https://davidmiller.io/)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-resume.git"
+        "url": "https://github.com/StartBootstrap/startbootstrap-resume.git"
     },
     "dependencies": {
-        "@fortawesome/fontawesome-free": "5.7.2",
-        "bootstrap": "4.3.1",
-        "jquery": "3.5.0",
-        "jquery.easing": "^1.4.1"
+        "bootstrap": "5.2.3"
     },
     "devDependencies": {
-        "browser-sync": "2.26.3",
-        "del": "^3.0.0",
-        "gulp": "4.0.0",
-        "gulp-autoprefixer": "6.0.0",
-        "gulp-clean-css": "4.0.0",
-        "gulp-header": "2.0.7",
-        "gulp-plumber": "^1.2.1",
-        "gulp-rename": "1.4.0",
-        "gulp-sass": "4.0.2",
-        "gulp-uglify": "3.0.1",
-        "merge-stream": "^1.0.1"
+        "autoprefixer": "10.4.14",
+        "browser-sync": "2.29.1",
+        "chokidar": "3.5.3",
+        "concurrently": "6.3.0",
+        "postcss": "8.4.21",
+        "prettier": "2.8.6",
+        "pug": "3.0.2",
+        "sass": "1.60.0",
+        "shelljs": "0.8.5",
+        "upath": "2.0.1"
     }
 }
