@@ -42,7 +42,7 @@
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
-  --bs-primary-rgb: 45, 69, 99;
+  --bs-primary-rgb: 55, 79, 109;
   --bs-secondary-rgb: 108, 117, 125;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
@@ -73,14 +73,10 @@
   --bs-border-radius-xl: 1rem;
   --bs-border-radius-2xl: 2rem;
   --bs-border-radius-pill: 50rem;
-  --bs-link-color: #2d4563;
+  --bs-link-color: #374f6d;
   --bs-link-hover-color: #dc443c;
   --bs-code-color: #d63384;
   --bs-highlight-bg: #fff3cd;
-}
-
-body, p {
-  color: #6e7276 !important;
 }
 
 *,
@@ -122,7 +118,7 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 700;
   line-height: 1.2;
-  color: #46494b;
+  color: #343a40;
 }
 
 h1, .h1 {
@@ -252,7 +248,7 @@ sup {
 
 a {
   color: var(--bs-link-color);
-  text-decoration: none;
+  text-decoration: underline;
 }
 a:hover {
   color: var(--bs-link-hover-color);
