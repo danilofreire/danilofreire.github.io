@@ -1,0 +1,55 @@
+---
+title: "Software"
+---
+
+All packages are written in R and available on CRAN or GitHub.
+
+::: {.software-card}
+### pinochet
+
+Data about the victims of the Pinochet regime, 1973--1990. The package provides a dataset with information on victims of the Pinochet dictatorship in Chile, including demographic details, the type of violence they experienced, and geographic coordinates.
+
+With Lucas Mingardi and Robert McDonnell.
+
+::: {.software-links}
+[Website](http://danilofreire.github.io/pinochet)
+[GitHub](https://github.com/danilofreire/pinochet)
+[CRAN](https://cran.r-project.org/package=pinochet)
+:::
+
+:::
+
+::: {.software-card}
+### congressbr
+
+Downloads, unpacks, and tidies legislative data from the Brazilian Federal Senate and Chamber of Deputies. The package provides access to a wide range of data on Brazilian legislators, bills, votes, and other parliamentary activities.
+
+With Robert McDonnell and Guilherme Duarte.
+
+Published in *Latin American Research Review*, 2019, 54(4), 958--969. [DOI: 10.25222/larr.447](https://doi.org/10.25222/larr.447).
+
+::: {.software-links}
+[GitHub](https://github.com/RobertMyles/congressbr)
+[CRAN](https://cran.r-project.org/package=congressbr)
+[Paper](https://doi.org/10.25222/larr.447)
+:::
+
+:::
+
+::: {.software-card}
+### prisonbrief
+
+R package that returns tidy data from the World Prison Brief website. The package allows users to download and analyse data on prison populations across the world.
+
+With Robert McDonnell.
+
+Published in *Journal of Open Source Software*, 2018, 3(22), 361. [DOI: 10.21105/joss.00361](https://doi.org/10.21105/joss.00361).
+
+::: {.software-links}
+[Website](http://danilofreire.github.io/prisonbrief)
+[GitHub](https://github.com/danilofreire/prisonbrief)
+[CRAN](https://cran.r-project.org/package=prisonbrief)
+[Paper](https://doi.org/10.21105/joss.00361)
+:::
+
+:::

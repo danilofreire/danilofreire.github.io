@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download CV (PDF)\n\n\nIf your browser does not display the PDF, you can download it directly."
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "All packages are written in R and available on CRAN or GitHub.\n\npinochet\nData about the victims of the Pinochet regime, 1973–1990. The package provides a dataset with information on victims of the Pinochet dictatorship in Chile, including demographic details, the type of violence they experienced, and geographic coordinates.\nWith Lucas Mingardi and Robert McDonnell.\n\nWebsite GitHub CRAN\n\n\n\ncongressbr\nDownloads, unpacks, and tidies legislative data from the Brazilian Federal Senate and Chamber of Deputies. The package provides access to a wide range of data on Brazilian legislators, bills, votes, and other parliamentary activities.\nWith Robert McDonnell and Guilherme Duarte.\nPublished in Latin American Research Review, 2019, 54(4), 958–969. DOI: 10.25222/larr.447.\n\nGitHub CRAN Paper\n\n\n\nprisonbrief\nR package that returns tidy data from the World Prison Brief website. The package allows users to download and analyse data on prison populations across the world.\nWith Robert McDonnell.\nPublished in Journal of Open Source Software, 2018, 3(22), 361. DOI: 10.21105/joss.00361.\n\nWebsite GitHub CRAN Paper"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Danilo Freire",
+    "section": "",
+    "text": "I am a Visiting Assistant Professor in the Department of Data and Decision Sciences at Emory University and an Honorary Senior Fellow at the University of Lincoln. I hold a PhD in Political Economy from King’s College London, an MA in International Relations from the Graduate Institute Geneva, and an MA in Political Science from the University of Sao Paulo. Before joining Emory, I was a Postdoctoral Research Associate at Brown University and a Senior Lecturer at the University of Lincoln.\nMy research focuses on the challenges developing countries face in solving collective action problems and reducing political violence. I am particularly interested in public service delivery, accountability, private governance, and state violence. Most of my work centres on Latin America, where I use various methods including survey and field experiments, machine learning, and administrative data analysis.\nMy research has appeared in the American Journal of Political Science, British Journal of Political Science, Royal Society Open Science, Journal of Experimental Political Science, Latin American Research Review, and Research & Politics. I am also an EGAP Fellow.\nYou can find my publications on the Research page, download my CV, or browse my projects on GitHub. If you have any questions or would like to discuss potential collaborations, please email me at danilo.freire@emory.edu. I am always keen to connect with fellow researchers and students."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Substantive: Public Policy, Political Violence, Organised Crime, Collective Action, Brazilian Politics\nMethodological: Computational Social Science, Impact Evaluation, Field Experiments, Meta-Analysis"
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Research",
+    "section": "",
+    "text": "Substantive: Public Policy, Political Violence, Organised Crime, Collective Action, Brazilian Politics\nMethodological: Computational Social Science, Impact Evaluation, Field Experiments, Meta-Analysis"
+  },
+  {
+    "objectID": "research.html#peer-reviewed-articles",
+    "href": "research.html#peer-reviewed-articles",
+    "title": "Research",
+    "section": "Peer-reviewed articles",
+    "text": "Peer-reviewed articles\n\n\nThe Reliability of Replications: A Study in Computational Reproductions\n\n\nWith Nate Breznau, Eike Mark Rinke, Alexander Wuttke, and others\n\n\nRoyal Society Open Science, 2025\n\n\nDOI Replication files\n\n\n\n\nLegislature Size and Welfare: Evidence From Brazil\n\n\nWith Umberto Mignozzetti and Gabriel Cepaluni\n\n\nAmerican Journal of Political Science, 2024\n\n\nDOI Replication files Media: Australian Institute of International Affairs\n\n\n\n\nVigilantism and Institutions: Attitudes toward Lynching in Brazil\n\n\nWith David Skarbek\n\n\nResearch & Politics, 2023, 10(1), 1–8\n\n\nDOI Replication files\n\n\n\n\nThe Effect of Legislature Size on Distributive Politics: A Meta-Analysis\n\n\nWith Umberto Mignozzetti, Catarina Roman, and Huzeyfe Alptekin\n\n\nBritish Journal of Political Science, 2021\n\n\nDOI Replication files\n\n\n\n\nInstitutional Design and Elite Support for Climate Policies: Evidence from Latin American Countries\n\n\nWith Umberto Mignozzetti and David Skarbek\n\n\nJournal of Experimental Political Science, Summer 2021, 172–184\n\n\nDOI Replication files\n\n\n\n\nBottom-Up Accountability and Public Service Provision: Evidence from a Field Experiment in Brazil\n\n\nWith Manoel Galdino and Umberto Mignozzetti\n\n\nResearch & Politics, 2020, 7(2), 1–8\n\n\nDOI Replication files\n\n\n\n\ncongressbr: An R Package for Analysing Data from Brazil’s Chamber of Deputies and Federal Senate\n\n\nWith Robert McDonnell and Guilherme Duarte\n\n\nLatin American Research Review, 2019, 54(4), 958–969\n\n\nDOI Software repository\n\n\n\n\nBeasts of Prey or Rational Animals?: Private Governance in Brazil’s Jogo do Bicho\n\n\nDanilo Freire\n\n\nLatin American Perspectives, 2019, 46(4), 230–244\n\n\nDOI Media: BBC Brazil\n\n\n\n\nEvaluating the Effect of Homicide Prevention Strategies in Sao Paulo, Brazil: A Synthetic Control Approach\n\n\nDanilo Freire\n\n\nLatin American Research Review, 2018, 53(2), 231–249\n\n\nDOI Replication files Media: Valor Economico\n\n\n\n\nprisonbrief: An R Package that Returns Tidy Data from the World Prison Brief Website\n\n\nWith Robert McDonnell\n\n\nJournal of Open Source Software, 2018, 3(22), 361\n\n\nDOI Software repository\n\n\n\n\nLack of Preferences, Political Trust and Education Levels: Alternative Explanations for Invalid Votes in Brazilian Elections\n\n\nWith Guilherme Arbache and Pietro Rodrigues\n\n\nEncuentro Latinoamericano, 2015, 1(1), 29–50\n\n\nPDF Replication files\n\n\n\n\nBetween Ballot Boxes and Guns: The Competitiveness of the Executive Branch and Civil Wars, 1976–2000\n\n\nDanilo Freire\n\n\nRevista Espanola de Ciencia Politica, 2014, 36, 33–60\n\n\nPDF Replication files"
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "Working papers",
+    "text": "Working papers\n\n\nFinancial Incentives and Health Care Provision: Evidence from an Experimental Aedes aegypti Control Programme in Brazil\n\n\nWith Umberto Mignozzetti. Under review.\n\n\nGitHub\n\n\n\n\nLegislative Outcomes and Malapportionment: Evidence from Latin America\n\n\nWith Umberto Mignozzetti and Catarina Roman\n\n\nPDF\n\n\n\n\nDemocratising Policy Analytics with AutoML\n\n\nDanilo Freire\n\n\nPDF\n\n\n\n\nWhat Drives State-Sponsored Violence? Evidence from Extreme Bounds Analysis and Ensemble Learning Methods\n\n\nWith Gary Uzonyi\n\n\nOSF\n\n\n\n\nEnvironmental Protection in Weak Party Systems: Evidence from Brazil\n\n\nWith Umberto Mignozzetti. In preparation.\n\n\n\n\nNatural Disasters and Identity Reconstruction Among Syrian Refugees\n\n\nWith Hamoon Khelghat-Doost. In preparation."
+  },
+  {
+    "objectID": "research.html#book",
+    "href": "research.html#book",
+    "title": "Research",
+    "section": "Book",
+    "text": "Book\n\n\nNatural Resources and Policy Choices in Latin America\n\n\nEdited with Giovanna Franca and Umberto Mignozzetti\n\n\nSao Paulo: Konrad Adenauer Foundation, 2020\n\n\nPDF"
+  },
+  {
+    "objectID": "research.html#book-chapters",
+    "href": "research.html#book-chapters",
+    "title": "Research",
+    "section": "Book chapters",
+    "text": "Book chapters\n\n\nPrison Gangs\n\n\nWith David Skarbek\n\n\nIn: Griffin, Hayden; Woodward, Vanessa (ed.). Handbook of Corrections in the United States. London: Routledge, 2017, 399–408\n\n\nOSF\n\n\n\n\nA Nova Gestao Publica e a Qualidade da Democracia\n\n\nDanilo Freire\n\n\nIn: Erkens, Rainer (ed.). Nova Gestao Publica. Sao Paulo: Instituto Friedrich Naumann, 2010, 9–15\n\n\nPDF"
+  },
+  {
+    "objectID": "research.html#other-publications",
+    "href": "research.html#other-publications",
+    "title": "Research",
+    "section": "Other publications",
+    "text": "Other publications\n\n\nGeopolitics of Renewable Energies in Latin America: A Survey\n\n\nWith Umberto Mignozzetti\n\n\nPolicy Report commissioned by the Konrad Adenauer Stiftung, 2019\n\n\nPDF\n\n\n\n\nPeering at Open Peer Review\n\n\nDanilo Freire\n\n\nThe Political Methodologist, 2015, 23(1), 6–11\n\n\nPDF\n\n\n\n\nBook Review: Causal Inference, Shaolin-Style: “Mastering Metrics” by Joshua D. Angrist and Jorn-Steffen Pischke\n\n\nDanilo Freire\n\n\nBrazilian Political Science Review, 2015, 9(3), 178–185\n\n\nPDF\n\n\n\n\nEntering the Underworld: Prison Gang Recruitment in Sao Paulo’s Primeiro Comando da Capital\n\n\nDanilo Freire\n\n\nMA Thesis in International Relations, The Graduate Institute Geneva, 2014\n\n\nPDF\n\n\n\n\nBook Review: “Why Nations Fail” by Daron Acemoglu and James Robinson\n\n\nDanilo Freire\n\n\nMeridiano47, 2013, 14(135)\n\n\nPDF\n\n\n\n\nEntre Urnas e Armas: A Competitividade do Executivo e as Guerras Civis, 1976–2000\n\n\nDanilo Freire\n\n\nMA Thesis in Political Science, University of Sao Paulo, 2011\n\n\nPDF Replication files"
+  },
+  {
+    "objectID": "research.html#awards-and-service",
+    "href": "research.html#awards-and-service",
+    "title": "Research",
+    "section": "Awards and service",
+    "text": "Awards and service\n\n\nSelected awards\n\nGoogle Social Impact Challenge Grant (US$300,000)\nKonrad Adenauer Stiftung Research Grant (US$64,000)\nFellow, Evidence in Governance and Politics (EGAP)\nAssociate Fellow, Advance HE\nGraduate Research Studentship, King’s College London\n\n\n\nService\n\nAssociate Editor, International Social Science Journal\nAssociate Editor, Humanities & Social Sciences Communications\nReferee for AJPS, JPR, BJPS, Electoral Studies, and 14 other journals\nCo-editor, Leviathan, University of Sao Paulo (2012–2016)"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "DATASCI 385 – Experimental Methods (Undergraduate) Emory University\n2024–present. Covers the design and analysis of experiments in the social sciences, including randomisation, power analysis, and causal inference.\n\n\nDATASCI 350 – Data Science Computing (Undergraduate/Graduate) Emory University\n2024–present. Introduces computational tools for data science, including version control, command line, cloud computing, and reproducible workflows.\n\n\nDATASCI 185 – Introduction to AI Applications (Undergraduate) Emory University\n2025–present. Covers AI fundamentals, large language models, prompt engineering, ethics, bias, policy, and governance.\n\n\nDATASCI 151 – Introduction to Statistical Computing II (Undergraduate) Emory University\n2024–present. Covers Python programming for data analysis, including data wrangling, visualisation, and basic statistical modelling."
+  },
+  {
+    "objectID": "teaching.html#current-courses",
+    "href": "teaching.html#current-courses",
+    "title": "Teaching",
+    "section": "",
+    "text": "DATASCI 385 – Experimental Methods (Undergraduate) Emory University\n2024–present. Covers the design and analysis of experiments in the social sciences, including randomisation, power analysis, and causal inference.\n\n\nDATASCI 350 – Data Science Computing (Undergraduate/Graduate) Emory University\n2024–present. Introduces computational tools for data science, including version control, command line, cloud computing, and reproducible workflows.\n\n\nDATASCI 185 – Introduction to AI Applications (Undergraduate) Emory University\n2025–present. Covers AI fundamentals, large language models, prompt engineering, ethics, bias, policy, and governance.\n\n\nDATASCI 151 – Introduction to Statistical Computing II (Undergraduate) Emory University\n2024–present. Covers Python programming for data analysis, including data wrangling, visualisation, and basic statistical modelling."
+  },
+  {
+    "objectID": "teaching.html#workshops",
+    "href": "teaching.html#workshops",
+    "title": "Teaching",
+    "section": "Workshops",
+    "text": "Workshops\n\nEGAP Learning Days 15: Field Experiments in the Social Sciences EGAP\nMedellin, August 2024. With Rosario Aguilar, Jake Bowers, Luis Maldonado, and Julia Seither.\n\n\nEGAP Learning Days 13: Field Experiments in the Social Sciences EGAP\nMexico City, August 2023. With Rosario Aguilar, Jake Bowers, Luis Maldonado, and Maarten Voors."
+  },
+  {
+    "objectID": "teaching.html#previous-courses",
+    "href": "teaching.html#previous-courses",
+    "title": "Teaching",
+    "section": "Previous courses",
+    "text": "Previous courses\n\nPolicing Crime and Deviance (Undergraduate) University of Lincoln\n2021–2024. With Anthony Ellis and Elena Gaschino.\n\n\nHuman Rights (Undergraduate) University of Lincoln\n2021–2024. With Nick Cowen and Aris Trantidis.\n\n\nPOLS 1824W – Political Violence (Undergraduate) Brown University\nFall 2019.\n\n\nPOLS 1600 – Political Research Methods (Undergraduate) Brown University\nWinter 2019.\n\n\nPolitical Economy and Institutions (Graduate) OMMA/UFM\nCentro de Estudios Superiores Online de Madrid Manuel Ayau and Universidad Francisco Marroquin, 2017.\n\n\nPrinciples of Economics II – Macroeconomics (Undergraduate, TA) King’s College London\nFall 2017. Professor Konstantinos Matakos.\n\n\nPrinciples of Economics I – Microeconomics (Undergraduate, TA) King’s College London\nWinter 2017. Professor David Skarbek."
+  },
+  {
+    "objectID": "teaching.html#suggested-courses",
+    "href": "teaching.html#suggested-courses",
+    "title": "Teaching",
+    "section": "Suggested courses",
+    "text": "Suggested courses\nSyllabi available for download:\n\nMachine Learning for Political Science (Undergraduate/Graduate)\n\n\nLatin American Politics (Undergraduate/Graduate)\n\n\nIntroduction to Comparative Politics (Undergraduate/Graduate)"
+  }
+]

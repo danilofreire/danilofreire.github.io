@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting...</title>
+  <script>
+    var map = {
+      '#about':    '/',
+      '#research': '/research.html',
+      '#software': '/software.html',
+      '#teaching': '/teaching.html',
+      '#cv':       '/cv.html'
+    };
+    var hash = window.location.hash;
+    var dest = map[hash] || '/';
+    window.location.replace(dest);
+  </script>
+  <noscript>
+    <meta http-equiv="refresh" content="0; url=/">
+  </noscript>
+</head>
+<body>
+  <p>Redirecting to <a href="/">the new site</a>...</p>
+</body>
+</html>

@@ -1,0 +1,103 @@
+---
+title: "Teaching"
+---
+
+## Current courses
+
+::: {.teaching-entry}
+**[DATASCI 385 -- Experimental Methods](https://danilofreire.github.io/datasci385/)** (Undergraduate) [Emory University]{.institution-badge}
+
+2024--present. Covers the design and analysis of experiments in the social sciences, including randomisation, power analysis, and causal inference.
+:::
+
+::: {.teaching-entry}
+**[DATASCI 350 -- Data Science Computing](https://danilofreire.github.io/datasci350/)** (Undergraduate/Graduate) [Emory University]{.institution-badge}
+
+2024--present. Introduces computational tools for data science, including version control, command line, cloud computing, and reproducible workflows.
+:::
+
+::: {.teaching-entry}
+**[DATASCI 185 -- Introduction to AI Applications](https://danilofreire.github.io/datasci185/)** (Undergraduate) [Emory University]{.institution-badge}
+
+2025--present. Covers AI fundamentals, large language models, prompt engineering, ethics, bias, policy, and governance.
+:::
+
+::: {.teaching-entry}
+**[DATASCI 151 -- Introduction to Statistical Computing II](https://danilofreire.github.io/datasci151/)** (Undergraduate) [Emory University]{.institution-badge}
+
+2024--present. Covers Python programming for data analysis, including data wrangling, visualisation, and basic statistical modelling.
+:::
+
+## Workshops
+
+::: {.teaching-entry}
+**[EGAP Learning Days 15: Field Experiments in the Social Sciences](https://egap.org/project/learning-days-15-latin-america-regional-hub-workshop/)** [EGAP]{.institution-badge}
+
+Medellin, August 2024. With Rosario Aguilar, Jake Bowers, Luis Maldonado, and Julia Seither.
+:::
+
+::: {.teaching-entry}
+**[EGAP Learning Days 13: Field Experiments in the Social Sciences](https://egap.org/project/learning-days-13-latin-america-regional-hub-workshop/)** [EGAP]{.institution-badge}
+
+Mexico City, August 2023. With Rosario Aguilar, Jake Bowers, Luis Maldonado, and Maarten Voors.
+:::
+
+## Previous courses
+
+::: {.teaching-entry}
+**[Policing Crime and Deviance](https://blackboard.lincoln.ac.uk/ultra/courses/_182116_1/cl/outline)** (Undergraduate) [University of Lincoln]{.institution-badge}
+
+2021--2024. With Anthony Ellis and Elena Gaschino.
+:::
+
+::: {.teaching-entry}
+**[Human Rights](https://blackboard.lincoln.ac.uk/ultra/courses/_184943_1/cl/outline)** (Undergraduate) [University of Lincoln]{.institution-badge}
+
+2021--2024. With Nick Cowen and Aris Trantidis.
+:::
+
+::: {.teaching-entry}
+**[POLS 1824W -- Political Violence](https://danilofreire.github.io/pols1824w/)** (Undergraduate) [Brown University]{.institution-badge}
+
+Fall 2019.
+:::
+
+::: {.teaching-entry}
+**[POLS 1600 -- Political Research Methods](https://pols1600.github.io/)** (Undergraduate) [Brown University]{.institution-badge}
+
+Winter 2019.
+:::
+
+::: {.teaching-entry}
+**[Political Economy and Institutions](https://github.com/danilofreire/economia-politica-instituicoes-ufm)** (Graduate) [OMMA/UFM]{.institution-badge}
+
+Centro de Estudios Superiores Online de Madrid Manuel Ayau and Universidad Francisco Marroquin, 2017.
+:::
+
+::: {.teaching-entry}
+**[Principles of Economics II -- Macroeconomics](https://github.com/danilofreire/core-econ)** (Undergraduate, TA) [King's College London]{.institution-badge}
+
+Fall 2017. Professor Konstantinos Matakos.
+:::
+
+::: {.teaching-entry}
+**[Principles of Economics I -- Microeconomics](https://github.com/danilofreire/core-econ)** (Undergraduate, TA) [King's College London]{.institution-badge}
+
+Winter 2017. Professor David Skarbek.
+:::
+
+## Suggested courses
+
+Syllabi available for download:
+
+::: {.teaching-entry}
+**[Machine Learning for Political Science](syllabi/freire-ml-polsci.pdf)** (Undergraduate/Graduate)
+:::
+
+::: {.teaching-entry}
+**[Latin American Politics](syllabi/freire-latam-politics.pdf)** (Undergraduate/Graduate)
+:::
+
+::: {.teaching-entry}
+**[Introduction to Comparative Politics](syllabi/freire-comparative-politics.pdf)** (Undergraduate/Graduate)
+:::
