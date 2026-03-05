@@ -1,21 +1,22 @@
-# [Danilo Freire - Personal Website](https://danilofreire.github.io)
+# Danilo Freire - Personal Website
 
-This repository houses the files for [my personal website](https://danilofreire.github.io). Here you will find information about my academic work and teaching materials.
+Source for [danilofreire.github.io](https://danilofreire.github.io). Built with [Quarto](https://quarto.org).
 
-## Contents
+## Pages
 
-- [CV](http://danilofreire.github.io/DaniloFreireCV.pdf)
-- [Research](https://danilofreire.github.io/dist/index.html#research)
-- [Software](https://danilofreire.github.io/dist/index.html#software)
-- [Teaching](https://danilofreire.github.io/dist/index.html#teaching)
+- [About](https://danilofreire.github.io/) - bio, photo, social links
+- [Research](https://danilofreire.github.io/research.html) - publications, working papers, book chapters
+- [Teaching](https://danilofreire.github.io/teaching.html) - current and past courses, syllabi
+- [Software](https://danilofreire.github.io/software.html) - R packages
+- [CV](https://danilofreire.github.io/cv.html) - download and embedded PDF
 
-## Contact
+## Local development
 
-For questions or collaboration opportunities,feel free to email me at [danilofreire@gmail.com](mailto:danilofreire@gmail.com).
+```bash
+quarto preview    # live preview at localhost
+quarto render     # build to docs/
+```
 
-Thanks for stopping by!
+## Licence
 
-*This `README.md` offers a quick overview of the repository. Visit the website for more details.*
-
-
-
+[MIT](LICENSE)
