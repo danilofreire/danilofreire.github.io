@@ -42,7 +42,7 @@ website:
         aria-label: GitHub
   page-footer:
     left: |
-      &copy; 2025 Danilo Freire
+      &copy; 2026 Danilo Freire
     right: |
       Built with [Quarto](https://quarto.org)
 
