@@ -1,0 +1,65 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+    - research.qmd
+    - software.qmd
+    - teaching.qmd
+    - cv.qmd
+  resources:
+    - DaniloFreireCV.pdf
+    - syllabi/**
+    - texts/**
+    - evaluations/**
+    - assets/img/favicon.ico
+    - dist/index.html
+
+website:
+  title: "Danilo Freire"
+  description: "Visiting Assistant Professor, Department of Data and Decision Sciences, Emory University"
+  favicon: assets/img/favicon.ico
+  navbar:
+    background: "#1E3A5F"
+    foreground: "#F9F8F6"
+    left:
+      - href: index.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: software.qmd
+        text: Software
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: envelope
+        href: mailto:danilo.freire@emory.edu
+        aria-label: Email
+      - icon: github
+        href: https://github.com/danilofreire
+        aria-label: GitHub
+  page-footer:
+    left: |
+      &copy; 2025 Danilo Freire
+    right: |
+      Built with [Quarto](https://quarto.org)
+
+format:
+  html:
+    theme:
+      - flatly
+      - custom.scss
+    lang: en-GB
+    toc: false
+    fontsize: "1.05rem"
+    linestretch: 1.6
+    mainfont: "'Source Serif 4', 'Georgia', serif"
+    monofont: "'JetBrains Mono', monospace"
+    include-in-header:
+      - text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300..900;1,8..60,300..900&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">

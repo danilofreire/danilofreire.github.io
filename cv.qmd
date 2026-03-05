@@ -1,0 +1,9 @@
+---
+title: "Curriculum Vitae"
+---
+
+<a href="DaniloFreireCV.pdf" class="cv-download-btn" download>Download CV (PDF)</a>
+
+<iframe src="DaniloFreireCV.pdf" class="cv-embed" title="Danilo Freire CV"></iframe>
+
+If your browser does not display the PDF, you can [download it directly](DaniloFreireCV.pdf).

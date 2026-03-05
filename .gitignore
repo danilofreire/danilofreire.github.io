@@ -1,2 +1,13 @@
 node_modules
 .DS_Store
+_site/
+.quarto/
+
+# Claude config
+CLAUDE.md
+AGENTS.md
+humaniser-skill.md
+.claude/
+
+/.quarto/
+**/*.quarto_ipynb

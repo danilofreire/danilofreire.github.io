@@ -1,0 +1,439 @@
+---
+title: "Research"
+---
+
+## Research interests
+
+- **Substantive:** Public Policy, Political Violence, Organised Crime, Collective Action, Brazilian Politics
+- **Methodological:** Computational Social Science, Impact Evaluation, Field Experiments, Meta-Analysis
+
+## Peer-reviewed articles
+
+::: {.pub-card}
+::: {.pub-title}
+[The Reliability of Replications: A Study in Computational Reproductions](https://doi.org/10.1098/rsos.241038)
+:::
+::: {.pub-authors}
+With Nate Breznau, Eike Mark Rinke, Alexander Wuttke, and others
+:::
+::: {.pub-venue}
+Royal Society Open Science, 2025
+:::
+::: {.pub-links}
+[DOI](https://doi.org/10.1098/rsos.241038)
+[Replication files](https://github.com/nbreznau/how_many_replicators)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+[Legislature Size and Welfare: Evidence From Brazil](https://doi.org/10.1111/ajps.12843)
+:::
+::: {.pub-authors}
+With Umberto Mignozzetti and Gabriel Cepaluni
+:::
+::: {.pub-venue}
+American Journal of Political Science, 2024
+:::
+::: {.pub-links}
+[DOI](https://doi.org/10.1111/ajps.12843)
+[Replication files](https://github.com/umbertomig/legislature-size-welfare)
+[Media: Australian Institute of International Affairs](https://www.internationalaffairs.org.au/australianoutlook/legislature-size-and-welfare-evidence-from-brazil/)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+[Vigilantism and Institutions: Attitudes toward Lynching in Brazil](https://doi.org/10.1177/20531680221150389)
+:::
+::: {.pub-authors}
+With David Skarbek
+:::
+::: {.pub-venue}
+Research & Politics, 2023, 10(1), 1--8
+:::
+::: {.pub-links}
+[DOI](https://doi.org/10.1177/20531680221150389)
+[Replication files](https://github.com/danilofreire/lynching-experiment-brazil)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+[The Effect of Legislature Size on Distributive Politics: A Meta-Analysis](https://doi.org/10.1017/S0007123422000552)
+:::
+::: {.pub-authors}
+With Umberto Mignozzetti, Catarina Roman, and Huzeyfe Alptekin
+:::
+::: {.pub-venue}
+British Journal of Political Science, 2021
+:::
+::: {.pub-links}
+[DOI](https://doi.org/10.1017/S0007123422000552)
+[Replication files](https://github.com/danilofreire/legislature-size-meta-analysis)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+[Institutional Design and Elite Support for Climate Policies: Evidence from Latin American Countries](http://dx.doi.org/10.1017/XPS.2020.19)
+:::
+::: {.pub-authors}
+With Umberto Mignozzetti and David Skarbek
+:::
+::: {.pub-venue}
+Journal of Experimental Political Science, Summer 2021, 172--184
+:::
+::: {.pub-links}
+[DOI](http://dx.doi.org/10.1017/XPS.2020.19)
+[Replication files](https://doi.org/10.7910/DVN/VTA5OA)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+[Bottom-Up Accountability and Public Service Provision: Evidence from a Field Experiment in Brazil](https://doi.org/10.1177%2F2053168020914444)
+:::
+::: {.pub-authors}
+With Manoel Galdino and Umberto Mignozzetti
+:::
+::: {.pub-venue}
+Research & Politics, 2020, 7(2), 1--8
+:::
+::: {.pub-links}
+[DOI](https://doi.org/10.1177%2F2053168020914444)
+[Replication files](https://github.com/umbertomig/tdp-accountability)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+[congressbr: An R Package for Analysing Data from Brazil's Chamber of Deputies and Federal Senate](https://doi.org/10.25222/larr.447)
+:::
+::: {.pub-authors}
+With Robert McDonnell and Guilherme Duarte
+:::
+::: {.pub-venue}
+Latin American Research Review, 2019, 54(4), 958--969
+:::
+::: {.pub-links}
+[DOI](https://doi.org/10.25222/larr.447)
+[Software repository](https://github.com/duarteguilherme/congressbr)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+[Beasts of Prey or Rational Animals?: Private Governance in Brazil's *Jogo do Bicho*](https://doi.org/10.1177/0094582X19846519)
+:::
+::: {.pub-authors}
+Danilo Freire
+:::
+::: {.pub-venue}
+Latin American Perspectives, 2019, 46(4), 230--244
+:::
+::: {.pub-links}
+[DOI](https://doi.org/10.1177/0094582X19846519)
+[Media: BBC Brazil](http://www.bbc.com/portuguese/brasil-40140693)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+[Evaluating the Effect of Homicide Prevention Strategies in Sao Paulo, Brazil: A Synthetic Control Approach](https://doi.org/10.25222/larr.334)
+:::
+::: {.pub-authors}
+Danilo Freire
+:::
+::: {.pub-venue}
+Latin American Research Review, 2018, 53(2), 231--249
+:::
+::: {.pub-links}
+[DOI](https://doi.org/10.25222/larr.334)
+[Replication files](https://github.com/danilofreire/homicides-sp-synth)
+[Media: Valor Economico](http://www.valor.com.br/cultura/5111524/sangue-no-asfalto)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+[prisonbrief: An R Package that Returns Tidy Data from the World Prison Brief Website](https://doi.org/10.21105/joss.00361)
+:::
+::: {.pub-authors}
+With Robert McDonnell
+:::
+::: {.pub-venue}
+Journal of Open Source Software, 2018, 3(22), 361
+:::
+::: {.pub-links}
+[DOI](https://doi.org/10.21105/joss.00361)
+[Software repository](https://github.com/danilofreire/prisonbrief)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+[Lack of Preferences, Political Trust and Education Levels: Alternative Explanations for Invalid Votes in Brazilian Elections](http://www.iapss.org/wp-content/uploads/2014/10/ELA1.1_2.Lack-of-Preferences-Political-Trust-and-Education-Levels.pdf)
+:::
+::: {.pub-authors}
+With Guilherme Arbache and Pietro Rodrigues
+:::
+::: {.pub-venue}
+Encuentro Latinoamericano, 2015, 1(1), 29--50
+:::
+::: {.pub-links}
+[PDF](http://www.iapss.org/wp-content/uploads/2014/10/ELA1.1_2.Lack-of-Preferences-Political-Trust-and-Education-Levels.pdf)
+[Replication files](https://github.com/danilofreire/invalid-votes-brazil)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+[Between Ballot Boxes and Guns: The Competitiveness of the Executive Branch and Civil Wars, 1976--2000](http://recyt.fecyt.es/index.php/recp/article/view/37638)
+:::
+::: {.pub-authors}
+Danilo Freire
+:::
+::: {.pub-venue}
+Revista Espanola de Ciencia Politica, 2014, 36, 33--60
+:::
+::: {.pub-links}
+[PDF](http://recyt.fecyt.es/index.php/recp/article/view/37638)
+[Replication files](https://doi.org/10.7910/DVN/NSDUYG)
+:::
+:::
+
+## Working papers
+
+::: {.pub-card}
+::: {.pub-title}
+[Financial Incentives and Health Care Provision: Evidence from an Experimental *Aedes aegypti* Control Programme in Brazil](https://github.com/danilofreire/incentives-healthcare)
+:::
+::: {.pub-authors}
+With Umberto Mignozzetti. Under review.
+:::
+::: {.pub-links}
+[GitHub](https://github.com/danilofreire/incentives-healthcare)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+[Legislative Outcomes and Malapportionment: Evidence from Latin America](https://github.com/danilofreire/danilofreire.github.io/blob/master/malapportionment.pdf)
+:::
+::: {.pub-authors}
+With Umberto Mignozzetti and Catarina Roman
+:::
+::: {.pub-links}
+[PDF](texts/malapportionment.pdf)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+[Democratising Policy Analytics with AutoML](https://github.com/danilofreire/mercatus-analytics-papers/blob/main/automl-paper/automl.pdf)
+:::
+::: {.pub-authors}
+Danilo Freire
+:::
+::: {.pub-links}
+[PDF](https://github.com/danilofreire/mercatus-analytics-papers/blob/main/automl-paper/automl.pdf)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+[What Drives State-Sponsored Violence? Evidence from Extreme Bounds Analysis and Ensemble Learning Methods](https://osf.io/pzx3q)
+:::
+::: {.pub-authors}
+With Gary Uzonyi
+:::
+::: {.pub-links}
+[OSF](https://osf.io/pzx3q)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+Environmental Protection in Weak Party Systems: Evidence from Brazil
+:::
+::: {.pub-authors}
+With Umberto Mignozzetti. In preparation.
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+Natural Disasters and Identity Reconstruction Among Syrian Refugees
+:::
+::: {.pub-authors}
+With Hamoon Khelghat-Doost. In preparation.
+:::
+:::
+
+## Book
+
+::: {.pub-card}
+::: {.pub-title}
+[Natural Resources and Policy Choices in Latin America](https://github.com/danilofreire/danilofreire.github.io/blob/01dc4c9566bb5ade15b5db950046ed0a386fc5f1/texts/natural_resources_policy_choices_latam.pdf)
+:::
+::: {.pub-authors}
+Edited with Giovanna Franca and Umberto Mignozzetti
+:::
+::: {.pub-venue}
+Sao Paulo: Konrad Adenauer Foundation, 2020
+:::
+::: {.pub-links}
+[PDF](texts/natural_resources_policy_choices_latam.pdf)
+:::
+:::
+
+## Book chapters
+
+::: {.pub-card}
+::: {.pub-title}
+[Prison Gangs](https://osf.io/kuqqx/)
+:::
+::: {.pub-authors}
+With David Skarbek
+:::
+::: {.pub-venue}
+In: Griffin, Hayden; Woodward, Vanessa (ed.). Handbook of Corrections in the United States. London: Routledge, 2017, 399--408
+:::
+::: {.pub-links}
+[OSF](https://osf.io/kuqqx/)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+[A Nova Gestao Publica e a Qualidade da Democracia](https://fnst.org/sites/default/files/uploads/2017/12/08/ngp.pdf)
+:::
+::: {.pub-authors}
+Danilo Freire
+:::
+::: {.pub-venue}
+In: Erkens, Rainer (ed.). Nova Gestao Publica. Sao Paulo: Instituto Friedrich Naumann, 2010, 9--15
+:::
+::: {.pub-links}
+[PDF](https://fnst.org/sites/default/files/uploads/2017/12/08/ngp.pdf)
+:::
+:::
+
+## Other publications
+
+::: {.pub-card}
+::: {.pub-title}
+[Geopolitics of Renewable Energies in Latin America: A Survey](https://www.kas.de/documents/273477/273526/Geopolitics+of+Renewable+Energy+in+Latin+America+-+A+Survey.pdf/9fe39ef1-6028-0836-90b0-aada31cb6769?version=1.0&t=1551887777018)
+:::
+::: {.pub-authors}
+With Umberto Mignozzetti
+:::
+::: {.pub-venue}
+Policy Report commissioned by the Konrad Adenauer Stiftung, 2019
+:::
+::: {.pub-links}
+[PDF](https://www.kas.de/documents/273477/273526/Geopolitics+of+Renewable+Energy+in+Latin+America+-+A+Survey.pdf/9fe39ef1-6028-0836-90b0-aada31cb6769?version=1.0&t=1551887777018)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+[Peering at Open Peer Review](https://thepoliticalmethodologist.files.wordpress.com/2016/02/tpm_v23_n1.pdf)
+:::
+::: {.pub-authors}
+Danilo Freire
+:::
+::: {.pub-venue}
+The Political Methodologist, 2015, 23(1), 6--11
+:::
+::: {.pub-links}
+[PDF](https://thepoliticalmethodologist.files.wordpress.com/2016/02/tpm_v23_n1.pdf)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+[Book Review: Causal Inference, Shaolin-Style: "Mastering Metrics" by Joshua D. Angrist and Jorn-Steffen Pischke](http://www.scielo.br/readcube/epdf.php?doi=10.1590/1981-38212015000300026&pid=S1981-38212015000300178&pdf_path=bpsr/v9n3/1981-3821-bpsr-9-3-0178.pdf&lang=en)
+:::
+::: {.pub-authors}
+Danilo Freire
+:::
+::: {.pub-venue}
+Brazilian Political Science Review, 2015, 9(3), 178--185
+:::
+::: {.pub-links}
+[PDF](http://www.scielo.br/readcube/epdf.php?doi=10.1590/1981-38212015000300026&pid=S1981-38212015000300178&pdf_path=bpsr/v9n3/1981-3821-bpsr-9-3-0178.pdf&lang=en)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+[Entering the Underworld: Prison Gang Recruitment in Sao Paulo's Primeiro Comando da Capital](http://dx.doi.org/10.6084/m9.figshare.1209203)
+:::
+::: {.pub-authors}
+Danilo Freire
+:::
+::: {.pub-venue}
+MA Thesis in International Relations, The Graduate Institute Geneva, 2014
+:::
+::: {.pub-links}
+[PDF](http://dx.doi.org/10.6084/m9.figshare.1209203)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+[Book Review: "Why Nations Fail" by Daron Acemoglu and James Robinson](http://seer.bce.unb.br/index.php/MED/article/view/7505/6497)
+:::
+::: {.pub-authors}
+Danilo Freire
+:::
+::: {.pub-venue}
+Meridiano47, 2013, 14(135)
+:::
+::: {.pub-links}
+[PDF](http://seer.bce.unb.br/index.php/MED/article/view/7505/6497)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+[Entre Urnas e Armas: A Competitividade do Executivo e as Guerras Civis, 1976--2000](http://dx.doi.org/10.6084/m9.figshare.963082)
+:::
+::: {.pub-authors}
+Danilo Freire
+:::
+::: {.pub-venue}
+MA Thesis in Political Science, University of Sao Paulo, 2011
+:::
+::: {.pub-links}
+[PDF](http://dx.doi.org/10.6084/m9.figshare.963082)
+[Replication files](http://dx.doi.org/10.6084/m9.figshare.963183)
+:::
+:::
+
+## Awards and service
+
+::: {.highlights-grid}
+
+::: {.highlight-card}
+### Selected awards
+
+- Google Social Impact Challenge Grant (US$300,000)
+- Konrad Adenauer Stiftung Research Grant (US$64,000)
+- Fellow, Evidence in Governance and Politics (EGAP)
+- Associate Fellow, Advance HE
+- Graduate Research Studentship, King's College London
+:::
+
+::: {.highlight-card}
+### Service
+
+- Associate Editor, *International Social Science Journal*
+- Associate Editor, *Humanities & Social Sciences Communications*
+- Referee for *AJPS*, *JPR*, *BJPS*, *Electoral Studies*, and 14 other journals
+- Co-editor, *Leviathan*, University of Sao Paulo (2012--2016)
+:::
+
+:::
