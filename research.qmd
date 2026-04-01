@@ -11,6 +11,21 @@ title: "Research"
 
 ::: {.pub-card}
 ::: {.pub-title}
+[Investigating the Analytical Robustness of the Social and Behavioural Sciences](https://www.nature.com/articles/s41586-025-09844-9)
+:::
+::: {.pub-authors}
+With Balazs Aczel, Barnabas Szaszi, Brian A. Nosek, and others
+:::
+::: {.pub-venue}
+Nature, 2026, 652, 135--142
+:::
+::: {.pub-links}
+[DOI](https://www.nature.com/articles/s41586-025-09844-9)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
 [The Reliability of Replications: A Study in Computational Reproductions](https://doi.org/10.1098/rsos.241038)
 :::
 ::: {.pub-authors}
