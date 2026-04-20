@@ -45,9 +45,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-a0722475b9d4c38eccc5bdf0e2ac4c67.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-a60ce571a9ea612e1b64859d9c4e2830.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-7aca8d0a0c82e5dcdf8885f20fd3af58.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-a60ce571a9ea612e1b64859d9c4e2830.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-f4634b81ac463cd25bd3327ed9ccaa00.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-553f759fdcc9a5fde11b0a784cd3f162.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-f4634b81ac463cd25bd3327ed9ccaa00.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -936,6 +936,23 @@ ul.task-list li input[type="checkbox"] {
 </div>
   </div>
 </footer>
+<button type="button" class="back-to-top" aria-label="Back to top" title="Back to top"><i class="bi bi-arrow-up" aria-hidden="true"></i></button>
+<script>
+(function () {
+  var btn = document.querySelector('.back-to-top');
+  if (!btn) return;
+  var threshold = 400;
+  function toggle() {
+    if (window.pageYOffset > threshold) btn.classList.add('is-visible');
+    else btn.classList.remove('is-visible');
+  }
+  window.addEventListener('scroll', toggle, { passive: true });
+  btn.addEventListener('click', function () {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+  toggle();
+})();
+</script>
 
 
 

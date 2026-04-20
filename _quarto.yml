@@ -64,3 +64,22 @@ format:
           <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300..900;1,8..60,300..900&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
           <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
           <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
+    include-after-body:
+      - text: |
+          <button type="button" class="back-to-top" aria-label="Back to top" title="Back to top"><i class="bi bi-arrow-up" aria-hidden="true"></i></button>
+          <script>
+          (function () {
+            var btn = document.querySelector('.back-to-top');
+            if (!btn) return;
+            var threshold = 400;
+            function toggle() {
+              if (window.pageYOffset > threshold) btn.classList.add('is-visible');
+              else btn.classList.remove('is-visible');
+            }
+            window.addEventListener('scroll', toggle, { passive: true });
+            btn.addEventListener('click', function () {
+              window.scrollTo({ top: 0, behavior: 'smooth' });
+            });
+            toggle();
+          })();
+          </script>
