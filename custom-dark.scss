@@ -97,16 +97,25 @@ h3 { font-size: 1.2rem; margin: 1.6em 0 0.5em; }
   background: #0E1420 !important;
   border-bottom: 3px solid var(--teal);
   font-family: 'Inter', sans-serif;
-  font-size: 0.85rem;
+  font-size: 0.78rem;
+  letter-spacing: 0.035em;
+  text-transform: uppercase;
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
   .navbar-brand {
     font-family: 'Source Serif 4', serif;
     font-weight: 700;
-    font-size: 1.1rem;
+    font-size: 1.15rem;
     color: var(--dark) !important;
+    letter-spacing: 0;
+    text-transform: none;
   }
   .navbar-nav .nav-link {
     color: var(--dark) !important;
+    font-weight: 500;
     opacity: 0.85;
+    padding-left: 0.9rem;
+    padding-right: 0.9rem;
     &:hover { opacity: 1; }
     &.active { opacity: 1; border-bottom: 2px solid var(--teal); }
   }
