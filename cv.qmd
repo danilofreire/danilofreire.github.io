@@ -55,9 +55,9 @@ title: "Curriculum Vitae"
 
   <div class="cv-pub"><div class="title"><span class="year-inline">2026</span><a href="https://doi.org/10.1038/s41586-026-1234-5">Investigating the Analytical Robustness of the Social and Behavioural Sciences</a></div><div class="authors">With Bal&aacute;zs Acz&eacute;l, Barnab&aacute;s Sz&aacute;szi, Brian A. Nosek, and others</div><div class="venue">Nature, 652, 135&ndash;142.</div></div>
 
-  <div class="cv-pub"><div class="title"><span class="year-inline">2025</span><a href="https://royalsocietypublishing.org/doi/10.1098/rsos.241038">The Reliability of Replications: A Study in Computational Reproductions</a></div><div class="authors">With Nate Breznau, Eike Mark Rinke, Alexander Wuttke, and others</div><div class="venue">Royal Society Open Science.</div></div>
+  <div class="cv-pub"><div class="title"><span class="year-inline">2025</span><a href="https://royalsocietypublishing.org/doi/10.1098/rsos.241038">The Reliability of Replications: A Study in Computational Reproductions</a></div><div class="authors">With Nate Breznau, Eike Mark Rinke, Alexander Wuttke, and others</div><div class="venue">Royal Society Open Science, 12(3), 241038.</div></div>
 
-  <div class="cv-pub"><div class="title"><span class="year-inline">2024</span><a href="https://doi.org/10.1111/ajps.12828">Legislature Size and Welfare: Evidence From Brazil</a></div><div class="authors">With Umberto Mignozzetti and Gabriel Cepaluni</div><div class="venue">American Journal of Political Science.</div></div>
+  <div class="cv-pub"><div class="title"><span class="year-inline">2025</span><a href="https://doi.org/10.1111/ajps.12843">Legislature Size and Welfare: Evidence From Brazil</a></div><div class="authors">With Umberto Mignozzetti and Gabriel Cepaluni</div><div class="venue">American Journal of Political Science, 69(3), 831&ndash;846.</div></div>
 
   <div class="cv-pub"><div class="title"><span class="year-inline">2023</span><a href="https://doi.org/10.1177/20531680231155550">Vigilantism and Institutions: Attitudes toward Lynching in Brazil</a></div><div class="authors">With David Skarbek</div><div class="venue">Research &amp; Politics, 10(1), 1&ndash;8.</div></div>
 

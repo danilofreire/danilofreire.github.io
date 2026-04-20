@@ -62,7 +62,7 @@ With Nate Breznau, Eike Mark Rinke, Alexander Wuttke, and others
 :::
 ::: {.pub-venue}
 
-Royal Society Open Science
+Royal Society Open Science, 12(3), 241038
 
 :::
 ::: {.pub-links}
@@ -75,7 +75,7 @@ Royal Society Open Science
 
 :::: {.pub-card}
 
-[2024]{.year-badge}
+[2025]{.year-badge}
 
 ::: {.pub-title}
 
@@ -89,7 +89,7 @@ With Umberto Mignozzetti and Gabriel Cepaluni
 :::
 ::: {.pub-venue}
 
-American Journal of Political Science
+American Journal of Political Science, 69(3), 831--846
 
 :::
 ::: {.pub-links}
