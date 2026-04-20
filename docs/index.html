@@ -40,10 +40,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-a0722475b9d4c38eccc5bdf0e2ac4c67.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-f68076668f8b12e98265122583a75b6b.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-a0722475b9d4c38eccc5bdf0e2ac4c67.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-4705c9a4db60cf8367d5d10e399a1bb5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-a60ce571a9ea612e1b64859d9c4e2830.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-7aca8d0a0c82e5dcdf8885f20fd3af58.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-a60ce571a9ea612e1b64859d9c4e2830.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -75,11 +79,174 @@ ul.task-list li input[type="checkbox"] {
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300..900;1,8..60,300..900&amp;family=Inter:wght@400;500;600;700&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
 
 
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed home-page fullcontent quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -131,6 +298,7 @@ ul.task-list li input[type="checkbox"] {
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -142,6 +310,7 @@ ul.task-list li input[type="checkbox"] {
     
 <!-- main -->
 <main class="content" id="quarto-document-content">
+
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -162,20 +331,39 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="columns">
-<div class="column" style="width:30%;">
-<p><img src="assets/img/profile.jpg" class="profile-photo img-fluid" alt="Photo of Danilo Freire"></p>
-<div class="social-icons">
+<div class="home-hero">
+<div class="home-hero-left">
+<p><img src="assets/img/profile.jpg" class="profile-img img-fluid" alt="Photo of Danilo Freire"></p>
+<div class="social-row">
 <p><a href="mailto:danilo.freire@emory.edu" title="Email"><i class="bi bi-envelope-fill"></i></a> <a href="https://github.com/danilofreire" title="GitHub"><i class="bi bi-github"></i></a> <a href="https://scholar.google.com/citations?user=lB1WKOYAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a> <a href="https://orcid.org/0000-0002-4712-6810" title="ORCID"><i class="ai ai-orcid"></i></a></p>
 </div>
-</div><div class="column" style="width:5%;">
-
-</div><div class="column" style="width:65%;">
-<p>I am a Visiting Assistant Professor in the <a href="https://quantitative.emory.edu/">Department of Data and Decision Sciences</a> at <a href="https://www.emory.edu">Emory University</a> and an Honorary Senior Fellow at the <a href="https://www.lincoln.ac.uk/socialsciences/">University of Lincoln</a>. I hold a PhD in Political Economy from <a href="https://www.kcl.ac.uk/political-economy">King’s College London</a>, an MA in International Relations from the <a href="https://www.graduateinstitute.ch/international-relations-political-science-presentation">Graduate Institute Geneva</a>, and an MA in Political Science from the <a href="https://dcp.fflch.usp.br/en">University of Sao Paulo</a>. Before joining Emory, I was a Postdoctoral Research Associate at <a href="https://www.brown.edu/academics/political-theory-project/">Brown University</a> and a Senior Lecturer at the <a href="https://www.lincoln.ac.uk/socialsciences/">University of Lincoln</a>.</p>
-<p>My research looks at how developing countries solve collective action problems and reduce political violence. I am particularly interested in public service delivery, accountability, private governance, and state violence. Most of my work centres on Latin America, drawing on survey and field experiments, machine learning, and administrative data analysis.</p>
-<p>My work has appeared in the <em>American Journal of Political Science</em>, <em>British Journal of Political Science</em>, <em>Royal Society Open Science</em>, <em>Journal of Experimental Political Science</em>, <em>Latin American Research Review</em>, and <em>Research &amp; Politics</em>. I am also an <a href="https://egap.org">EGAP Fellow</a>.</p>
-<p>You can find my publications on the <a href="./research.html">Research</a> page, download my <a href="DaniloFreireCV.pdf">CV</a>, or browse my projects on <a href="https://github.com/danilofreire">GitHub</a>. If you would like to discuss research or collaboration, please email me at <a href="mailto:danilo.freire@emory.edu">danilo.freire@emory.edu</a>. I am always keen to connect with fellow researchers and students.</p>
 </div>
+<section id="danilo-freire" class="level1 home-bio">
+<h1>Danilo Freire</h1>
+<p class="affil">
+Visiting Assistant Professor · Data &amp; Decision Sciences · Emory University
+</p>
+<p>Welcome! I am a visiting assistant professor at Emory’s <a href="https://datascience.emory.edu/">Department of Data and Decision Sciences</a>, where I teach courses on experimental methods, data science computing, and AI for the social sciences.</p>
+<p>My research looks at how developing countries solve collective action problems and reduce political violence, mostly in Latin America. I use survey and field experiments, machine learning, and administrative data, and my papers have appeared in journals including the <em>American Journal of Political Science</em> and the <em>British Journal of Political Science</em>. I am also an <a href="https://egap.org">EGAP Fellow</a> and an Honorary Senior Fellow at the <a href="https://www.lincoln.ac.uk/socialsciences/">University of Lincoln</a>.</p>
+<p>You can reach me at <a href="mailto:danilo.freire@emory.edu">danilo.freire@emory.edu</a> or find my code on <a href="https://github.com/danilofreire">GitHub</a>.</p>
+</section>
+</div>
+<div class="wayfind-grid">
+  <a class="wayfind-card" href="research.html">
+    <span class="icon"><i class="bi bi-journal-text"></i></span>
+    <h4 class="anchored">Research</h4>
+    <p>Articles, working papers, and replication files.</p>
+  </a>
+  <a class="wayfind-card" href="teaching.html">
+    <span class="icon"><i class="bi bi-mortarboard"></i></span>
+    <h4 class="anchored">Teaching</h4>
+    <p>Courses at Emory and elsewhere, with syllabi.</p>
+  </a>
+  <a class="wayfind-card" href="cv.html">
+    <span class="icon"><i class="bi bi-file-earmark-person"></i></span>
+    <h4 class="anchored">CV</h4>
+    <p>Full academic history, grants, and references.</p>
+  </a>
 </div>
 
 
@@ -183,6 +371,19 @@ ul.task-list li input[type="checkbox"] {
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
+    }
+    setColorSchemeToggle(hasAlternateSentinel())
     const icon = "";
     const anchorJS = new window.AnchorJS();
     anchorJS.options = {

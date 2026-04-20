@@ -1,34 +1,50 @@
 ---
 title: "Danilo Freire"
+pagetitle: "Danilo Freire"
+body-classes: home-page
 ---
 
-:::: {.columns}
+:::: {.home-hero}
+::: {.home-hero-left}
+![](assets/img/profile.jpg){.profile-img fig-alt="Photo of Danilo Freire"}
 
-::: {.column width="30%"}
-![](assets/img/profile.jpg){.profile-photo fig-alt="Photo of Danilo Freire"}
-
-::: {.social-icons}
+::: {.social-row}
 <a href="mailto:danilo.freire@emory.edu" title="Email"><i class="bi bi-envelope-fill"></i></a>
 <a href="https://github.com/danilofreire" title="GitHub"><i class="bi bi-github"></i></a>
 <a href="https://scholar.google.com/citations?user=lB1WKOYAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
 <a href="https://orcid.org/0000-0002-4712-6810" title="ORCID"><i class="ai ai-orcid"></i></a>
 :::
-
 :::
 
-::: {.column width="5%"}
+::: {.home-bio}
+# Danilo Freire
+
+<p class="affil">Visiting Assistant Professor · Data & Decision Sciences · Emory University</p>
+
+Welcome! I am a visiting assistant professor at Emory's [Department of Data and Decision Sciences](https://datascience.emory.edu/), where I teach courses on experimental methods, data science computing, and AI for the social sciences.
+
+My research looks at how developing countries solve collective action problems and reduce political violence, mostly in Latin America. I use survey and field experiments, machine learning, and administrative data, and my papers have appeared in journals including the *American Journal of Political Science* and the *British Journal of Political Science*. I am also an [EGAP Fellow](https://egap.org) and an Honorary Senior Fellow at the [University of Lincoln](https://www.lincoln.ac.uk/socialsciences/).
+
+You can reach me at [danilo.freire@emory.edu](mailto:danilo.freire@emory.edu) or find my code on [GitHub](https://github.com/danilofreire).
 :::
-
-::: {.column width="65%"}
-
-I am a Visiting Assistant Professor in the [Department of Data and Decision Sciences](https://quantitative.emory.edu/) at [Emory University](https://www.emory.edu) and an Honorary Senior Fellow at the [University of Lincoln](https://www.lincoln.ac.uk/socialsciences/). I hold a PhD in Political Economy from [King's College London](https://www.kcl.ac.uk/political-economy), an MA in International Relations from the [Graduate Institute Geneva](https://www.graduateinstitute.ch/international-relations-political-science-presentation), and an MA in Political Science from the [University of Sao Paulo](https://dcp.fflch.usp.br/en). Before joining Emory, I was a Postdoctoral Research Associate at [Brown University](https://www.brown.edu/academics/political-theory-project/) and a Senior Lecturer at the [University of Lincoln](https://www.lincoln.ac.uk/socialsciences/).
-
-My research looks at how developing countries solve collective action problems and reduce political violence. I am particularly interested in public service delivery, accountability, private governance, and state violence. Most of my work centres on Latin America, drawing on survey and field experiments, machine learning, and administrative data analysis.
-
-My work has appeared in the *American Journal of Political Science*, *British Journal of Political Science*, *Royal Society Open Science*, *Journal of Experimental Political Science*, *Latin American Research Review*, and *Research & Politics*. I am also an [EGAP Fellow](https://egap.org).
-
-You can find my publications on the [Research](research.qmd) page, download my [CV](DaniloFreireCV.pdf), or browse my projects on [GitHub](https://github.com/danilofreire). If you would like to discuss research or collaboration, please email me at [danilo.freire@emory.edu](mailto:danilo.freire@emory.edu). I am always keen to connect with fellow researchers and students.
-
-:::
-
 ::::
+
+```{=html}
+<div class="wayfind-grid">
+  <a class="wayfind-card" href="research.html">
+    <span class="icon"><i class="bi bi-journal-text"></i></span>
+    <h4>Research</h4>
+    <p>Articles, working papers, and replication files.</p>
+  </a>
+  <a class="wayfind-card" href="teaching.html">
+    <span class="icon"><i class="bi bi-mortarboard"></i></span>
+    <h4>Teaching</h4>
+    <p>Courses at Emory and elsewhere, with syllabi.</p>
+  </a>
+  <a class="wayfind-card" href="cv.html">
+    <span class="icon"><i class="bi bi-file-earmark-person"></i></span>
+    <h4>CV</h4>
+    <p>Full academic history, grants, and references.</p>
+  </a>
+</div>
+```

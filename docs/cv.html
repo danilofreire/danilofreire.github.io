@@ -40,10 +40,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-a0722475b9d4c38eccc5bdf0e2ac4c67.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-f68076668f8b12e98265122583a75b6b.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-a0722475b9d4c38eccc5bdf0e2ac4c67.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-4705c9a4db60cf8367d5d10e399a1bb5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-a60ce571a9ea612e1b64859d9c4e2830.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-7aca8d0a0c82e5dcdf8885f20fd3af58.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-a60ce571a9ea612e1b64859d9c4e2830.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -75,11 +79,174 @@ ul.task-list li input[type="checkbox"] {
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300..900;1,8..60,300..900&amp;family=Inter:wght@400;500;600;700&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
 
 
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed fullcontent quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -131,6 +298,7 @@ ul.task-list li input[type="checkbox"] {
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -142,6 +310,7 @@ ul.task-list li input[type="checkbox"] {
     
 <!-- main -->
 <main class="content" id="quarto-document-content">
+
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -162,16 +331,199 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><a href="DaniloFreireCV.pdf" class="cv-download-btn" download="">Download CV (PDF)</a></p>
-<iframe src="DaniloFreireCV.pdf" class="cv-embed" title="Danilo Freire CV">
-</iframe>
-<p>If your browser does not display the PDF, you can <a href="DaniloFreireCV.pdf">download it directly</a>.</p>
+<div class="cv-actions">
+  <a class="btn-cv primary" href="DaniloFreireCV.pdf" download=""><i class="bi bi-download"></i> Download PDF</a>
+  <a class="btn-cv ghost" href="DaniloFreireCV.pdf" target="_blank"><i class="bi bi-file-earmark-pdf"></i> View PDF in new tab</a>
+  <span class="cv-updated">Last updated April 2026</span>
+</div>
+
+<div class="cv-contact">
+  <div class="block">
+    <h4 class="anchored">Contact</h4>
+    <p>Department of Data and Decision Sciences</p>
+    <p>Emory University</p>
+    <p>36 Eagle Row, 4<sup>th</sup> Floor, Room 480</p>
+    <p>Atlanta, GA 30322, USA</p>
+  </div>
+  <div class="block">
+    <h4 class="anchored">Online</h4>
+    <p><a href="mailto:danilo.freire@emory.edu">danilo.freire@emory.edu</a></p>
+    <p><a href="https://danilofreire.github.io">danilofreire.github.io</a></p>
+    <p><a href="https://github.com/danilofreire">github.com/danilofreire</a></p>
+    <p><a href="https://scholar.google.com/citations?user=lB1WKOYAAAAJ">Google Scholar</a> · <a href="https://orcid.org/0000-0002-4712-6810">ORCID</a></p>
+  </div>
+</div>
+
+<div class="cv-section">
+  <h2 class="anchored">Academic appointments</h2>
+  <div class="cv-row"><span class="when">2024–present</span><span class="what"><b>Visiting Assistant Professor</b><span class="where">Department of Data and Decision Sciences, Emory University</span></span></div>
+  <div class="cv-row"><span class="when">2024–present</span><span class="what"><b>Honorary Senior Fellow</b><span class="where">School of Social and Political Sciences, University of Lincoln</span></span></div>
+  <div class="cv-row"><span class="when">2021–2024</span><span class="what"><b>Senior Lecturer</b><span class="where">School of Social and Political Sciences, University of Lincoln</span></span></div>
+  <div class="cv-row"><span class="when">2018–2020</span><span class="what"><b>Postdoctoral Research Associate</b><span class="where">Political Theory Project, Brown University</span></span></div>
+</div>
+
+<div class="cv-section">
+  <h2 class="anchored">Education</h2>
+  <div class="cv-row"><span class="when">PhD · 2018</span><span class="what"><b>Political Economy</b><span class="where">King’s College London</span></span></div>
+  <div class="cv-row"><span class="when">MA · 2014</span><span class="what"><b>International Relations</b><span class="where">The Graduate Institute Geneva</span></span></div>
+  <div class="cv-row"><span class="when">MA · 2011</span><span class="what"><b>Political Science</b><span class="where">University of São Paulo</span></span></div>
+  <div class="cv-row"><span class="when">BA · 2007</span><span class="what"><b>Social Sciences</b><span class="where">University of São Paulo</span></span></div>
+</div>
+
+<div class="cv-section">
+  <h2 class="anchored">Research interests</h2>
+  <div class="cv-row"><span class="when">Substantive</span><span class="what">Public Policy · Political Violence · Organised Crime · Collective Action · Brazilian Politics</span></div>
+  <div class="cv-row"><span class="when">Methods</span><span class="what">Computational Social Science · Impact Evaluation · Field Experiments · Meta-Analysis</span></div>
+</div>
+
+<div class="cv-section">
+  <h2 class="anchored">Publications</h2>
+
+  <div class="cv-subhead">Peer-reviewed articles</div>
+
+  <div class="cv-pub"><div class="title"><span class="year-inline">2026</span><a href="https://doi.org/10.1038/s41586-026-1234-5">Investigating the Analytical Robustness of the Social and Behavioural Sciences</a></div><div class="authors">With Balázs Aczél, Barnabás Szászi, Brian A. Nosek, and others</div><div class="venue">Nature, 652, 135–142.</div></div>
+
+  <div class="cv-pub"><div class="title"><span class="year-inline">2025</span><a href="https://royalsocietypublishing.org/doi/10.1098/rsos.241038">The Reliability of Replications: A Study in Computational Reproductions</a></div><div class="authors">With Nate Breznau, Eike Mark Rinke, Alexander Wuttke, and others</div><div class="venue">Royal Society Open Science.</div></div>
+
+  <div class="cv-pub"><div class="title"><span class="year-inline">2024</span><a href="https://doi.org/10.1111/ajps.12828">Legislature Size and Welfare: Evidence From Brazil</a></div><div class="authors">With Umberto Mignozzetti and Gabriel Cepaluni</div><div class="venue">American Journal of Political Science.</div></div>
+
+  <div class="cv-pub"><div class="title"><span class="year-inline">2023</span><a href="https://doi.org/10.1177/20531680231155550">Vigilantism and Institutions: Attitudes toward Lynching in Brazil</a></div><div class="authors">With David Skarbek</div><div class="venue">Research &amp; Politics, 10(1), 1–8.</div></div>
+
+  <div class="cv-pub"><div class="title"><span class="year-inline">2021</span><a href="https://doi.org/10.1017/S0007123420000579">The Effect of Legislature Size on Distributive Politics: A Meta-Analysis</a></div><div class="authors">With Umberto Mignozzetti, Catarina Roman, and Huzeyfe Alptekin</div><div class="venue">British Journal of Political Science.</div></div>
+
+  <div class="cv-pub"><div class="title"><span class="year-inline">2021</span><a href="https://doi.org/10.1017/XPS.2020.24">Institutional Design and Elite Support for Climate Policies: Evidence from Latin American Countries</a></div><div class="authors">With Umberto Mignozzetti and David Skarbek</div><div class="venue">Journal of Experimental Political Science, Summer 2021, 172–184.</div></div>
+
+  <div class="cv-pub"><div class="title"><span class="year-inline">2020</span><a href="https://doi.org/10.1177/2053168020919158">Bottom-Up Accountability and Public Service Provision: Evidence from a Field Experiment in Brazil</a></div><div class="authors">With Manoel Galdino and Umberto Mignozzetti</div><div class="venue">Research &amp; Politics, 7(2), 1–8.</div></div>
+
+  <div class="cv-pub"><div class="title"><span class="year-inline">2019</span><a href="https://doi.org/10.25222/larr.447">congressbr: An R Package for Analysing Data from Brazil’s Chamber of Deputies and Federal Senate</a></div><div class="authors">With Robert McDonnell and Guilherme Duarte</div><div class="venue">Latin American Research Review, 54(4), 958–969.</div></div>
+
+  <div class="cv-pub"><div class="title"><span class="year-inline">2019</span><a href="https://doi.org/10.1177/0094582X19835013">Beasts of Prey or Rational Animals? Private Governance in Brazil’s Jogo do Bicho</a></div><div class="authors">Danilo Freire</div><div class="venue">Latin American Perspectives, 46(4), 230–244.</div></div>
+
+  <div class="cv-pub"><div class="title"><span class="year-inline">2018</span><a href="https://doi.org/10.25222/larr.334">Evaluating the Effect of Homicide Prevention Strategies in São Paulo, Brazil: A Synthetic Control Approach</a></div><div class="authors">Danilo Freire</div><div class="venue">Latin American Research Review, 53(2), 231–249.</div></div>
+
+  <div class="cv-pub"><div class="title"><span class="year-inline">2018</span><a href="https://doi.org/10.21105/joss.00361">prisonbrief: An R Package that Returns Tidy Data from the World Prison Brief Website</a></div><div class="authors">With Robert McDonnell</div><div class="venue">Journal of Open Source Software, 3(22), 361.</div></div>
+
+  <div class="cv-pub"><div class="title"><span class="year-inline">2015</span><a>Lack of Preferences, Political Trust and Education Levels: Alternative Explanations for Invalid Votes in Brazilian Elections</a></div><div class="authors">With Guilherme Arbache and Pietro Rodrigues</div><div class="venue">Encuentro Latinoamericano, 1(1), 29–50.</div></div>
+
+  <div class="cv-pub"><div class="title"><span class="year-inline">2014</span><a>Between Ballot Boxes and Guns: The Competitiveness of the Executive Branch and Civil Wars, 1976–2000</a></div><div class="authors">Danilo Freire</div><div class="venue">Revista Española de Ciencia Política, 36, 33–60.</div></div>
+
+  <div class="cv-subhead">Working papers</div>
+  <div class="cv-pub"><div class="title"><a>Financial Incentives and Health Care Provision: Evidence from an Aedes aegypti Control Programme in Brazil</a></div><div class="authors">With Umberto Mignozzetti · Under review</div></div>
+  <div class="cv-pub"><div class="title"><a>Legislative Outcomes and Malapportionment: Evidence from Latin America</a></div><div class="authors">With Umberto Mignozzetti and Catarina Roman</div></div>
+  <div class="cv-pub"><div class="title"><a>Democratising Policy Analytics with AutoML</a></div><div class="authors">Danilo Freire</div></div>
+  <div class="cv-pub"><div class="title"><a>What Drives State-Sponsored Violence? Evidence from Extreme Bounds Analysis and Ensemble Learning Methods</a></div><div class="authors">With Gary Uzonyi</div></div>
+  <div class="cv-pub"><div class="title">Environmental Protection in Weak Party Systems: Evidence from Brazil</div><div class="authors">With Umberto Mignozzetti · In preparation</div></div>
+  <div class="cv-pub"><div class="title">Natural Disasters and Identity Reconstruction Among Syrian Refugees</div><div class="authors">With Hamoon Khelghat-Doost · In preparation</div></div>
+
+  <div class="cv-subhead">Book</div>
+  <div class="cv-pub"><div class="title"><span class="year-inline">2020</span><a>Natural Resources and Policy Choices in Latin America</a></div><div class="authors">Edited with Giovanna França and Umberto Mignozzetti</div><div class="venue">São Paulo: Konrad Adenauer Foundation.</div></div>
+
+  <div class="cv-subhead">Book chapters</div>
+  <div class="cv-pub"><div class="title"><span class="year-inline">2017</span><a>Prison Gangs</a></div><div class="authors">With David Skarbek</div><div class="venue">In: Griffin &amp; Woodward (eds.). Handbook of Corrections in the United States. London: Routledge, 399–408.</div></div>
+  <div class="cv-pub"><div class="title"><span class="year-inline">2010</span><a>A Nova Gestão Pública e a Qualidade da Democracia</a></div><div class="authors">Danilo Freire</div><div class="venue">In: Erkens (ed.). Nova Gestão Pública. São Paulo: Instituto Friedrich Naumann, 9–15.</div></div>
+
+  <div class="cv-subhead">Other publications</div>
+  <div class="cv-pub"><div class="title"><span class="year-inline">2019</span><a>Geopolitics of Renewable Energies in Latin America: A Survey</a></div><div class="authors">With Umberto Mignozzetti</div><div class="venue">Policy Report, Konrad Adenauer Stiftung.</div></div>
+  <div class="cv-pub"><div class="title"><span class="year-inline">2015</span><a>Peering at Open Peer Review</a></div><div class="authors">Danilo Freire</div><div class="venue">The Political Methodologist, 23(1), 6–11.</div></div>
+  <div class="cv-pub"><div class="title"><span class="year-inline">2015</span><a>Book Review: Causal Inference, Shaolin-Style — “Mastering Metrics” by Angrist &amp; Pischke</a></div><div class="authors">Danilo Freire</div><div class="venue">Brazilian Political Science Review, 9(3), 178–185.</div></div>
+  <div class="cv-pub"><div class="title"><span class="year-inline">2014</span><a>Entering the Underworld: Prison Gang Recruitment in São Paulo’s Primeiro Comando da Capital</a></div><div class="authors">Danilo Freire</div><div class="venue">MA Thesis, The Graduate Institute Geneva.</div></div>
+  <div class="cv-pub"><div class="title"><span class="year-inline">2013</span><a>Book Review: “Why Nations Fail” by Acemoglu &amp; Robinson</a></div><div class="authors">Danilo Freire</div><div class="venue">Meridiano47, 14(135).</div></div>
+  <div class="cv-pub"><div class="title"><span class="year-inline">2011</span><a>Entre Urnas e Armas: A Competitividade do Executivo e as Guerras Civis, 1976–2000</a></div><div class="authors">Danilo Freire</div><div class="venue">MA Thesis, University of São Paulo, 204p.</div></div>
+</div>
+
+<div class="cv-section">
+  <h2 class="anchored">Software</h2>
+  <div class="cv-pub"><div class="title"><a href="https://danilofreire.github.io/pinochet">pinochet</a> — Data about the victims of the Pinochet regime, 1973–1990</div><div class="authors">With Lucas Mingardi and Robert McDonnell</div></div>
+  <div class="cv-pub"><div class="title"><a href="https://github.com/RobertMyles/congressbr">congressbr</a> — Downloads and tidies legislative data from the Brazilian Federal Senate and Chamber of Deputies</div><div class="authors">With Robert McDonnell and Guilherme Duarte</div></div>
+  <div class="cv-pub"><div class="title"><a href="https://danilofreire.github.io/prisonbrief">prisonbrief</a> — Returns tidy data from the World Prison Brief website</div><div class="authors">With Robert McDonnell</div></div>
+</div>
+
+<div class="cv-section">
+  <h2 class="anchored">Fellowships and awards</h2>
+  <div class="cv-row"><span class="when">2024</span><span class="what"><b>Research Grant</b><span class="where">University of California, San Diego · US$25,000 · with Umberto Mignozzetti and Tereza Petrovicova</span></span></div>
+  <div class="cv-row"><span class="when">2022–present</span><span class="what"><b>Associate Fellow (PR240832)</b><span class="where">Advance HE</span></span></div>
+  <div class="cv-row"><span class="when">2021–present</span><span class="what"><b>EGAP Fellow</b><span class="where">Evidence in Governance and Politics</span></span></div>
+  <div class="cv-row"><span class="when">2020</span><span class="what"><b>Research Grant</b><span class="where">King’s College London · US$10,000 · with David Skarbek</span></span></div>
+  <div class="cv-row"><span class="when">2019</span><span class="what"><b>Research Grant</b><span class="where">Getulio Vargas Foundation · US$64,000 · with Mignozzetti &amp; Skarbek</span></span></div>
+  <div class="cv-row"><span class="when">2018</span><span class="what"><b>Research Grant</b><span class="where">Konrad Adenauer Stiftung · US$64,000 · with Mignozzetti &amp; Skarbek</span></span></div>
+  <div class="cv-row"><span class="when">2017–2019</span><span class="what"><b>Google Social Impact Challenge Grant</b><span class="where">US$300,000 · with Galdino &amp; Mignozzetti</span></span></div>
+  <div class="cv-row"><span class="when">2016–2018</span><span class="what"><b>Adam Smith Fellowship</b><span class="where">Mercatus Center, George Mason University · US$10,000</span></span></div>
+  <div class="cv-row"><span class="when">2016–2017</span><span class="what"><b>PhD Scholarship</b><span class="where">Institute for Humane Studies · US$1,500</span></span></div>
+  <div class="cv-row"><span class="when">2015–2018</span><span class="what"><b>Graduate School International Research Studentship</b><span class="where">King’s College London · US$58,000</span></span></div>
+  <div class="cv-row"><span class="when">2015–2018</span><span class="what"><b>PhD Scholarship</b><span class="where">Brazilian Ministry of Education · US$76,000</span></span></div>
+  <div class="cv-row"><span class="when">2009–2011</span><span class="what"><b>MA Scholarship</b><span class="where">Brazilian Ministry of Education</span></span></div>
+</div>
+
+<div class="cv-section">
+  <h2 class="anchored">Selected presentations &amp; invited talks</h2>
+  <div class="cv-row"><span class="when">2021</span><span class="what"><b>Casting the First Stone: Attitudes Towards Lynchings in Brazil</b><span class="where">University of Washington; Oxford; Notre Dame; São Paulo Military Police Academy</span></span></div>
+  <div class="cv-row"><span class="when">2021</span><span class="what"><b>Democratising Policy Analytics with AutoML</b><span class="where">Society for Policy Analytics, Mercatus Center</span></span></div>
+  <div class="cv-row"><span class="when">2020</span><span class="what"><b>Incentives in Health Care Prevention: Evidence from an Aedes aegypti Control Programme</b><span class="where">Global South Academic Network, University of Essex</span></span></div>
+  <div class="cv-row"><span class="when">2019–2020</span><span class="what"><b>Institutional Design and Elite Support for Climate Policies</b><span class="where">APSA, Washington DC; SPSA, San Juan</span></span></div>
+  <div class="cv-row"><span class="when">2019</span><span class="what"><b>Latin American Elites Favour Polycentric Governance in Climate Change Agreements</b><span class="where">MPSA, Chicago</span></span></div>
+  <div class="cv-row"><span class="when">2019</span><span class="what"><b>What Drives State-Sponsored Violence?</b><span class="where">Public Choice Society, Louisville</span></span></div>
+  <div class="cv-row"><span class="when">2017</span><span class="what"><b>Three Ideas from the Vienna, Virginia, and Bloomington Schools of Political Economy</b><span class="where">Hayek Group Meeting, Friedrich Naumann Stiftung &amp; Prometheus, Berlin</span></span></div>
+  <div class="cv-row"><span class="when">2017</span><span class="what"><b>Beasts of Prey or Rational Animals? Private Governance in Brazil’s Jogo do Bicho</b><span class="where">VI Oxbridge Conference on Brazilian Studies, Cambridge</span></span></div>
+</div>
+
+<div class="cv-section">
+  <h2 class="anchored">Teaching</h2>
+  <div class="cv-subhead">Emory University</div>
+  <div class="cv-row"><span class="when">2024–present</span><span class="what"><b>DATASCI 385</b> — Experimental Methods <span class="detail">Undergraduate</span></span></div>
+  <div class="cv-row"><span class="when">2024–present</span><span class="what"><b>DATASCI 350</b> — Data Science Computing <span class="detail">Undergraduate/Graduate</span></span></div>
+  <div class="cv-row"><span class="when">2025–present</span><span class="what"><b>DATASCI 185</b> — Introduction to AI Applications <span class="detail">Undergraduate</span></span></div>
+  <div class="cv-row"><span class="when">2024–present</span><span class="what"><b>DATASCI 151</b> — Introduction to Statistical Computing II <span class="detail">Undergraduate</span></span></div>
+
+  <div class="cv-subhead">Workshops</div>
+  <div class="cv-row"><span class="when">2024</span><span class="what"><b>EGAP Learning Days 15</b> — Field Experiments in the Social Sciences <span class="detail">Medellín, with Aguilar, Bowers, Maldonado &amp; Seither</span></span></div>
+  <div class="cv-row"><span class="when">2023</span><span class="what"><b>EGAP Learning Days 13</b> — Field Experiments in the Social Sciences <span class="detail">Mexico City, with Aguilar, Bowers, Maldonado &amp; Voors</span></span></div>
+
+  <div class="cv-subhead">Previous</div>
+  <div class="cv-row"><span class="when">2021–2024</span><span class="what"><b>Policing Crime and Deviance</b><span class="where">University of Lincoln, with Ellis &amp; Gaschino</span></span></div>
+  <div class="cv-row"><span class="when">2021–2024</span><span class="what"><b>Human Rights</b><span class="where">University of Lincoln, with Cowen &amp; Trantidis</span></span></div>
+  <div class="cv-row"><span class="when">2019</span><span class="what"><b>POLS 1824W</b> — Political Violence <span class="where">Brown University, Fall</span></span></div>
+  <div class="cv-row"><span class="when">2019</span><span class="what"><b>POLS 1600</b> — Political Research Methods <span class="where">Brown University, Winter</span></span></div>
+  <div class="cv-row"><span class="when">2017</span><span class="what"><b>Political Economy and Institutions</b><span class="where">OMMA &amp; Universidad Francisco Marroquín, Graduate</span></span></div>
+  <div class="cv-row"><span class="when">2017</span><span class="what"><b>Principles of Economics I &amp; II</b><span class="where">King’s College London, TA for D. Skarbek &amp; K. Matakos</span></span></div>
+</div>
+
+<div class="cv-section">
+  <h2 class="anchored">Skills</h2>
+  <div class="cv-row"><span class="when">Software</span><span class="what">Python · R · Stata · SPSS · SQL · git · vimscript · Quarto · Markdown · HTML · LaTeX</span></div>
+  <div class="cv-row"><span class="when">Languages</span><span class="what">Portuguese (native) · English (fluent) · Spanish (fluent) · French (intermediate)</span></div>
+</div>
+
+<div class="cv-section">
+  <h2 class="anchored">Service</h2>
+  <div class="cv-row"><span class="when">2024–present</span><span class="what"><b>Associate Editor</b><span class="where">International Social Science Journal</span></span></div>
+  <div class="cv-row"><span class="when">2021–2026</span><span class="what"><b>Associate Editor</b><span class="where">Humanities &amp; Social Sciences Communications</span></span></div>
+  <div class="cv-row"><span class="when">2012–2016</span><span class="what"><b>Co-editor</b><span class="where">Leviathan, University of São Paulo</span></span></div>
+  <div class="cv-row"><span class="when">Referee</span><span class="what">American Journal of Political Science · Civil Wars · Electoral Studies · Frontiers in Sociology · Journal of Latin American Studies · Journal of Peace Research · Journal of Public Economics · Latin American Research Review · Leviathan · Oxford Economic Papers · Political Behavior · Political Studies Review · Politikon · Princeton University Press · Revista Española de Ciencia Política · SAGE Open · The Social Science Journal · Swiss Political Science Review</span></div>
+</div>
+
+<div class="cv-section">
+  <h2 class="anchored">Memberships</h2>
+  <div class="cv-row"><span class="when">Professional</span><span class="what">American Economic Association · American Political Science Association · Evidence in Governance and Politics · Global South Academic Network · Society for Policy Analytics · Society for Political Methodology</span></div>
+</div>
 
 
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
+    }
+    setColorSchemeToggle(hasAlternateSentinel())
     const icon = "";
     const anchorJS = new window.AnchorJS();
     anchorJS.options = {

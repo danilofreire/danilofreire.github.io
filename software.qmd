@@ -2,54 +2,64 @@
 title: "Software"
 ---
 
-All packages are written in R and available on CRAN or GitHub.
+::: {.page-lede}
+R packages for political science and public policy research, published on CRAN and GitHub.
+:::
 
-::: {.software-card}
+:::: {.software-card}
+::: {.pkg-body}
+
 ### pinochet
 
-Data about the victims of the Pinochet regime, 1973--1990. The package provides a dataset with information on victims of the Pinochet dictatorship in Chile, including demographic details, the type of violence they experienced, and geographic coordinates.
+[Data about the victims of the Pinochet regime, 1973--1990 -- demographic details, type of violence, and geographic coordinates.]{.pkg-desc}
 
-With Lucas Mingardi and Robert McDonnell.
+[With Lucas Mingardi and Robert McDonnell.]{.pkg-meta}
 
 ::: {.software-links}
-[Website](http://danilofreire.github.io/pinochet)
+
+[Website](http://danilofreire.github.io/pinochet){.primary}
 [GitHub](https://github.com/danilofreire/pinochet)
 [CRAN](https://cran.r-project.org/package=pinochet)
-:::
 
 :::
+:::
+::::
 
-::: {.software-card}
+:::: {.software-card}
+::: {.pkg-body}
+
 ### congressbr
 
-Downloads, unpacks, and tidies legislative data from the Brazilian Federal Senate and Chamber of Deputies. The package provides access to a wide range of data on Brazilian legislators, bills, votes, and other parliamentary activities.
+[Downloads, unpacks, and tidies legislative data from the Brazilian Federal Senate and Chamber of Deputies -- legislators, bills, votes, and parliamentary activity.]{.pkg-desc}
 
-With Robert McDonnell and Guilherme Duarte.
-
-Published in *Latin American Research Review*, 2019, 54(4), 958--969. [DOI: 10.25222/larr.447](https://doi.org/10.25222/larr.447).
+[With Robert McDonnell and Guilherme Duarte. *Latin American Research Review*, 2019.]{.pkg-meta}
 
 ::: {.software-links}
-[GitHub](https://github.com/RobertMyles/congressbr)
+
+[GitHub](https://github.com/RobertMyles/congressbr){.primary}
 [CRAN](https://cran.r-project.org/package=congressbr)
 [Paper](https://doi.org/10.25222/larr.447)
-:::
 
 :::
+:::
+::::
 
-::: {.software-card}
+:::: {.software-card}
+::: {.pkg-body}
+
 ### prisonbrief
 
-R package that returns tidy data from the World Prison Brief website. The package allows users to download and analyse data on prison populations across the world.
+[Returns tidy data from the World Prison Brief website -- prison populations, occupancy rates, and demographic breakdowns.]{.pkg-desc}
 
-With Robert McDonnell.
-
-Published in *Journal of Open Source Software*, 2018, 3(22), 361. [DOI: 10.21105/joss.00361](https://doi.org/10.21105/joss.00361).
+[With Robert McDonnell. *Journal of Open Source Software*, 2018.]{.pkg-meta}
 
 ::: {.software-links}
-[Website](http://danilofreire.github.io/prisonbrief)
+
+[Website](http://danilofreire.github.io/prisonbrief){.primary}
 [GitHub](https://github.com/danilofreire/prisonbrief)
 [CRAN](https://cran.r-project.org/package=prisonbrief)
 [Paper](https://doi.org/10.21105/joss.00361)
-:::
 
 :::
+:::
+::::

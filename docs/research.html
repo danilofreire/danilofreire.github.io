@@ -40,10 +40,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-a0722475b9d4c38eccc5bdf0e2ac4c67.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-f68076668f8b12e98265122583a75b6b.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-a0722475b9d4c38eccc5bdf0e2ac4c67.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-4705c9a4db60cf8367d5d10e399a1bb5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-a60ce571a9ea612e1b64859d9c4e2830.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-7aca8d0a0c82e5dcdf8885f20fd3af58.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-a60ce571a9ea612e1b64859d9c4e2830.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -75,11 +79,174 @@ ul.task-list li input[type="checkbox"] {
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300..900;1,8..60,300..900&amp;family=Inter:wght@400;500;600;700&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
 
 
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed fullcontent quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -131,6 +298,7 @@ ul.task-list li input[type="checkbox"] {
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -142,6 +310,7 @@ ul.task-list li input[type="checkbox"] {
     
 <!-- main -->
 <main class="content" id="quarto-document-content">
+
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -162,30 +331,31 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="research-interests" class="level2">
-<h2 class="anchored" data-anchor-id="research-interests">Research interests</h2>
-<ul>
-<li><strong>Substantive:</strong> Public Policy, Political Violence, Organised Crime, Collective Action, Brazilian Politics</li>
-<li><strong>Methodological:</strong> Computational Social Science, Impact Evaluation, Field Experiments, Meta-Analysis</li>
-</ul>
-</section>
-<section id="peer-reviewed-articles" class="level2">
-<h2 class="anchored" data-anchor-id="peer-reviewed-articles">Peer-reviewed articles</h2>
-<div class="pub-card">
+<div class="page-lede">
+<p>I study political violence, public policy, organised crime, and collective action, mostly in Latin American settings. On the methods side, I work with survey and field experiments, impact evaluation, meta-analysis, and computational social science tools for administrative data.</p>
+</div>
+<div class="anchor-strip">
+<p><span class="label">Jump to</span> <a href="#articles" class="active">Articles</a> <span class="sep">·</span> <a href="#working-papers">Working papers</a> <span class="sep">·</span> <a href="#book">Book</a> <span class="sep">·</span> <a href="#book-chapters">Chapters</a> <span class="sep">·</span> <a href="#other-publications">Other</a> <span class="sep">·</span> <a href="#awards-and-service">Awards &amp; service</a></p>
+</div>
+<section id="articles" class="level2">
+<h2 class="anchored" data-anchor-id="articles">Peer-reviewed articles</h2>
+<div class="pub-card featured">
+<p><span class="year-badge">2026</span></p>
 <div class="pub-title">
 <p><a href="https://www.nature.com/articles/s41586-025-09844-9">Investigating the Analytical Robustness of the Social and Behavioural Sciences</a></p>
 </div>
 <div class="pub-authors">
-<p>With Balazs Aczel, Barnabas Szaszi, Brian A. Nosek, and others</p>
+<p>With Balázs Aczél, Barnabás Szászi, Brian A. Nosek, and others</p>
 </div>
 <div class="pub-venue">
-<p>Nature, 2026, 652, 135–142</p>
+<p>Nature, 652, 135–142</p>
 </div>
 <div class="pub-links">
-<p><a href="https://www.nature.com/articles/s41586-025-09844-9">DOI</a></p>
+<p><a href="https://www.nature.com/articles/s41586-025-09844-9" class="primary">Published version</a></p>
 </div>
 </div>
 <div class="pub-card">
+<p><span class="year-badge">2025</span></p>
 <div class="pub-title">
 <p><a href="https://doi.org/10.1098/rsos.241038">The Reliability of Replications: A Study in Computational Reproductions</a></p>
 </div>
@@ -193,13 +363,14 @@ ul.task-list li input[type="checkbox"] {
 <p>With Nate Breznau, Eike Mark Rinke, Alexander Wuttke, and others</p>
 </div>
 <div class="pub-venue">
-<p>Royal Society Open Science, 2025</p>
+<p>Royal Society Open Science</p>
 </div>
 <div class="pub-links">
-<p><a href="https://doi.org/10.1098/rsos.241038">DOI</a> <a href="https://github.com/nbreznau/how_many_replicators">Replication files</a></p>
+<p><a href="https://doi.org/10.1098/rsos.241038" class="primary">Published version</a> <a href="https://github.com/nbreznau/how_many_replicators">Replication files</a></p>
 </div>
 </div>
 <div class="pub-card">
+<p><span class="year-badge">2024</span></p>
 <div class="pub-title">
 <p><a href="https://doi.org/10.1111/ajps.12843">Legislature Size and Welfare: Evidence From Brazil</a></p>
 </div>
@@ -207,13 +378,14 @@ ul.task-list li input[type="checkbox"] {
 <p>With Umberto Mignozzetti and Gabriel Cepaluni</p>
 </div>
 <div class="pub-venue">
-<p>American Journal of Political Science, 2024</p>
+<p>American Journal of Political Science</p>
 </div>
 <div class="pub-links">
-<p><a href="https://doi.org/10.1111/ajps.12843">DOI</a> <a href="https://github.com/umbertomig/legislature-size-welfare">Replication files</a> <a href="https://www.internationalaffairs.org.au/australianoutlook/legislature-size-and-welfare-evidence-from-brazil/">Media: Australian Institute of International Affairs</a></p>
+<p><a href="https://doi.org/10.1111/ajps.12843" class="primary">Published version</a> <a href="https://github.com/umbertomig/legislature-size-welfare">Replication files</a> <a href="https://www.internationalaffairs.org.au/australianoutlook/legislature-size-and-welfare-evidence-from-brazil/">Media: Australian Institute of International Affairs</a></p>
 </div>
 </div>
 <div class="pub-card">
+<p><span class="year-badge">2023</span></p>
 <div class="pub-title">
 <p><a href="https://doi.org/10.1177/20531680221150389">Vigilantism and Institutions: Attitudes toward Lynching in Brazil</a></p>
 </div>
@@ -221,13 +393,14 @@ ul.task-list li input[type="checkbox"] {
 <p>With David Skarbek</p>
 </div>
 <div class="pub-venue">
-<p>Research &amp; Politics, 2023, 10(1), 1–8</p>
+<p>Research &amp; Politics, 10(1), 1–8</p>
 </div>
 <div class="pub-links">
-<p><a href="https://doi.org/10.1177/20531680221150389">DOI</a> <a href="https://github.com/danilofreire/lynching-experiment-brazil">Replication files</a></p>
+<p><a href="https://doi.org/10.1177/20531680221150389" class="primary">Published version</a> <a href="https://github.com/danilofreire/lynching-experiment-brazil">Replication files</a></p>
 </div>
 </div>
 <div class="pub-card">
+<p><span class="year-badge">2021</span></p>
 <div class="pub-title">
 <p><a href="https://doi.org/10.1017/S0007123422000552">The Effect of Legislature Size on Distributive Politics: A Meta-Analysis</a></p>
 </div>
@@ -235,13 +408,14 @@ ul.task-list li input[type="checkbox"] {
 <p>With Umberto Mignozzetti, Catarina Roman, and Huzeyfe Alptekin</p>
 </div>
 <div class="pub-venue">
-<p>British Journal of Political Science, 2021</p>
+<p>British Journal of Political Science</p>
 </div>
 <div class="pub-links">
-<p><a href="https://doi.org/10.1017/S0007123422000552">DOI</a> <a href="https://github.com/danilofreire/legislature-size-meta-analysis">Replication files</a></p>
+<p><a href="https://doi.org/10.1017/S0007123422000552" class="primary">Published version</a> <a href="https://github.com/danilofreire/legislature-size-meta-analysis">Replication files</a></p>
 </div>
 </div>
 <div class="pub-card">
+<p><span class="year-badge">2021</span></p>
 <div class="pub-title">
 <p><a href="http://dx.doi.org/10.1017/XPS.2020.19">Institutional Design and Elite Support for Climate Policies: Evidence from Latin American Countries</a></p>
 </div>
@@ -252,10 +426,11 @@ ul.task-list li input[type="checkbox"] {
 <p>Journal of Experimental Political Science, Summer 2021, 172–184</p>
 </div>
 <div class="pub-links">
-<p><a href="http://dx.doi.org/10.1017/XPS.2020.19">DOI</a> <a href="https://doi.org/10.7910/DVN/VTA5OA">Replication files</a></p>
+<p><a href="http://dx.doi.org/10.1017/XPS.2020.19" class="primary">Published version</a> <a href="https://doi.org/10.7910/DVN/VTA5OA">Replication files</a></p>
 </div>
 </div>
 <div class="pub-card">
+<p><span class="year-badge">2020</span></p>
 <div class="pub-title">
 <p><a href="https://doi.org/10.1177%2F2053168020914444">Bottom-Up Accountability and Public Service Provision: Evidence from a Field Experiment in Brazil</a></p>
 </div>
@@ -263,13 +438,14 @@ ul.task-list li input[type="checkbox"] {
 <p>With Manoel Galdino and Umberto Mignozzetti</p>
 </div>
 <div class="pub-venue">
-<p>Research &amp; Politics, 2020, 7(2), 1–8</p>
+<p>Research &amp; Politics, 7(2), 1–8</p>
 </div>
 <div class="pub-links">
-<p><a href="https://doi.org/10.1177%2F2053168020914444">DOI</a> <a href="https://github.com/umbertomig/tdp-accountability">Replication files</a></p>
+<p><a href="https://doi.org/10.1177%2F2053168020914444" class="primary">Published version</a> <a href="https://github.com/umbertomig/tdp-accountability">Replication files</a></p>
 </div>
 </div>
 <div class="pub-card">
+<p><span class="year-badge">2019</span></p>
 <div class="pub-title">
 <p><a href="https://doi.org/10.25222/larr.447">congressbr: An R Package for Analysing Data from Brazil’s Chamber of Deputies and Federal Senate</a></p>
 </div>
@@ -277,13 +453,14 @@ ul.task-list li input[type="checkbox"] {
 <p>With Robert McDonnell and Guilherme Duarte</p>
 </div>
 <div class="pub-venue">
-<p>Latin American Research Review, 2019, 54(4), 958–969</p>
+<p>Latin American Research Review, 54(4), 958–969</p>
 </div>
 <div class="pub-links">
-<p><a href="https://doi.org/10.25222/larr.447">DOI</a> <a href="https://github.com/duarteguilherme/congressbr">Software repository</a></p>
+<p><a href="https://doi.org/10.25222/larr.447" class="primary">Published version</a> <a href="https://github.com/duarteguilherme/congressbr">Software repository</a></p>
 </div>
 </div>
 <div class="pub-card">
+<p><span class="year-badge">2019</span></p>
 <div class="pub-title">
 <p><a href="https://doi.org/10.1177/0094582X19846519">Beasts of Prey or Rational Animals?: Private Governance in Brazil’s <em>Jogo do Bicho</em></a></p>
 </div>
@@ -291,27 +468,29 @@ ul.task-list li input[type="checkbox"] {
 <p>Danilo Freire</p>
 </div>
 <div class="pub-venue">
-<p>Latin American Perspectives, 2019, 46(4), 230–244</p>
+<p>Latin American Perspectives, 46(4), 230–244</p>
 </div>
 <div class="pub-links">
-<p><a href="https://doi.org/10.1177/0094582X19846519">DOI</a> <a href="http://www.bbc.com/portuguese/brasil-40140693">Media: BBC Brazil</a></p>
+<p><a href="https://doi.org/10.1177/0094582X19846519" class="primary">Published version</a> <a href="http://www.bbc.com/portuguese/brasil-40140693">Media: BBC Brazil</a></p>
 </div>
 </div>
 <div class="pub-card">
+<p><span class="year-badge">2018</span></p>
 <div class="pub-title">
-<p><a href="https://doi.org/10.25222/larr.334">Evaluating the Effect of Homicide Prevention Strategies in Sao Paulo, Brazil: A Synthetic Control Approach</a></p>
+<p><a href="https://doi.org/10.25222/larr.334">Evaluating the Effect of Homicide Prevention Strategies in São Paulo, Brazil: A Synthetic Control Approach</a></p>
 </div>
 <div class="pub-authors">
 <p>Danilo Freire</p>
 </div>
 <div class="pub-venue">
-<p>Latin American Research Review, 2018, 53(2), 231–249</p>
+<p>Latin American Research Review, 53(2), 231–249</p>
 </div>
 <div class="pub-links">
-<p><a href="https://doi.org/10.25222/larr.334">DOI</a> <a href="https://github.com/danilofreire/homicides-sp-synth">Replication files</a> <a href="http://www.valor.com.br/cultura/5111524/sangue-no-asfalto">Media: Valor Economico</a></p>
+<p><a href="https://doi.org/10.25222/larr.334" class="primary">Published version</a> <a href="https://github.com/danilofreire/homicides-sp-synth">Replication files</a> <a href="http://www.valor.com.br/cultura/5111524/sangue-no-asfalto">Media: Valor Econômico</a></p>
 </div>
 </div>
 <div class="pub-card">
+<p><span class="year-badge">2018</span></p>
 <div class="pub-title">
 <p><a href="https://doi.org/10.21105/joss.00361">prisonbrief: An R Package that Returns Tidy Data from the World Prison Brief Website</a></p>
 </div>
@@ -319,13 +498,14 @@ ul.task-list li input[type="checkbox"] {
 <p>With Robert McDonnell</p>
 </div>
 <div class="pub-venue">
-<p>Journal of Open Source Software, 2018, 3(22), 361</p>
+<p>Journal of Open Source Software, 3(22), 361</p>
 </div>
 <div class="pub-links">
-<p><a href="https://doi.org/10.21105/joss.00361">DOI</a> <a href="https://github.com/danilofreire/prisonbrief">Software repository</a></p>
+<p><a href="https://doi.org/10.21105/joss.00361" class="primary">Published version</a> <a href="https://github.com/danilofreire/prisonbrief">Software repository</a></p>
 </div>
 </div>
 <div class="pub-card">
+<p><span class="year-badge">2015</span></p>
 <div class="pub-title">
 <p><a href="http://www.iapss.org/wp-content/uploads/2014/10/ELA1.1_2.Lack-of-Preferences-Political-Trust-and-Education-Levels.pdf">Lack of Preferences, Political Trust and Education Levels: Alternative Explanations for Invalid Votes in Brazilian Elections</a></p>
 </div>
@@ -333,13 +513,14 @@ ul.task-list li input[type="checkbox"] {
 <p>With Guilherme Arbache and Pietro Rodrigues</p>
 </div>
 <div class="pub-venue">
-<p>Encuentro Latinoamericano, 2015, 1(1), 29–50</p>
+<p>Encuentro Latinoamericano, 1(1), 29–50</p>
 </div>
 <div class="pub-links">
-<p><a href="http://www.iapss.org/wp-content/uploads/2014/10/ELA1.1_2.Lack-of-Preferences-Political-Trust-and-Education-Levels.pdf">PDF</a> <a href="https://github.com/danilofreire/invalid-votes-brazil">Replication files</a></p>
+<p><a href="http://www.iapss.org/wp-content/uploads/2014/10/ELA1.1_2.Lack-of-Preferences-Political-Trust-and-Education-Levels.pdf" class="primary">PDF</a> <a href="https://github.com/danilofreire/invalid-votes-brazil">Replication files</a></p>
 </div>
 </div>
 <div class="pub-card">
+<p><span class="year-badge">2014</span></p>
 <div class="pub-title">
 <p><a href="http://recyt.fecyt.es/index.php/recp/article/view/37638">Between Ballot Boxes and Guns: The Competitiveness of the Executive Branch and Civil Wars, 1976–2000</a></p>
 </div>
@@ -347,10 +528,10 @@ ul.task-list li input[type="checkbox"] {
 <p>Danilo Freire</p>
 </div>
 <div class="pub-venue">
-<p>Revista Espanola de Ciencia Politica, 2014, 36, 33–60</p>
+<p>Revista Española de Ciencia Política, 36, 33–60</p>
 </div>
 <div class="pub-links">
-<p><a href="http://recyt.fecyt.es/index.php/recp/article/view/37638">PDF</a> <a href="https://doi.org/10.7910/DVN/NSDUYG">Replication files</a></p>
+<p><a href="http://recyt.fecyt.es/index.php/recp/article/view/37638" class="primary">PDF</a> <a href="https://doi.org/10.7910/DVN/NSDUYG">Replication files</a></p>
 </div>
 </div>
 </section>
@@ -364,18 +545,18 @@ ul.task-list li input[type="checkbox"] {
 <p>With Umberto Mignozzetti. Under review.</p>
 </div>
 <div class="pub-links">
-<p><a href="https://github.com/danilofreire/incentives-healthcare">GitHub</a></p>
+<p><a href="https://github.com/danilofreire/incentives-healthcare" class="primary">GitHub</a></p>
 </div>
 </div>
 <div class="pub-card">
 <div class="pub-title">
-<p><a href="https://github.com/danilofreire/danilofreire.github.io/blob/master/malapportionment.pdf">Legislative Outcomes and Malapportionment: Evidence from Latin America</a></p>
+<p><a href="texts/malapportionment.pdf">Legislative Outcomes and Malapportionment: Evidence from Latin America</a></p>
 </div>
 <div class="pub-authors">
 <p>With Umberto Mignozzetti and Catarina Roman</p>
 </div>
 <div class="pub-links">
-<p><a href="texts/malapportionment.pdf">PDF</a></p>
+<p><a href="texts/malapportionment.pdf" class="primary">PDF</a></p>
 </div>
 </div>
 <div class="pub-card">
@@ -386,7 +567,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Danilo Freire</p>
 </div>
 <div class="pub-links">
-<p><a href="https://github.com/danilofreire/mercatus-analytics-papers/blob/main/automl-paper/automl.pdf">PDF</a></p>
+<p><a href="https://github.com/danilofreire/mercatus-analytics-papers/blob/main/automl-paper/automl.pdf" class="primary">PDF</a></p>
 </div>
 </div>
 <div class="pub-card">
@@ -397,7 +578,7 @@ ul.task-list li input[type="checkbox"] {
 <p>With Gary Uzonyi</p>
 </div>
 <div class="pub-links">
-<p><a href="https://osf.io/pzx3q">OSF</a></p>
+<p><a href="https://osf.io/pzx3q" class="primary">OSF</a></p>
 </div>
 </div>
 <div class="pub-card">
@@ -421,16 +602,16 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="book">Book</h2>
 <div class="pub-card">
 <div class="pub-title">
-<p><a href="https://github.com/danilofreire/danilofreire.github.io/blob/01dc4c9566bb5ade15b5db950046ed0a386fc5f1/texts/natural_resources_policy_choices_latam.pdf">Natural Resources and Policy Choices in Latin America</a></p>
+<p><a href="texts/natural_resources_policy_choices_latam.pdf">Natural Resources and Policy Choices in Latin America</a></p>
 </div>
 <div class="pub-authors">
-<p>Edited with Giovanna Franca and Umberto Mignozzetti</p>
+<p>Edited with Giovanna França and Umberto Mignozzetti</p>
 </div>
 <div class="pub-venue">
-<p>Sao Paulo: Konrad Adenauer Foundation, 2020</p>
+<p>São Paulo: Konrad Adenauer Foundation, 2020</p>
 </div>
 <div class="pub-links">
-<p><a href="texts/natural_resources_policy_choices_latam.pdf">PDF</a></p>
+<p><a href="texts/natural_resources_policy_choices_latam.pdf" class="primary">PDF</a></p>
 </div>
 </div>
 </section>
@@ -447,21 +628,21 @@ ul.task-list li input[type="checkbox"] {
 <p>In: Griffin, Hayden; Woodward, Vanessa (ed.). Handbook of Corrections in the United States. London: Routledge, 2017, 399–408</p>
 </div>
 <div class="pub-links">
-<p><a href="https://osf.io/kuqqx/">OSF</a></p>
+<p><a href="https://osf.io/kuqqx/" class="primary">OSF</a></p>
 </div>
 </div>
 <div class="pub-card">
 <div class="pub-title">
-<p><a href="https://fnst.org/sites/default/files/uploads/2017/12/08/ngp.pdf">A Nova Gestao Publica e a Qualidade da Democracia</a></p>
+<p><a href="https://fnst.org/sites/default/files/uploads/2017/12/08/ngp.pdf">A Nova Gestão Pública e a Qualidade da Democracia</a></p>
 </div>
 <div class="pub-authors">
 <p>Danilo Freire</p>
 </div>
 <div class="pub-venue">
-<p>In: Erkens, Rainer (ed.). Nova Gestao Publica. Sao Paulo: Instituto Friedrich Naumann, 2010, 9–15</p>
+<p>In: Erkens, Rainer (ed.). Nova Gestão Pública. São Paulo: Instituto Friedrich Naumann, 2010, 9–15</p>
 </div>
 <div class="pub-links">
-<p><a href="https://fnst.org/sites/default/files/uploads/2017/12/08/ngp.pdf">PDF</a></p>
+<p><a href="https://fnst.org/sites/default/files/uploads/2017/12/08/ngp.pdf" class="primary">PDF</a></p>
 </div>
 </div>
 </section>
@@ -478,7 +659,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Policy Report commissioned by the Konrad Adenauer Stiftung, 2019</p>
 </div>
 <div class="pub-links">
-<p><a href="https://www.kas.de/documents/273477/273526/Geopolitics+of+Renewable+Energy+in+Latin+America+-+A+Survey.pdf/9fe39ef1-6028-0836-90b0-aada31cb6769?version=1.0&amp;t=1551887777018">PDF</a></p>
+<p><a href="https://www.kas.de/documents/273477/273526/Geopolitics+of+Renewable+Energy+in+Latin+America+-+A+Survey.pdf/9fe39ef1-6028-0836-90b0-aada31cb6769?version=1.0&amp;t=1551887777018" class="primary">PDF</a></p>
 </div>
 </div>
 <div class="pub-card">
@@ -492,12 +673,12 @@ ul.task-list li input[type="checkbox"] {
 <p>The Political Methodologist, 2015, 23(1), 6–11</p>
 </div>
 <div class="pub-links">
-<p><a href="https://thepoliticalmethodologist.files.wordpress.com/2016/02/tpm_v23_n1.pdf">PDF</a></p>
+<p><a href="https://thepoliticalmethodologist.files.wordpress.com/2016/02/tpm_v23_n1.pdf" class="primary">PDF</a></p>
 </div>
 </div>
 <div class="pub-card">
 <div class="pub-title">
-<p><a href="http://www.scielo.br/readcube/epdf.php?doi=10.1590/1981-38212015000300026&amp;pid=S1981-38212015000300178&amp;pdf_path=bpsr/v9n3/1981-3821-bpsr-9-3-0178.pdf&amp;lang=en">Book Review: Causal Inference, Shaolin-Style: “Mastering Metrics” by Joshua D. Angrist and Jorn-Steffen Pischke</a></p>
+<p><a href="http://www.scielo.br/readcube/epdf.php?doi=10.1590/1981-38212015000300026&amp;pid=S1981-38212015000300178&amp;pdf_path=bpsr/v9n3/1981-3821-bpsr-9-3-0178.pdf&amp;lang=en">Book Review: Causal Inference, Shaolin-Style – “Mastering Metrics” by Joshua D. Angrist and Jörn-Steffen Pischke</a></p>
 </div>
 <div class="pub-authors">
 <p>Danilo Freire</p>
@@ -506,12 +687,12 @@ ul.task-list li input[type="checkbox"] {
 <p>Brazilian Political Science Review, 2015, 9(3), 178–185</p>
 </div>
 <div class="pub-links">
-<p><a href="http://www.scielo.br/readcube/epdf.php?doi=10.1590/1981-38212015000300026&amp;pid=S1981-38212015000300178&amp;pdf_path=bpsr/v9n3/1981-3821-bpsr-9-3-0178.pdf&amp;lang=en">PDF</a></p>
+<p><a href="http://www.scielo.br/readcube/epdf.php?doi=10.1590/1981-38212015000300026&amp;pid=S1981-38212015000300178&amp;pdf_path=bpsr/v9n3/1981-3821-bpsr-9-3-0178.pdf&amp;lang=en" class="primary">PDF</a></p>
 </div>
 </div>
 <div class="pub-card">
 <div class="pub-title">
-<p><a href="http://dx.doi.org/10.6084/m9.figshare.1209203">Entering the Underworld: Prison Gang Recruitment in Sao Paulo’s Primeiro Comando da Capital</a></p>
+<p><a href="http://dx.doi.org/10.6084/m9.figshare.1209203">Entering the Underworld: Prison Gang Recruitment in São Paulo’s Primeiro Comando da Capital</a></p>
 </div>
 <div class="pub-authors">
 <p>Danilo Freire</p>
@@ -520,7 +701,7 @@ ul.task-list li input[type="checkbox"] {
 <p>MA Thesis in International Relations, The Graduate Institute Geneva, 2014</p>
 </div>
 <div class="pub-links">
-<p><a href="http://dx.doi.org/10.6084/m9.figshare.1209203">PDF</a></p>
+<p><a href="http://dx.doi.org/10.6084/m9.figshare.1209203" class="primary">PDF</a></p>
 </div>
 </div>
 <div class="pub-card">
@@ -534,7 +715,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Meridiano47, 2013, 14(135)</p>
 </div>
 <div class="pub-links">
-<p><a href="http://seer.bce.unb.br/index.php/MED/article/view/7505/6497">PDF</a></p>
+<p><a href="http://seer.bce.unb.br/index.php/MED/article/view/7505/6497" class="primary">PDF</a></p>
 </div>
 </div>
 <div class="pub-card">
@@ -545,10 +726,10 @@ ul.task-list li input[type="checkbox"] {
 <p>Danilo Freire</p>
 </div>
 <div class="pub-venue">
-<p>MA Thesis in Political Science, University of Sao Paulo, 2011</p>
+<p>MA Thesis in Political Science, University of São Paulo, 2011</p>
 </div>
 <div class="pub-links">
-<p><a href="http://dx.doi.org/10.6084/m9.figshare.963082">PDF</a> <a href="http://dx.doi.org/10.6084/m9.figshare.963183">Replication files</a></p>
+<p><a href="http://dx.doi.org/10.6084/m9.figshare.963082" class="primary">PDF</a> <a href="http://dx.doi.org/10.6084/m9.figshare.963183">Replication files</a></p>
 </div>
 </div>
 </section>
@@ -571,7 +752,7 @@ ul.task-list li input[type="checkbox"] {
 <li>Associate Editor, <em>International Social Science Journal</em></li>
 <li>Associate Editor, <em>Humanities &amp; Social Sciences Communications</em></li>
 <li>Referee for <em>AJPS</em>, <em>JPR</em>, <em>BJPS</em>, <em>Electoral Studies</em>, and 14 other journals</li>
-<li>Co-editor, <em>Leviathan</em>, University of Sao Paulo (2012–2016)</li>
+<li>Co-editor, <em>Leviathan</em>, University of São Paulo (2012–2016)</li>
 </ul>
 </section>
 </div>
@@ -582,6 +763,19 @@ ul.task-list li input[type="checkbox"] {
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
+    }
+    setColorSchemeToggle(hasAlternateSentinel())
     const icon = "";
     const anchorJS = new window.AnchorJS();
     anchorJS.options = {
