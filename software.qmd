@@ -37,7 +37,6 @@ R packages for political science and public policy research, published on CRAN a
 ::: {.software-links}
 
 [GitHub](https://github.com/RobertMyles/congressbr){.primary}
-[CRAN](https://cran.r-project.org/package=congressbr)
 [Paper](https://doi.org/10.25222/larr.447)
 
 :::
@@ -57,7 +56,6 @@ R packages for political science and public policy research, published on CRAN a
 
 [Website](http://danilofreire.github.io/prisonbrief){.primary}
 [GitHub](https://github.com/danilofreire/prisonbrief)
-[CRAN](https://cran.r-project.org/package=prisonbrief)
 [Paper](https://doi.org/10.21105/joss.00361)
 
 :::
