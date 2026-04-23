@@ -44,7 +44,7 @@ You can reach me at [danilo.freire@emory.edu](mailto:danilo.freire@emory.edu) or
   <a class="wayfind-card" href="cv.html">
     <span class="icon"><i class="bi bi-file-earmark-person"></i></span>
     <h4>CV</h4>
-    <p>Full academic history, grants, and references.</p>
+    <p>Full academic history, publications, and grants.</p>
   </a>
 </div>
 ```
