@@ -84,8 +84,8 @@ title: "Curriculum Vitae"
   <div class="cv-pub"><div class="title"><a>Legislative Outcomes and Malapportionment: Evidence from Latin America</a></div><div class="authors">With Umberto Mignozzetti and Catarina Roman</div></div>
   <div class="cv-pub"><div class="title"><a>Democratising Policy Analytics with AutoML</a></div><div class="authors">Danilo Freire</div></div>
   <div class="cv-pub"><div class="title"><a>What Drives State-Sponsored Violence? Evidence from Extreme Bounds Analysis and Ensemble Learning Methods</a></div><div class="authors">With Gary Uzonyi</div></div>
-  <div class="cv-pub"><div class="title">Environmental Protection in Weak Party Systems: Evidence from Brazil</div><div class="authors">With Umberto Mignozzetti &middot; In preparation</div></div>
-  <div class="cv-pub"><div class="title">Natural Disasters and Identity Reconstruction Among Syrian Refugees</div><div class="authors">With Hamoon Khelghat-Doost &middot; In preparation</div></div>
+  <div class="cv-pub"><div class="title"><a>Environmental Protection in Weak Party Systems: Evidence from Brazil</a></div><div class="authors">With Umberto Mignozzetti &middot; In preparation</div></div>
+  <div class="cv-pub"><div class="title"><a>Natural Disasters and Identity Reconstruction Among Syrian Refugees</a></div><div class="authors">With Hamoon Khelghat-Doost &middot; In preparation</div></div>
 
   <div class="cv-subhead">Book</div>
   <div class="cv-pub"><div class="title"><span class="year-inline">2020</span><a>Natural Resources and Policy Choices in Latin America</a></div><div class="authors">Edited with Giovanna Fran&ccedil;a and Umberto Mignozzetti</div><div class="venue">S&atilde;o Paulo: Konrad Adenauer Foundation.</div></div>
