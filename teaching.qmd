@@ -89,6 +89,22 @@ Courses in experimental methods, data science, and AI for the social sciences, w
 ::: {.teach-body}
 ::: {.teach-title}
 
+[Introducción a la IA para Científicos Sociales](https://danilofreire.github.io/introduccion-ia-ucu/) [UCU]{.institution-badge .ib-other}
+
+:::
+
+[2026. A five-day course in Spanish for the Escuela en Métodos, Centro Hodos. It introduces social science students to artificial intelligence and machine learning in R, using the tidyverse and tidymodels.]{.teach-desc}
+
+:::
+::::
+
+:::: {.teach-entry}
+
+[]{.level-dot .both}
+
+::: {.teach-body}
+::: {.teach-title}
+
 [EGAP Learning Days 15: Field Experiments in the Social Sciences](https://egap.org/project/learning-days-15-latin-america-regional-hub-workshop/) [EGAP]{.institution-badge .ib-other}
 
 :::
