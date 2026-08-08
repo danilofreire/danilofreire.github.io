@@ -6,7 +6,6 @@ title: "Curriculum Vitae"
 <div class="cv-actions">
   <a class="btn-cv primary" href="DaniloFreireCV.pdf" download><i class="bi bi-download"></i> Download PDF</a>
   <a class="btn-cv ghost" href="DaniloFreireCV.pdf" target="_blank"><i class="bi bi-file-earmark-pdf"></i> View PDF in new tab</a>
-  <span class="cv-updated">Last updated April 2026</span>
 </div>
 
 <div class="cv-contact">
@@ -61,7 +60,7 @@ title: "Curriculum Vitae"
 
   <div class="cv-pub"><div class="title"><span class="year-inline">2023</span><a href="https://doi.org/10.1177/20531680221150389">Vigilantism and Institutions: Attitudes toward Lynching in Brazil</a></div><div class="authors">With David Skarbek</div><div class="venue">Research &amp; Politics, 10(1), 1&ndash;8.</div></div>
 
-  <div class="cv-pub"><div class="title"><span class="year-inline">2021</span><a href="https://doi.org/10.1017/S0007123422000552">The Effect of Legislature Size on Distributive Politics: A Meta-Analysis</a></div><div class="authors">With Umberto Mignozzetti, Catarina Roman, and Huzeyfe Alptekin</div><div class="venue">British Journal of Political Science.</div></div>
+  <div class="cv-pub"><div class="title"><span class="year-inline">2023</span><a href="https://doi.org/10.1017/S0007123422000552">The Effect of Legislature Size on Public Spending: A Meta-Analysis</a></div><div class="authors">With Umberto Mignozzetti, Catarina Roman, and Huzeyfe Alptekin</div><div class="venue">British Journal of Political Science, 53(2), 776&ndash;788.</div></div>
 
   <div class="cv-pub"><div class="title"><span class="year-inline">2021</span><a href="https://doi.org/10.1017/XPS.2020.19">Institutional Design and Elite Support for Climate Policies: Evidence from Latin American Countries</a></div><div class="authors">With Umberto Mignozzetti and David Skarbek</div><div class="venue">Journal of Experimental Political Science, Summer 2021, 172&ndash;184.</div></div>
 
