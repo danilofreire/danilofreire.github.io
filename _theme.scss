@@ -604,7 +604,11 @@ h3 { font-size: 1.2rem; margin: 1.6em 0 0.5em; }
     display: block;
     margin-top: 0.15rem;
   }
-  .what a { color: var(--teal); }
+  // Linked entries: the whole title is one font and one colour, matching
+  // .cv-pub .title. Without this the <b> keeps its own serif/navy styling
+  // while the text after it inherits the row's sans font and link colour.
+  .what a { color: var(--teal); font-family: 'Source Serif 4', serif; }
+  .what a b { color: inherit; }
 }
 
 .cv-pub {
