@@ -13,7 +13,8 @@ Source for [danilofreire.github.io](https://danilofreire.github.io), my academic
 ## Structure
 
 - `*.qmd` - page source files
-- `custom.scss` / `custom-dark.scss` - light and dark theme styles
+- `custom.scss` / `custom-dark.scss` - light and dark palettes and theme tokens
+- `_theme.scss` - shared layout and typography rules, imported by both themes
 - `_quarto.yml` - site configuration, navigation, fonts, head includes
 - `docs/` - rendered output, served by GitHub Pages
 - `assets/`, `syllabi/`, `texts/`, `evaluations/` - static resources
