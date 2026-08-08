@@ -63,7 +63,7 @@ title: "Curriculum Vitae"
 
   <div class="cv-pub"><div class="title"><span class="year-inline">2021</span><a href="https://doi.org/10.1017/S0007123422000552">The Effect of Legislature Size on Distributive Politics: A Meta-Analysis</a></div><div class="authors">With Umberto Mignozzetti, Catarina Roman, and Huzeyfe Alptekin</div><div class="venue">British Journal of Political Science.</div></div>
 
-  <div class="cv-pub"><div class="title"><span class="year-inline">2021</span><a href="https://doi.org/10.1017/XPS.2020.24">Institutional Design and Elite Support for Climate Policies: Evidence from Latin American Countries</a></div><div class="authors">With Umberto Mignozzetti and David Skarbek</div><div class="venue">Journal of Experimental Political Science, Summer 2021, 172&ndash;184.</div></div>
+  <div class="cv-pub"><div class="title"><span class="year-inline">2021</span><a href="https://doi.org/10.1017/XPS.2020.19">Institutional Design and Elite Support for Climate Policies: Evidence from Latin American Countries</a></div><div class="authors">With Umberto Mignozzetti and David Skarbek</div><div class="venue">Journal of Experimental Political Science, Summer 2021, 172&ndash;184.</div></div>
 
   <div class="cv-pub"><div class="title"><span class="year-inline">2020</span><a href="https://doi.org/10.1177/2053168020914444">Bottom-Up Accountability and Public Service Provision: Evidence from a Field Experiment in Brazil</a></div><div class="authors">With Manoel Galdino and Umberto Mignozzetti</div><div class="venue">Research &amp; Politics, 7(2), 1&ndash;8.</div></div>
 
