@@ -45,9 +45,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-36360039eae95a2a2654540b661c1020.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-9005d428e3e77f1e9332c049c7c01423.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-690c2768f02444f0058aa7c90caf419f.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-9005d428e3e77f1e9332c049c7c01423.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-07fcebf820504beb9b30a45a4c7e2e1b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-1dbbc747be60e50fedb49c792e65b1ec.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-07fcebf820504beb9b30a45a4c7e2e1b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -335,7 +335,7 @@ ul.task-list li input[type="checkbox"] {
 <p>I study political violence, public policy, organised crime, and collective action, mostly in Latin American settings. On the methods side, I work with survey and field experiments, impact evaluation, meta-analysis, and computational social science tools for administrative data.</p>
 </div>
 <div class="anchor-strip">
-<p><span class="label">Jump to</span> <a href="#articles" class="active">Articles</a> <span class="sep">·</span> <a href="#working-papers">Working papers</a> <span class="sep">·</span> <a href="#book">Book</a> <span class="sep">·</span> <a href="#book-chapters">Chapters</a> <span class="sep">·</span> <a href="#other-publications">Other</a> <span class="sep">·</span> <a href="#awards-and-service">Awards &amp; service</a></p>
+<p><span class="label">Jump to</span> <a href="#articles">Articles</a> <span class="sep">·</span> <a href="#working-papers">Working papers</a> <span class="sep">·</span> <a href="#book">Book</a> <span class="sep">·</span> <a href="#book-chapters">Chapters</a> <span class="sep">·</span> <a href="#other-publications">Other</a> <span class="sep">·</span> <a href="#awards-and-service">Awards &amp; service</a></p>
 </div>
 <section id="articles" class="level2">
 <h2 class="anchored" data-anchor-id="articles">Peer-reviewed articles</h2>
@@ -400,15 +400,15 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 <div class="pub-card">
-<p><span class="year-badge">2021</span></p>
+<p><span class="year-badge">2023</span></p>
 <div class="pub-title">
-<p><a href="https://doi.org/10.1017/S0007123422000552">The Effect of Legislature Size on Distributive Politics: A Meta-Analysis</a></p>
+<p><a href="https://doi.org/10.1017/S0007123422000552">The Effect of Legislature Size on Public Spending: A Meta-Analysis</a></p>
 </div>
 <div class="pub-authors">
 <p>With Umberto Mignozzetti, Catarina Roman, and Huzeyfe Alptekin</p>
 </div>
 <div class="pub-venue">
-<p>British Journal of Political Science</p>
+<p>British Journal of Political Science, 53(2), 776–788</p>
 </div>
 <div class="pub-links">
 <p><a href="https://doi.org/10.1017/S0007123422000552" class="primary">Published version</a> <a href="https://github.com/danilofreire/legislature-size-meta-analysis">Replication files</a></p>
@@ -756,6 +756,28 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 </section>
 </div>
+<script>
+// Scrollspy for the anchor strip: highlight the section currently in view.
+(function () {
+  var strip = document.querySelector('.anchor-strip');
+  if (!strip) return;
+  var links = Array.prototype.slice.call(strip.querySelectorAll('a[href^="#"]'));
+  var sections = links.map(function (a) {
+    return document.getElementById(decodeURIComponent(a.getAttribute('href').slice(1)));
+  });
+  function update() {
+    var offset = strip.getBoundingClientRect().bottom + 10;
+    var current = 0;
+    for (var i = 0; i < sections.length; i++) {
+      if (sections[i] && sections[i].getBoundingClientRect().top <= offset) current = i;
+    }
+    links.forEach(function (a, i) { a.classList.toggle('active', i === current); });
+  }
+  window.addEventListener('scroll', update, { passive: true });
+  window.addEventListener('resize', update, { passive: true });
+  update();
+})();
+</script>
 
 
 </section>
