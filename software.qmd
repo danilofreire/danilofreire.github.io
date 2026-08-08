@@ -9,7 +9,7 @@ R packages for political science and public policy research, published on CRAN a
 :::: {.software-card}
 ::: {.pkg-body}
 
-### pinochet
+### [pinochet](http://danilofreire.github.io/pinochet)
 
 [Data about the victims of the Pinochet regime, 1973--1990 -- demographic details, type of violence, and geographic coordinates.]{.pkg-desc}
 
@@ -28,7 +28,7 @@ R packages for political science and public policy research, published on CRAN a
 :::: {.software-card}
 ::: {.pkg-body}
 
-### congressbr
+### [congressbr](https://github.com/RobertMyles/congressbr)
 
 [Downloads, unpacks, and tidies legislative data from the Brazilian Federal Senate and Chamber of Deputies -- legislators, bills, votes, and parliamentary activity.]{.pkg-desc}
 
@@ -46,7 +46,7 @@ R packages for political science and public policy research, published on CRAN a
 :::: {.software-card}
 ::: {.pkg-body}
 
-### prisonbrief
+### [prisonbrief](http://danilofreire.github.io/prisonbrief)
 
 [Returns tidy data from the World Prison Brief website -- prison populations, occupancy rates, and demographic breakdowns.]{.pkg-desc}
 

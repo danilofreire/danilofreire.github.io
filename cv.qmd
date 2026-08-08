@@ -53,7 +53,7 @@ title: "Curriculum Vitae"
 
   <div class="cv-subhead">Peer-reviewed articles</div>
 
-  <div class="cv-pub"><div class="title"><span class="year-inline">2026</span><a href="https://doi.org/10.1038/s41586-026-1234-5">Investigating the Analytical Robustness of the Social and Behavioural Sciences</a></div><div class="authors">With Bal&aacute;zs Acz&eacute;l, Barnab&aacute;s Sz&aacute;szi, Brian A. Nosek, and others</div><div class="venue">Nature, 652, 135&ndash;142.</div></div>
+  <div class="cv-pub"><div class="title"><span class="year-inline">2026</span><a href="https://www.nature.com/articles/s41586-025-09844-9">Investigating the Analytical Robustness of the Social and Behavioural Sciences</a></div><div class="authors">With Bal&aacute;zs Acz&eacute;l, Barnab&aacute;s Sz&aacute;szi, Brian A. Nosek, and others</div><div class="venue">Nature, 652, 135&ndash;142.</div></div>
 
   <div class="cv-pub"><div class="title"><span class="year-inline">2025</span><a href="https://royalsocietypublishing.org/doi/10.1098/rsos.241038">The Reliability of Replications: A Study in Computational Reproductions</a></div><div class="authors">With Nate Breznau, Eike Mark Rinke, Alexander Wuttke, and others</div><div class="venue">Royal Society Open Science, 12(3), 241038.</div></div>
 
@@ -69,38 +69,38 @@ title: "Curriculum Vitae"
 
   <div class="cv-pub"><div class="title"><span class="year-inline">2019</span><a href="https://doi.org/10.25222/larr.447">congressbr: An R Package for Analysing Data from Brazil&rsquo;s Chamber of Deputies and Federal Senate</a></div><div class="authors">With Robert McDonnell and Guilherme Duarte</div><div class="venue">Latin American Research Review, 54(4), 958&ndash;969.</div></div>
 
-  <div class="cv-pub"><div class="title"><span class="year-inline">2019</span><a href="https://doi.org/10.1177/0094582X19835013">Beasts of Prey or Rational Animals? Private Governance in Brazil&rsquo;s Jogo do Bicho</a></div><div class="authors">Danilo Freire</div><div class="venue">Latin American Perspectives, 46(4), 230&ndash;244.</div></div>
+  <div class="cv-pub"><div class="title"><span class="year-inline">2019</span><a href="https://doi.org/10.1177/0094582x19846519">Beasts of Prey or Rational Animals? Private Governance in Brazil&rsquo;s Jogo do Bicho</a></div><div class="authors">Danilo Freire</div><div class="venue">Latin American Perspectives, 46(4), 230&ndash;244.</div></div>
 
   <div class="cv-pub"><div class="title"><span class="year-inline">2018</span><a href="https://doi.org/10.25222/larr.334">Evaluating the Effect of Homicide Prevention Strategies in S&atilde;o Paulo, Brazil: A Synthetic Control Approach</a></div><div class="authors">Danilo Freire</div><div class="venue">Latin American Research Review, 53(2), 231&ndash;249.</div></div>
 
   <div class="cv-pub"><div class="title"><span class="year-inline">2018</span><a href="https://doi.org/10.21105/joss.00361">prisonbrief: An R Package that Returns Tidy Data from the World Prison Brief Website</a></div><div class="authors">With Robert McDonnell</div><div class="venue">Journal of Open Source Software, 3(22), 361.</div></div>
 
-  <div class="cv-pub"><div class="title"><span class="year-inline">2015</span><a>Lack of Preferences, Political Trust and Education Levels: Alternative Explanations for Invalid Votes in Brazilian Elections</a></div><div class="authors">With Guilherme Arbache and Pietro Rodrigues</div><div class="venue">Encuentro Latinoamericano, 1(1), 29&ndash;50.</div></div>
+  <div class="cv-pub"><div class="title"><span class="year-inline">2015</span><a href="https://doi.org/10.22151/ela.1.1.2">Lack of Preferences, Political Trust and Education Levels: Alternative Explanations for Invalid Votes in Brazilian Elections</a></div><div class="authors">With Guilherme Arbache and Pietro Rodrigues</div><div class="venue">Encuentro Latinoamericano, 1(1), 29&ndash;50.</div></div>
 
-  <div class="cv-pub"><div class="title"><span class="year-inline">2014</span><a>Between Ballot Boxes and Guns: The Competitiveness of the Executive Branch and Civil Wars, 1976&ndash;2000</a></div><div class="authors">Danilo Freire</div><div class="venue">Revista Espa&ntilde;ola de Ciencia Pol&iacute;tica, 36, 33&ndash;60.</div></div>
+  <div class="cv-pub"><div class="title"><span class="year-inline">2014</span><a href="https://recyt.fecyt.es/index.php/recp/article/view/37638">Between Ballot Boxes and Guns: The Competitiveness of the Executive Branch and Civil Wars, 1976&ndash;2000</a></div><div class="authors">Danilo Freire</div><div class="venue">Revista Espa&ntilde;ola de Ciencia Pol&iacute;tica, 36, 33&ndash;60.</div></div>
 
   <div class="cv-subhead">Working papers</div>
-  <div class="cv-pub"><div class="title"><a>Financial Incentives and Health Care Provision: Evidence from an Aedes aegypti Control Programme in Brazil</a></div><div class="authors">With Umberto Mignozzetti &middot; Under review</div></div>
-  <div class="cv-pub"><div class="title"><a>Legislative Outcomes and Malapportionment: Evidence from Latin America</a></div><div class="authors">With Umberto Mignozzetti and Catarina Roman</div></div>
-  <div class="cv-pub"><div class="title"><a>Democratising Policy Analytics with AutoML</a></div><div class="authors">Danilo Freire</div></div>
-  <div class="cv-pub"><div class="title"><a>What Drives State-Sponsored Violence? Evidence from Extreme Bounds Analysis and Ensemble Learning Methods</a></div><div class="authors">With Gary Uzonyi</div></div>
-  <div class="cv-pub"><div class="title"><a>Environmental Protection in Weak Party Systems: Evidence from Brazil</a></div><div class="authors">With Umberto Mignozzetti &middot; In preparation</div></div>
-  <div class="cv-pub"><div class="title"><a>Natural Disasters and Identity Reconstruction Among Syrian Refugees</a></div><div class="authors">With Hamoon Khelghat-Doost &middot; In preparation</div></div>
+  <div class="cv-pub"><div class="title">Financial Incentives and Health Care Provision: Evidence from an Aedes aegypti Control Programme in Brazil</div><div class="authors">With Umberto Mignozzetti &middot; Under review</div></div>
+  <div class="cv-pub"><div class="title"><a href="texts/malapportionment.pdf">Legislative Outcomes and Malapportionment: Evidence from Latin America</a></div><div class="authors">With Umberto Mignozzetti and Catarina Roman</div></div>
+  <div class="cv-pub"><div class="title">Democratising Policy Analytics with AutoML</div><div class="authors">Danilo Freire</div></div>
+  <div class="cv-pub"><div class="title">What Drives State-Sponsored Violence? Evidence from Extreme Bounds Analysis and Ensemble Learning Methods</div><div class="authors">With Gary Uzonyi</div></div>
+  <div class="cv-pub"><div class="title">Environmental Protection in Weak Party Systems: Evidence from Brazil</div><div class="authors">With Umberto Mignozzetti &middot; In preparation</div></div>
+  <div class="cv-pub"><div class="title">Natural Disasters and Identity Reconstruction Among Syrian Refugees</div><div class="authors">With Hamoon Khelghat-Doost &middot; In preparation</div></div>
 
   <div class="cv-subhead">Book</div>
-  <div class="cv-pub"><div class="title"><span class="year-inline">2020</span><a>Natural Resources and Policy Choices in Latin America</a></div><div class="authors">Edited with Giovanna Fran&ccedil;a and Umberto Mignozzetti</div><div class="venue">S&atilde;o Paulo: Konrad Adenauer Foundation.</div></div>
+  <div class="cv-pub"><div class="title"><span class="year-inline">2020</span><a href="texts/natural_resources_policy_choices_latam.pdf">Natural Resources and Policy Choices in Latin America</a></div><div class="authors">Edited with Giovanna Fran&ccedil;a and Umberto Mignozzetti</div><div class="venue">S&atilde;o Paulo: Konrad Adenauer Foundation.</div></div>
 
   <div class="cv-subhead">Book chapters</div>
-  <div class="cv-pub"><div class="title"><span class="year-inline">2017</span><a>Prison Gangs</a></div><div class="authors">With David Skarbek</div><div class="venue">In: Griffin &amp; Woodward (eds.). Handbook of Corrections in the United States. London: Routledge, 399&ndash;408.</div></div>
-  <div class="cv-pub"><div class="title"><span class="year-inline">2010</span><a>A Nova Gest&atilde;o P&uacute;blica e a Qualidade da Democracia</a></div><div class="authors">Danilo Freire</div><div class="venue">In: Erkens (ed.). Nova Gest&atilde;o P&uacute;blica. S&atilde;o Paulo: Instituto Friedrich Naumann, 9&ndash;15.</div></div>
+  <div class="cv-pub"><div class="title"><span class="year-inline">2017</span><a href="https://doi.org/10.4324/9781315645179-37">Prison Gangs</a></div><div class="authors">With David Skarbek</div><div class="venue">In: Griffin &amp; Woodward (eds.). Handbook of Corrections in the United States. London: Routledge, 399&ndash;408.</div></div>
+  <div class="cv-pub"><div class="title"><span class="year-inline">2010</span><a href="https://fnst.org/sites/default/files/uploads/2017/12/08/ngp.pdf">A Nova Gest&atilde;o P&uacute;blica e a Qualidade da Democracia</a></div><div class="authors">Danilo Freire</div><div class="venue">In: Erkens (ed.). Nova Gest&atilde;o P&uacute;blica. S&atilde;o Paulo: Instituto Friedrich Naumann, 9&ndash;15.</div></div>
 
   <div class="cv-subhead">Other publications</div>
-  <div class="cv-pub"><div class="title"><span class="year-inline">2019</span><a>Geopolitics of Renewable Energies in Latin America: A Survey</a></div><div class="authors">With Umberto Mignozzetti</div><div class="venue">Policy Report, Konrad Adenauer Stiftung.</div></div>
-  <div class="cv-pub"><div class="title"><span class="year-inline">2015</span><a>Peering at Open Peer Review</a></div><div class="authors">Danilo Freire</div><div class="venue">The Political Methodologist, 23(1), 6&ndash;11.</div></div>
-  <div class="cv-pub"><div class="title"><span class="year-inline">2015</span><a>Book Review: Causal Inference, Shaolin-Style &mdash; &ldquo;Mastering Metrics&rdquo; by Angrist &amp; Pischke</a></div><div class="authors">Danilo Freire</div><div class="venue">Brazilian Political Science Review, 9(3), 178&ndash;185.</div></div>
-  <div class="cv-pub"><div class="title"><span class="year-inline">2014</span><a>Entering the Underworld: Prison Gang Recruitment in S&atilde;o Paulo&rsquo;s Primeiro Comando da Capital</a></div><div class="authors">Danilo Freire</div><div class="venue">MA Thesis, The Graduate Institute Geneva.</div></div>
-  <div class="cv-pub"><div class="title"><span class="year-inline">2013</span><a>Book Review: &ldquo;Why Nations Fail&rdquo; by Acemoglu &amp; Robinson</a></div><div class="authors">Danilo Freire</div><div class="venue">Meridiano47, 14(135).</div></div>
-  <div class="cv-pub"><div class="title"><span class="year-inline">2011</span><a>Entre Urnas e Armas: A Competitividade do Executivo e as Guerras Civis, 1976&ndash;2000</a></div><div class="authors">Danilo Freire</div><div class="venue">MA Thesis, University of S&atilde;o Paulo, 204p.</div></div>
+  <div class="cv-pub"><div class="title"><span class="year-inline">2019</span><a href="texts/geopolitics-renewables-latam.pdf">Geopolitics of Renewable Energies in Latin America: A Survey</a></div><div class="authors">With Umberto Mignozzetti</div><div class="venue">Policy Report, Konrad Adenauer Stiftung.</div></div>
+  <div class="cv-pub"><div class="title"><span class="year-inline">2015</span><a href="texts/tpm_v23_n1.pdf">Peering at Open Peer Review</a></div><div class="authors">Danilo Freire</div><div class="venue">The Political Methodologist, 23(1), 6&ndash;11.</div></div>
+  <div class="cv-pub"><div class="title"><span class="year-inline">2015</span><a href="https://doi.org/10.1590/1981-38212015000300026">Book Review: Causal Inference, Shaolin-Style &mdash; &ldquo;Mastering Metrics&rdquo; by Angrist &amp; Pischke</a></div><div class="authors">Danilo Freire</div><div class="venue">Brazilian Political Science Review, 9(3), 178&ndash;185.</div></div>
+  <div class="cv-pub"><div class="title"><span class="year-inline">2014</span><a href="https://doi.org/10.6084/m9.figshare.1209203">Entering the Underworld: Prison Gang Recruitment in S&atilde;o Paulo&rsquo;s Primeiro Comando da Capital</a></div><div class="authors">Danilo Freire</div><div class="venue">MA Thesis, The Graduate Institute Geneva.</div></div>
+  <div class="cv-pub"><div class="title"><span class="year-inline">2013</span>Book Review: &ldquo;Why Nations Fail&rdquo; by Acemoglu &amp; Robinson</div><div class="authors">Danilo Freire</div><div class="venue">Meridiano47, 14(135).</div></div>
+  <div class="cv-pub"><div class="title"><span class="year-inline">2011</span><a href="https://doi.org/10.6084/m9.figshare.963082">Entre Urnas e Armas: A Competitividade do Executivo e as Guerras Civis, 1976&ndash;2000</a></div><div class="authors">Danilo Freire</div><div class="venue">MA Thesis, University of S&atilde;o Paulo, 204p.</div></div>
 </div>
 
 <div class="cv-section">
