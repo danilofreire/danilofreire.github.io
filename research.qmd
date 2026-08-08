@@ -9,7 +9,7 @@ I study political violence, public policy, organised crime, and collective actio
 ::: {.anchor-strip}
 
 [Jump to]{.label}
-[Articles](#articles){.active} [·]{.sep}
+[Articles](#articles) [·]{.sep}
 [Working papers](#working-papers) [·]{.sep}
 [Book](#book) [·]{.sep}
 [Chapters](#book-chapters) [·]{.sep}
@@ -130,11 +130,11 @@ Research & Politics, 10(1), 1--8
 
 :::: {.pub-card}
 
-[2021]{.year-badge}
+[2023]{.year-badge}
 
 ::: {.pub-title}
 
-[The Effect of Legislature Size on Distributive Politics: A Meta-Analysis](https://doi.org/10.1017/S0007123422000552)
+[The Effect of Legislature Size on Public Spending: A Meta-Analysis](https://doi.org/10.1017/S0007123422000552)
 
 :::
 ::: {.pub-authors}
@@ -144,7 +144,7 @@ With Umberto Mignozzetti, Catarina Roman, and Huzeyfe Alptekin
 :::
 ::: {.pub-venue}
 
-British Journal of Political Science
+British Journal of Political Science, 53(2), 776--788
 
 :::
 ::: {.pub-links}
@@ -714,3 +714,28 @@ MA Thesis in Political Science, University of São Paulo, 2011
 :::
 
 ::::
+
+```{=html}
+<script>
+// Scrollspy for the anchor strip: highlight the section currently in view.
+(function () {
+  var strip = document.querySelector('.anchor-strip');
+  if (!strip) return;
+  var links = Array.prototype.slice.call(strip.querySelectorAll('a[href^="#"]'));
+  var sections = links.map(function (a) {
+    return document.getElementById(decodeURIComponent(a.getAttribute('href').slice(1)));
+  });
+  function update() {
+    var offset = strip.getBoundingClientRect().bottom + 10;
+    var current = 0;
+    for (var i = 0; i < sections.length; i++) {
+      if (sections[i] && sections[i].getBoundingClientRect().top <= offset) current = i;
+    }
+    links.forEach(function (a, i) { a.classList.toggle('active', i === current); });
+  }
+  window.addEventListener('scroll', update, { passive: true });
+  window.addEventListener('resize', update, { passive: true });
+  update();
+})();
+</script>
+```

@@ -329,6 +329,39 @@ h3 { font-size: 1.2rem; margin: 1.6em 0 0.5em; }
 }
 .pub-card .pub-links a.primary:hover { background: var(--navy); }
 
+// ══════════════════════════════════════════════════════════ Research: highlights
+
+.highlights-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.highlight-card {
+  background: var(--card-bg);
+  border: 1px solid var(--taupe);
+  border-radius: var(--radius);
+  padding: 1.35rem 1.5rem;
+  box-shadow: var(--card-shadow);
+}
+.highlight-card h3 {
+  font-size: 1.05rem;
+  margin: 0 0 0.7rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--taupe);
+}
+.highlight-card ul {
+  margin: 0;
+  padding-left: 1.1rem;
+}
+.highlight-card li {
+  font-size: 0.92rem;
+  color: var(--dark);
+  margin-bottom: 0.4rem;
+}
+.highlight-card li:last-child { margin-bottom: 0; }
+
 // ══════════════════════════════════════════════════════════ Teaching
 
 .teach-entry {
@@ -672,6 +705,7 @@ body.home-page .back-to-top { display: none; }
   .home-hero { grid-template-columns: 1fr; gap: 1.5rem; }
   .home-hero .profile-img { width: 150px; height: 150px; }
   .wayfind-grid { grid-template-columns: 1fr; }
+  .highlights-grid { grid-template-columns: 1fr; }
   .anchor-strip { flex-wrap: wrap; margin: 1rem -0.5rem 1.5rem; padding: 0.7rem 1rem; }
   .software-card { grid-template-columns: 1fr; }
 }
