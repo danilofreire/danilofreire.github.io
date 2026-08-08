@@ -55,7 +55,7 @@ Courses in experimental methods, data science, and AI for the social sciences, w
 ::: {.teach-body}
 ::: {.teach-title}
 
-[DATASCI 185 -- Introduction to AI Applications](https://danilofreire.github.io/datasci185/) [Emory]{.institution-badge .ib-emory}
+[DATASCI 101 -- Introduction to AI Applications](https://danilofreire.github.io/datasci101/) [Emory]{.institution-badge .ib-emory}
 
 :::
 

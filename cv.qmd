@@ -143,7 +143,7 @@ title: "Curriculum Vitae"
   <div class="cv-subhead">Emory University</div>
   <div class="cv-row"><span class="when">2024&ndash;present</span><span class="what"><b>DATASCI 385</b> &mdash; Experimental Methods <span class="detail">Undergraduate</span></span></div>
   <div class="cv-row"><span class="when">2024&ndash;present</span><span class="what"><b>DATASCI 350</b> &mdash; Data Science Computing <span class="detail">Undergraduate/Graduate</span></span></div>
-  <div class="cv-row"><span class="when">2025&ndash;present</span><span class="what"><b>DATASCI 185</b> &mdash; Introduction to AI Applications <span class="detail">Undergraduate</span></span></div>
+  <div class="cv-row"><span class="when">2025&ndash;present</span><span class="what"><b>DATASCI 101</b> &mdash; Introduction to AI Applications <span class="detail">Undergraduate</span></span></div>
   <div class="cv-row"><span class="when">2024&ndash;present</span><span class="what"><b>DATASCI 151</b> &mdash; Introduction to Statistical Computing II <span class="detail">Undergraduate</span></span></div>
 
   <div class="cv-subhead">Workshops</div>
