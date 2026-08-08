@@ -23,22 +23,6 @@ Courses in experimental methods, data science, and AI for the social sciences, w
 ::: {.teach-body}
 ::: {.teach-title}
 
-[DATASCI 385 -- Experimental Methods](https://danilofreire.github.io/datasci385/) [Emory]{.institution-badge .ib-emory}
-
-:::
-
-[2024 to present. How to design and analyse experiments in the social sciences. We cover randomisation, power analysis, and causal inference, with worked examples in R.]{.teach-desc}
-
-:::
-::::
-
-:::: {.teach-entry}
-
-[]{.level-dot .both}
-
-::: {.teach-body}
-::: {.teach-title}
-
 [DATASCI 350 -- Data Science Computing](https://danilofreire.github.io/datasci350/) [Emory]{.institution-badge .ib-emory}
 
 :::
@@ -60,6 +44,22 @@ Courses in experimental methods, data science, and AI for the social sciences, w
 :::
 
 [2025 to present. An introduction to AI for undergraduates. We look at how large language models work, how to write effective prompts, and how to think about ethics, bias, policy, and governance.]{.teach-desc}
+
+:::
+::::
+
+:::: {.teach-entry}
+
+[]{.level-dot .undergrad}
+
+::: {.teach-body}
+::: {.teach-title}
+
+[DATASCI 385 -- Experimental Methods](https://danilofreire.github.io/datasci385/) [Emory]{.institution-badge .ib-emory}
+
+:::
+
+[2024 to present. How to design and analyse experiments in the social sciences. We cover randomisation, power analysis, and causal inference, with worked examples in R.]{.teach-desc}
 
 :::
 ::::
